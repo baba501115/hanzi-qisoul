@@ -1,0 +1,6927 @@
+[
+  {
+    "id": "zhong",
+    "hanzi": "中",
+    "pinyin": "zhong",
+    "tone": "zhōng",
+    "meaning": "middle / China",
+    "example": "I study Chinese in the city center. 我在市中心学中文。",
+    "strokeHint": [
+      "vertical center line",
+      "outer frame",
+      "close the box",
+      "middle stroke"
+    ],
+    "mnemonic": "The box cuts the middle — 中 sits right in the middle."
+  },
+  {
+    "id": "wen",
+    "hanzi": "文",
+    "pinyin": "wen",
+    "tone": "wén",
+    "meaning": "language / text",
+    "example": "Chinese writing looks beautiful. 中文看起来很美。",
+    "strokeHint": [
+      "top dot",
+      "crossing stroke",
+      "left sweep",
+      "right sweep"
+    ],
+    "mnemonic": "A top dot over crossed lines — language, writing, pattern."
+  },
+  {
+    "id": "ren",
+    "hanzi": "人",
+    "pinyin": "ren",
+    "tone": "rén",
+    "meaning": "person",
+    "example": "One person learns one new character. 一个人学一个新字。",
+    "strokeHint": [
+      "left falling stroke",
+      "right falling stroke"
+    ],
+    "mnemonic": "Two legs walking — 人 is a person."
+  },
+  {
+    "id": "ri",
+    "hanzi": "日",
+    "pinyin": "ri",
+    "tone": "rì",
+    "meaning": "sun / day",
+    "example": "A new day starts with one character. 新的一天从一个汉字开始。",
+    "strokeHint": [
+      "top edge",
+      "left wall",
+      "middle line",
+      "close the frame"
+    ],
+    "mnemonic": "The sun is a square with one bright line — 日."
+  },
+  {
+    "id": "yue",
+    "hanzi": "月",
+    "pinyin": "yue",
+    "tone": "yuè",
+    "meaning": "moon / month",
+    "example": "The moon gives soft light. 月亮有柔和的光。",
+    "strokeHint": [
+      "left curve",
+      "top line",
+      "inner marks",
+      "bottom close"
+    ],
+    "mnemonic": "A tall moon with two soft lines — 月."
+  },
+  {
+    "id": "shan",
+    "hanzi": "山",
+    "pinyin": "shan",
+    "tone": "shān",
+    "meaning": "mountain",
+    "example": "The mountain is calm and high. 山很安静，也很高。",
+    "strokeHint": [
+      "left vertical",
+      "center tall line",
+      "right vertical"
+    ],
+    "mnemonic": "Three peaks with the middle one tallest — 山."
+  },
+  {
+    "id": "shui",
+    "hanzi": "水",
+    "pinyin": "shui",
+    "tone": "shuǐ",
+    "meaning": "water",
+    "example": "Water is clear and simple. 水很清，也很简单。",
+    "strokeHint": [
+      "center line",
+      "left dot",
+      "left sweep",
+      "right dot"
+    ],
+    "mnemonic": "A flowing center with splashes on both sides — 水."
+  },
+  {
+    "id": "huo",
+    "hanzi": "火",
+    "pinyin": "huo",
+    "tone": "huǒ",
+    "meaning": "fire",
+    "example": "The fire light feels warm. 火光很温暖。",
+    "strokeHint": [
+      "top dots",
+      "left falling stroke",
+      "right falling stroke"
+    ],
+    "mnemonic": "Two sparks over a rising flame — 火."
+  },
+  {
+    "id": "xin",
+    "hanzi": "心",
+    "pinyin": "xin",
+    "tone": "xīn",
+    "meaning": "heart",
+    "example": "Learn slowly and keep your heart light. 慢慢学，心会更轻松。",
+    "strokeHint": [
+      "left point",
+      "hook stroke",
+      "center dot",
+      "right dot"
+    ],
+    "mnemonic": "Three points resting on a curved heart — 心."
+  },
+  {
+    "id": "xue",
+    "hanzi": "学",
+    "pinyin": "xue",
+    "tone": "xué",
+    "meaning": "study / learn",
+    "example": "We learn one new thing every day. 我们每天学一点。",
+    "strokeHint": [
+      "top cover",
+      "small dots",
+      "child component below"
+    ],
+    "mnemonic": "A small child under a roof — 学 means study."
+  },
+  {
+    "id": "xi",
+    "hanzi": "习",
+    "pinyin": "xi",
+    "tone": "xí",
+    "meaning": "practice",
+    "example": "Practice makes Chinese easier. 练习让中文更容易。",
+    "strokeHint": [
+      "hooked top stroke",
+      "wing stroke below"
+    ],
+    "mnemonic": "Two wings, one hook — 习 means practice."
+  },
+  {
+    "id": "hao",
+    "hanzi": "好",
+    "pinyin": "hao",
+    "tone": "hǎo",
+    "meaning": "good",
+    "example": "A good start is one small win. 好的开始很重要。",
+    "strokeHint": [
+      "woman radical left",
+      "child component right"
+    ],
+    "mnemonic": "A mother beside a child — 好 means good."
+  },
+  {
+    "id": "you",
+    "hanzi": "友",
+    "pinyin": "you",
+    "tone": "yǒu",
+    "meaning": "friend",
+    "example": "A friend studying with you feels close. 有朋友一起学，很开心。",
+    "strokeHint": [
+      "top stroke",
+      "crossing bend",
+      "supporting stroke"
+    ],
+    "mnemonic": "Two hands reaching the same direction — 友."
+  },
+  {
+    "id": "tian",
+    "hanzi": "天",
+    "pinyin": "tian",
+    "tone": "tiān",
+    "meaning": "sky / day",
+    "example": "The sky feels open and bright. 天空很开阔。",
+    "strokeHint": [
+      "top line",
+      "middle line",
+      "left sweep",
+      "right sweep"
+    ],
+    "mnemonic": "A wide line above a person — 天 is the sky."
+  },
+  {
+    "id": "xia",
+    "hanzi": "下",
+    "pinyin": "xia",
+    "tone": "xià",
+    "meaning": "down / below",
+    "example": "The light falls down softly. 灯光轻轻落下。",
+    "strokeHint": [
+      "top line",
+      "vertical line",
+      "small dot"
+    ],
+    "mnemonic": "A marker points down from the line — 下."
+  },
+  {
+    "id": "tong",
+    "hanzi": "同",
+    "pinyin": "tong",
+    "tone": "tóng",
+    "meaning": "same / together",
+    "example": "People in many cities study the same character. 很多城市的人学同一个字。",
+    "strokeHint": [
+      "outer frame",
+      "inner mouth",
+      "close below"
+    ],
+    "mnemonic": "A shared frame with one mouth inside — 同."
+  },
+  {
+    "id": "guang",
+    "hanzi": "光",
+    "pinyin": "guang",
+    "tone": "guāng",
+    "meaning": "light",
+    "example": "Each new character becomes a warm light. 每个新字都会变成暖光。",
+    "strokeHint": [
+      "top flare",
+      "center stroke",
+      "two falling strokes"
+    ],
+    "mnemonic": "A spark over a person-shaped base — 光 is light."
+  },
+  {
+    "id": "ping",
+    "hanzi": "平",
+    "pinyin": "ping",
+    "tone": "píng",
+    "meaning": "peace / flat",
+    "example": "A calm pace feels peaceful. 平静的节奏更容易坚持。",
+    "strokeHint": [
+      "top line",
+      "center line",
+      "left dot",
+      "right point"
+    ],
+    "mnemonic": "Two steady lines with balance marks — 平 is flat peace."
+  },
+  {
+    "id": "an",
+    "hanzi": "安",
+    "pinyin": "an",
+    "tone": "ān",
+    "meaning": "peace / safe",
+    "example": "A safe, calm lesson lowers the pressure. 安心学，更容易坚持。",
+    "strokeHint": [
+      "roof radical",
+      "woman component below"
+    ],
+    "mnemonic": "A woman safe under a roof — 安 is peace."
+  },
+  {
+    "id": "tai",
+    "hanzi": "太",
+    "pinyin": "tai",
+    "tone": "tài",
+    "meaning": "too / very",
+    "example": "Chinese does not have to feel too hard. 学中文不用太难。",
+    "strokeHint": [
+      "big component",
+      "small dot below"
+    ],
+    "mnemonic": "Big 大 with one extra dot — 太 means very."
+  },
+  {
+    "id": "da",
+    "hanzi": "大",
+    "pinyin": "da",
+    "tone": "dà",
+    "meaning": "big / large",
+    "example": "A big, clear character is easier to remember. 大而清晰的字更容易记。",
+    "strokeHint": [
+      "top line",
+      "left sweep",
+      "right sweep"
+    ],
+    "mnemonic": "A person with arms wide open — 大 means big."
+  },
+  {
+    "id": "xiao",
+    "hanzi": "小",
+    "pinyin": "xiao",
+    "tone": "xiǎo",
+    "meaning": "small / little",
+    "example": "Start with one small step. 从一个小的开始。",
+    "strokeHint": [
+      "center hook",
+      "left dot",
+      "right dot"
+    ],
+    "mnemonic": "Small drops around a tiny center — 小."
+  },
+  {
+    "id": "shang",
+    "hanzi": "上",
+    "pinyin": "shang",
+    "tone": "shàng",
+    "meaning": "up / above",
+    "example": "Look up and see the light. 向上看，看到光。",
+    "strokeHint": [
+      "vertical line",
+      "bottom line",
+      "top short line"
+    ],
+    "mnemonic": "A line pointing upward — 上."
+  },
+  {
+    "id": "kou",
+    "hanzi": "口",
+    "pinyin": "kou",
+    "tone": "kǒu",
+    "meaning": "mouth / opening",
+    "example": "Open your mouth and say the sound. 张开嘴说这个音。",
+    "strokeHint": [
+      "left wall",
+      "top line",
+      "right wall",
+      "bottom close"
+    ],
+    "mnemonic": "An open square — 口 is a mouth."
+  },
+  {
+    "id": "er",
+    "hanzi": "儿",
+    "pinyin": "er",
+    "tone": "ér",
+    "meaning": "child / son",
+    "example": "The child part appears in many characters. 儿这个部件常出现在字里。",
+    "strokeHint": [
+      "left falling stroke",
+      "hooked vertical stroke"
+    ],
+    "mnemonic": "A small child with one leg bent — 儿."
+  },
+  {
+    "id": "zi",
+    "hanzi": "子",
+    "pinyin": "zi",
+    "tone": "zǐ",
+    "meaning": "child / seed",
+    "example": "A small seed grows into a word. 小小的种子会变成一个词。",
+    "strokeHint": [
+      "top hook",
+      "horizontal stroke",
+      "vertical hook"
+    ],
+    "mnemonic": "A child shape with a small head — 子."
+  },
+  {
+    "id": "nv",
+    "hanzi": "女",
+    "pinyin": "nv",
+    "tone": "nǚ",
+    "meaning": "woman / female",
+    "example": "The woman radical appears in many warm words. 女字旁出现在很多温暖的字里。",
+    "strokeHint": [
+      "left sweep",
+      "crossing stroke",
+      "right sweep"
+    ],
+    "mnemonic": "A person sitting gracefully — 女."
+  },
+  {
+    "id": "nan",
+    "hanzi": "男",
+    "pinyin": "nan",
+    "tone": "nán",
+    "meaning": "man / male",
+    "example": "Field plus strength forms the word for man. 田和力组成男。",
+    "strokeHint": [
+      "field radical",
+      "strength component"
+    ],
+    "mnemonic": "A strong worker in the field — 男."
+  },
+  {
+    "id": "ma",
+    "hanzi": "马",
+    "pinyin": "ma",
+    "tone": "mǎ",
+    "meaning": "horse",
+    "example": "The horse is fast and free. 马很快，也很自由。",
+    "strokeHint": [
+      "top stroke",
+      "left stroke",
+      "bottom hook"
+    ],
+    "mnemonic": "A horse with a flowing tail — 马."
+  },
+  {
+    "id": "niu",
+    "hanzi": "牛",
+    "pinyin": "niu",
+    "tone": "niú",
+    "meaning": "cow / ox",
+    "example": "The cow is strong and calm. 牛很强壮，也很安静。",
+    "strokeHint": [
+      "top short line",
+      "vertical line",
+      "crossing line"
+    ],
+    "mnemonic": "Two strong horns above a body — 牛."
+  },
+  {
+    "id": "yang",
+    "hanzi": "羊",
+    "pinyin": "yang",
+    "tone": "yáng",
+    "meaning": "sheep / goat",
+    "example": "The sheep is gentle and soft. 羊很温柔。",
+    "strokeHint": [
+      "two dots",
+      "three horizontal lines",
+      "vertical line"
+    ],
+    "mnemonic": "Two little horns over a gentle face — 羊."
+  },
+  {
+    "id": "yu",
+    "hanzi": "鱼",
+    "pinyin": "yu",
+    "tone": "yú",
+    "meaning": "fish",
+    "example": "Fish live in clear water. 鱼生活在清水里。",
+    "strokeHint": [
+      "top hook",
+      "middle field",
+      "bottom line"
+    ],
+    "mnemonic": "A fish with tail and scales — 鱼."
+  },
+  {
+    "id": "niao",
+    "hanzi": "鸟",
+    "pinyin": "niao",
+    "tone": "niǎo",
+    "meaning": "bird",
+    "example": "The bird flies into the sky. 鸟飞向天空。",
+    "strokeHint": [
+      "small dot",
+      "head",
+      "wings",
+      "tail"
+    ],
+    "mnemonic": "A bird with a small head and wings — 鸟."
+  },
+  {
+    "id": "mu",
+    "hanzi": "木",
+    "pinyin": "mu",
+    "tone": "mù",
+    "meaning": "tree / wood",
+    "example": "The tree grows slowly and calmly. 树慢慢安静地生长。",
+    "strokeHint": [
+      "horizontal line",
+      "vertical line",
+      "left sweep",
+      "right sweep"
+    ],
+    "mnemonic": "A tree trunk with branches — 木."
+  },
+  {
+    "id": "lin",
+    "hanzi": "林",
+    "pinyin": "lin",
+    "tone": "lín",
+    "meaning": "forest",
+    "example": "Two trees make a small forest. 两棵树组成小树林。",
+    "strokeHint": [
+      "two tree components side by side"
+    ],
+    "mnemonic": "Two trees standing together — 林."
+  },
+  {
+    "id": "sen",
+    "hanzi": "森",
+    "pinyin": "sen",
+    "tone": "sēn",
+    "meaning": "deep forest",
+    "example": "Three trees make a deep forest. 三棵树组成大森林。",
+    "strokeHint": [
+      "three tree components"
+    ],
+    "mnemonic": "Three trees make a deep forest — 森."
+  },
+  {
+    "id": "tian2",
+    "hanzi": "田",
+    "pinyin": "tian",
+    "tone": "tián",
+    "meaning": "field / farmland",
+    "example": "The field gives food and space. 田地给我们食物和空间。",
+    "strokeHint": [
+      "outer frame",
+      "vertical line",
+      "horizontal line"
+    ],
+    "mnemonic": "A square field divided into plots — 田."
+  },
+  {
+    "id": "li",
+    "hanzi": "力",
+    "pinyin": "li",
+    "tone": "lì",
+    "meaning": "strength / power",
+    "example": "A little strength every day adds up. 每天一点力气会累积。",
+    "strokeHint": [
+      "hooked stroke",
+      "diagonal sweep"
+    ],
+    "mnemonic": "A bent arm pushing forward — 力."
+  },
+  {
+    "id": "he",
+    "hanzi": "禾",
+    "pinyin": "he",
+    "tone": "hé",
+    "meaning": "grain / cereal",
+    "example": "Grain grows toward the light. 禾苗向光生长。",
+    "strokeHint": [
+      "top stroke",
+      "vertical line",
+      "left sweep",
+      "right sweep"
+    ],
+    "mnemonic": "A grain plant with a falling head — 禾."
+  },
+  {
+    "id": "mi",
+    "hanzi": "米",
+    "pinyin": "mi",
+    "tone": "mǐ",
+    "meaning": "rice",
+    "example": "Rice is a simple daily food. 米是简单的日常食物。",
+    "strokeHint": [
+      "two dots",
+      "crossing strokes"
+    ],
+    "mnemonic": "Grains with small marks — 米."
+  },
+  {
+    "id": "ba",
+    "hanzi": "八",
+    "pinyin": "ba",
+    "tone": "bā",
+    "meaning": "eight",
+    "example": "Eight is two open strokes. 八是两笔打开的笔画。",
+    "strokeHint": [
+      "left falling stroke",
+      "right falling stroke"
+    ],
+    "mnemonic": "Two strokes opening apart — 八."
+  },
+  {
+    "id": "shi",
+    "hanzi": "十",
+    "pinyin": "shi",
+    "tone": "shí",
+    "meaning": "ten",
+    "example": "Ten is a simple crossing line. 十是一条交叉的线。",
+    "strokeHint": [
+      "horizontal line",
+      "vertical line"
+    ],
+    "mnemonic": "One line crossing another — 十."
+  },
+  {
+    "id": "er2",
+    "hanzi": "二",
+    "pinyin": "er",
+    "tone": "èr",
+    "meaning": "two",
+    "example": "Two is calm and balanced. 二是安静而平衡的。",
+    "strokeHint": [
+      "two horizontal lines"
+    ],
+    "mnemonic": "Two steady lines — 二."
+  },
+  {
+    "id": "san",
+    "hanzi": "三",
+    "pinyin": "san",
+    "tone": "sān",
+    "meaning": "three",
+    "example": "Three is a small, complete set. 三是一个小而完整的集合。",
+    "strokeHint": [
+      "three horizontal lines"
+    ],
+    "mnemonic": "Three lines in a stack — 三."
+  },
+  {
+    "id": "si",
+    "hanzi": "四",
+    "pinyin": "si",
+    "tone": "sì",
+    "meaning": "four",
+    "example": "Four corners make a room. 四个角组成一个房间。",
+    "strokeHint": [
+      "outer frame",
+      "inner strokes"
+    ],
+    "mnemonic": "A box with two inner lines — 四."
+  },
+  {
+    "id": "wu",
+    "hanzi": "五",
+    "pinyin": "wu",
+    "tone": "wǔ",
+    "meaning": "five",
+    "example": "Five is a balanced number. 五是一个平衡的数字。",
+    "strokeHint": [
+      "top line",
+      "vertical line",
+      "crossing line"
+    ],
+    "mnemonic": "A hand shape made of five lines — 五."
+  },
+  {
+    "id": "liu",
+    "hanzi": "六",
+    "pinyin": "liu",
+    "tone": "liù",
+    "meaning": "six",
+    "example": "Six is a roof over two strokes. 六像两笔上面的屋顶。",
+    "strokeHint": [
+      "top dot",
+      "roof stroke",
+      "two legs"
+    ],
+    "mnemonic": "A small roof over legs — 六."
+  },
+  {
+    "id": "qi",
+    "hanzi": "七",
+    "pinyin": "qi",
+    "tone": "qī",
+    "meaning": "seven",
+    "example": "Seven is a turning stroke. 七是一笔转折。",
+    "strokeHint": [
+      "horizontal line",
+      "hooked turning stroke"
+    ],
+    "mnemonic": "A line turning down — 七."
+  },
+  {
+    "id": "jiu",
+    "hanzi": "九",
+    "pinyin": "jiu",
+    "tone": "jiǔ",
+    "meaning": "nine",
+    "example": "Nine is a strong curved stroke. 九是一笔有力的弯钩。",
+    "strokeHint": [
+      "left sweep",
+      "hooked curved stroke"
+    ],
+    "mnemonic": "A turning curve — 九."
+  },
+  {
+    "id": "bai",
+    "hanzi": "百",
+    "pinyin": "bai",
+    "tone": "bǎi",
+    "meaning": "hundred",
+    "example": "A hundred small days make a city. 一百个小日子点亮一座城。",
+    "strokeHint": [
+      "top line",
+      "inner white",
+      "close below"
+    ],
+    "mnemonic": "One hundred under one line — 百."
+  },
+  {
+    "id": "qian",
+    "hanzi": "千",
+    "pinyin": "qian",
+    "tone": "qiān",
+    "meaning": "thousand",
+    "example": "A thousand steps start with one. 千里之行始于足下。",
+    "strokeHint": [
+      "left sweep",
+      "horizontal line",
+      "vertical line"
+    ],
+    "mnemonic": "One person under a wide line — 千."
+  },
+  {
+    "id": "wan",
+    "hanzi": "万",
+    "pinyin": "wan",
+    "tone": "wàn",
+    "meaning": "ten thousand / many",
+    "example": "Ten thousand lights feel bright. 万盏灯很明亮。",
+    "strokeHint": [
+      "top line",
+      "hooked stroke"
+    ],
+    "mnemonic": "A sweeping many — 万."
+  },
+  {
+    "id": "you3",
+    "hanzi": "有",
+    "pinyin": "you",
+    "tone": "yǒu",
+    "meaning": "have / there is",
+    "example": "There is a warm light in the city. 城市里有一盏暖灯。",
+    "strokeHint": [
+      "top stroke",
+      "moon-like component"
+    ],
+    "mnemonic": "A hand holding moonlight — 有."
+  },
+  {
+    "id": "wu2",
+    "hanzi": "无",
+    "pinyin": "wu",
+    "tone": "wú",
+    "meaning": "without / not have",
+    "example": "No pressure, no heavy goal. 没有压力，没有沉重目标。",
+    "strokeHint": [
+      "two horizontal lines",
+      "hooked stroke"
+    ],
+    "mnemonic": "A calm empty space — 无."
+  },
+  {
+    "id": "shi2",
+    "hanzi": "是",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "to be / yes",
+    "example": "Today is the day to light one character. 今天是点亮一个字的日子。",
+    "strokeHint": [
+      "sun radical",
+      "foot component"
+    ],
+    "mnemonic": "Sun over a steady foot — 是."
+  },
+  {
+    "id": "bu",
+    "hanzi": "不",
+    "pinyin": "bu",
+    "tone": "bù",
+    "meaning": "not / no",
+    "example": "It does not need to feel hard. 不需要觉得很难。",
+    "strokeHint": [
+      "horizontal line",
+      "vertical line",
+      "falling strokes"
+    ],
+    "mnemonic": "A clear stop mark — 不."
+  },
+  {
+    "id": "le",
+    "hanzi": "了",
+    "pinyin": "le",
+    "tone": "le",
+    "meaning": "completed / now",
+    "example": "I learned it. It is done. 我学会了。",
+    "strokeHint": [
+      "hooked stroke",
+      "small hook"
+    ],
+    "mnemonic": "A small completed mark — 了."
+  },
+  {
+    "id": "de",
+    "hanzi": "的",
+    "pinyin": "de",
+    "tone": "de",
+    "meaning": "of / possessive",
+    "example": "The light of the city feels warm. 城市的光很温暖。",
+    "strokeHint": [
+      "white radical",
+      "spoon component"
+    ],
+    "mnemonic": "A small white mark — 的."
+  },
+  {
+    "id": "he2",
+    "hanzi": "和",
+    "pinyin": "he",
+    "tone": "hé",
+    "meaning": "and / harmony",
+    "example": "Sun and moon share one light. 日和月共享同一道光。",
+    "strokeHint": [
+      "grain radical",
+      "mouth component"
+    ],
+    "mnemonic": "Grain and mouth together — 和."
+  },
+  {
+    "id": "guo",
+    "hanzi": "国",
+    "pinyin": "guo",
+    "tone": "guó",
+    "meaning": "country / nation",
+    "example": "One city belongs to a wider country. 一座城市属于更大的国家。",
+    "strokeHint": [
+      "outer frame",
+      "jade component",
+      "close frame"
+    ],
+    "mnemonic": "A border around jade — 国."
+  },
+  {
+    "id": "yi",
+    "hanzi": "一",
+    "pinyin": "yi",
+    "tone": "yī",
+    "meaning": "one",
+    "example": "One character a day. 每天一个字。",
+    "strokeHint": [
+      "one horizontal line"
+    ],
+    "mnemonic": "One simple line — 一."
+  },
+  {
+    "id": "mei",
+    "hanzi": "美",
+    "pinyin": "mei",
+    "tone": "měi",
+    "meaning": "beautiful",
+    "example": "Beautiful writing is easy to love. 美丽的文字让人喜欢。",
+    "strokeHint": [
+      "top strokes",
+      "big component",
+      "base line"
+    ],
+    "mnemonic": "A beautiful sheep-like form — 美."
+  },
+  {
+    "id": "li2",
+    "hanzi": "丽",
+    "pinyin": "li",
+    "tone": "lì",
+    "meaning": "beautiful",
+    "example": "Beautiful light fills the room. 美丽的光充满房间。",
+    "strokeHint": [
+      "two parts side by side"
+    ],
+    "mnemonic": "Two balanced forms together — 丽."
+  },
+  {
+    "id": "jia",
+    "hanzi": "家",
+    "pinyin": "jia",
+    "tone": "jiā",
+    "meaning": "home / family",
+    "example": "Home is where the light stays. 家是灯光停留的地方。",
+    "strokeHint": [
+      "roof radical",
+      "pig component"
+    ],
+    "mnemonic": "A roof over a small home — 家."
+  },
+  {
+    "id": "zheng",
+    "hanzi": "正",
+    "pinyin": "zheng",
+    "tone": "zhèng",
+    "meaning": "correct / upright",
+    "example": "Stand upright and learn clearly. 站正，学得清楚。",
+    "strokeHint": [
+      "top line",
+      "vertical line",
+      "stop line"
+    ],
+    "mnemonic": "A straight, upright mark — 正."
+  },
+  {
+    "id": "min",
+    "hanzi": "民",
+    "pinyin": "min",
+    "tone": "mín",
+    "meaning": "people / citizens",
+    "example": "Many people make a city glow. 许多人让城市发光。",
+    "strokeHint": [
+      "top stroke",
+      "eye-like form",
+      "base"
+    ],
+    "mnemonic": "A person rooted in the land — 民."
+  },
+  {
+    "id": "gao",
+    "hanzi": "高",
+    "pinyin": "gao",
+    "tone": "gāo",
+    "meaning": "tall / high",
+    "example": "A tall mountain touches the sky. 高山触碰天空。",
+    "strokeHint": [
+      "top dot",
+      "platform form",
+      "two boxes"
+    ],
+    "mnemonic": "A tall building reaching up — 高."
+  },
+  {
+    "id": "zai",
+    "hanzi": "在",
+    "pinyin": "zai",
+    "tone": "zài",
+    "meaning": "at, in, on / to exist / used to indicate the present progressive tense",
+    "example": "She is practicing Chinese in the study room. 她在书房里练习中文。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿸才土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person standing by the earth — 在 means to be somewhere."
+  },
+  {
+    "id": "wo",
+    "hanzi": "我",
+    "pinyin": "wo",
+    "tone": "wǒ",
+    "meaning": "I, me, my / our, us",
+    "example": "I light one character for myself today. 我今天为自己点亮一个字。",
+    "strokeHint": [
+      "radical: 戈",
+      "structure: ⿰扌戈",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand holding a small weapon — 我 shows a self that acts."
+  },
+  {
+    "id": "ta",
+    "hanzi": "他",
+    "pinyin": "ta",
+    "tone": "tā",
+    "meaning": "other, another / he, she, it",
+    "example": "He learns one new character with me. 他和我一起学一个新字。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻也",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside “also” — 他 is another person."
+  },
+  {
+    "id": "zhe",
+    "hanzi": "这",
+    "pinyin": "zhe",
+    "tone": "zhè",
+    "meaning": "this, these / such / here",
+    "example": "This character glows softly tonight. 这个字今晚发出柔和的光。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶文",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A journey mark under a shape — 这 points to something here."
+  },
+  {
+    "id": "ge",
+    "hanzi": "个",
+    "pinyin": "ge",
+    "tone": "gè",
+    "meaning": "this, that / single / measure word for individuals",
+    "example": "One small character is a single step. 一个小小的字就是一步。",
+    "strokeHint": [
+      "radical: 丨",
+      "structure: ⿱人丨",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tally line between two people — 个 counts one thing."
+  },
+  {
+    "id": "men",
+    "hanzi": "们",
+    "pinyin": "men",
+    "tone": "men",
+    "meaning": "plural marker for pronouns and some nouns",
+    "example": "We learn together and become a warm group. 我们一起学习，成为温暖的一群。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻门",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person at the gate of a group — 们 makes a plural."
+  },
+  {
+    "id": "lai",
+    "hanzi": "来",
+    "pinyin": "lai",
+    "tone": "lái",
+    "meaning": "to arrive, to come, to return / in the future, later on",
+    "example": "Come and light your city today. 今天来点亮你的城市。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿻未丷",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A plant rising toward two drops — 来 means to come."
+  },
+  {
+    "id": "wei",
+    "hanzi": "为",
+    "pinyin": "wei",
+    "tone": "wèi",
+    "meaning": "to do, to act / to handle, to govern / to be",
+    "example": "I learn for the joy of knowing one word. 我为认识一个字而学习。",
+    "strokeHint": [
+      "radical: 丶",
+      "structure: ⿻丶⿴力丶",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand doing work under a roof — 为 means to act for something."
+  },
+  {
+    "id": "de5",
+    "hanzi": "地",
+    "pinyin": "de",
+    "tone": "de",
+    "meaning": "earth, ground, soil / land, region / structural particle used before a verb",
+    "example": "The seed rests in the soft earth. 种子在柔软的土地里。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿰土也",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Earth beside the character “also” — 地 is the ground."
+  },
+  {
+    "id": "dao",
+    "hanzi": "到",
+    "pinyin": "dao",
+    "tone": "dào",
+    "meaning": "to go to, to arrive",
+    "example": "A small light arrives at the city. 一道小小的光到达城市。",
+    "strokeHint": [
+      "radical: 刂",
+      "structure: ⿰至刂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand reaching a roof and blade — 到 means to arrive."
+  },
+  {
+    "id": "yi5",
+    "hanzi": "以",
+    "pinyin": "yi",
+    "tone": "yǐ",
+    "meaning": "according to / so as to / because of / then",
+    "example": "We learn one word to open a new door. 我们学一个字，用来打开一扇新门。",
+    "strokeHint": [
+      "radical: 人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person holding a tool — 以 means to use or by means of."
+  },
+  {
+    "id": "shuo",
+    "hanzi": "说",
+    "pinyin": "shuo",
+    "tone": "shuō",
+    "meaning": "to speak, to say / to scold, to upbraid",
+    "example": "She says the character slowly and clearly. 她慢慢、清楚地说出这个字。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠兑",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Speech at the left, a mouth of words — 说 means to speak."
+  },
+  {
+    "id": "shi5",
+    "hanzi": "时",
+    "pinyin": "shi",
+    "tone": "shí",
+    "meaning": "time, season / period, era, age",
+    "example": "One quiet hour is enough to learn a word. 安静的一小时足够学一个字。",
+    "strokeHint": [
+      "radical: 日",
+      "structure: ⿰日寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Sun beside a measure — 时 is time."
+  },
+  {
+    "id": "yao",
+    "hanzi": "要",
+    "pinyin": "yao",
+    "tone": "yào",
+    "meaning": "essential, necessary / to ask for / to coerce / to demand",
+    "example": "I want to keep my daily light unbroken. 我想要保持每日的光不中断。",
+    "strokeHint": [
+      "radical: 覀",
+      "structure: ⿱覀女",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A woman with her hands at her waist — 要 means to want or need."
+  },
+  {
+    "id": "jiu5",
+    "hanzi": "就",
+    "pinyin": "jiu",
+    "tone": "jiù",
+    "meaning": "just, simply / to go to / to approach, near",
+    "example": "Just one word today is already a win. 今天只学一个字就已经是胜利。",
+    "strokeHint": [
+      "radical: 尢",
+      "structure: ⿰京尤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A small step toward a city — 就 means just or then."
+  },
+  {
+    "id": "chu",
+    "hanzi": "出",
+    "pinyin": "chu",
+    "tone": "chū",
+    "meaning": "to go out, to send out / stand / produce",
+    "example": "The light comes out after the lesson. 学习之后，光出来了。",
+    "strokeHint": [
+      "radical: 凵",
+      "structure: ⿱屮凵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sprout pushing out of a container — 出 means to go out."
+  },
+  {
+    "id": "hui",
+    "hanzi": "会",
+    "pinyin": "hui",
+    "tone": "huì",
+    "meaning": "to assemble, to meet / meeting / association, group",
+    "example": "We will meet the same word tomorrow. 我们明天会再见到同一个字。",
+    "strokeHint": [
+      "radical: 人",
+      "structure: ⿱人云",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "People speaking under a cloud — 会 means to meet or be able."
+  },
+  {
+    "id": "ke",
+    "hanzi": "可",
+    "pinyin": "ke",
+    "tone": "kě",
+    "meaning": "may, can, -able / possibly",
+    "example": "One small word can open a big door. 一个小小的字可以打开一扇大门。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿻丁口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth beside a hook — 可 means can or possible."
+  },
+  {
+    "id": "ye",
+    "hanzi": "也",
+    "pinyin": "ye",
+    "tone": "yě",
+    "meaning": "also, too",
+    "example": "I also want to light my city. 我也想点亮我的城市。",
+    "strokeHint": [
+      "radical: 乚",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A side-by-side shape — 也 means also."
+  },
+  {
+    "id": "ni",
+    "hanzi": "你",
+    "pinyin": "ni",
+    "tone": "nǐ",
+    "meaning": "you, second person pronoun",
+    "example": "You are here, learning with me. 你在这里，和我一起学习。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻尔",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside “you” — 你 is the person you speak to."
+  },
+  {
+    "id": "dui",
+    "hanzi": "对",
+    "pinyin": "dui",
+    "tone": "duì",
+    "meaning": "correct, right / facing, opposed",
+    "example": "One correct answer lights the card. 一个正确的答案点亮卡片。",
+    "strokeHint": [
+      "radical: 寸",
+      "structure: ⿰又寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand facing a measure — 对 means correct or facing."
+  },
+  {
+    "id": "sheng",
+    "hanzi": "生",
+    "pinyin": "sheng",
+    "tone": "shēng",
+    "meaning": "life, lifetime / birth / growth",
+    "example": "A new word grows like a green shoot. 一个新字像绿芽一样生长。",
+    "strokeHint": [
+      "radical: 生",
+      "structure: ⿻一土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A shoot rising from the soil — 生 is life and growth."
+  },
+  {
+    "id": "neng",
+    "hanzi": "能",
+    "pinyin": "neng",
+    "tone": "néng",
+    "meaning": "can, may / capable, full of energy",
+    "example": "You can finish this one-minute lesson. 你能完成这一分钟的学习。",
+    "strokeHint": [
+      "radical: ⺼",
+      "structure: ⿰⿱厶⺼⿱匕匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bear with strong body and claws — 能 means able."
+  },
+  {
+    "id": "er5",
+    "hanzi": "而",
+    "pinyin": "er",
+    "tone": "ér",
+    "meaning": "and, and then, and yet / but",
+    "example": "The moon rises, and the city calms. 月亮升起，而城市安静下来。",
+    "strokeHint": [
+      "radical: 而",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A soft beard-like shape — 而 joins ideas as “and”."
+  },
+  {
+    "id": "na",
+    "hanzi": "那",
+    "pinyin": "na",
+    "tone": "nà",
+    "meaning": "that, that one, those",
+    "example": "That word is the one we learned yesterday. 那个字是我们昨天学的。",
+    "strokeHint": [
+      "radical: 阝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A place marker beside “also” — 那 points to that one."
+  },
+  {
+    "id": "de3",
+    "hanzi": "得",
+    "pinyin": "de",
+    "tone": "dé",
+    "meaning": "to obtain, to get, to acquire / suitable, proper / ready",
+    "example": "One steady day brings a real sense of gain. 一天稳稳的坚持，带来真实的收获。",
+    "strokeHint": [
+      "radical: 彳",
+      "structure: ⿰彳⿱旦寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand reaching for a shell — 得 means to gain or get."
+  },
+  {
+    "id": "yu5",
+    "hanzi": "于",
+    "pinyin": "yu",
+    "tone": "yú",
+    "meaning": "at, in, on / to, from / alas!",
+    "example": "The light falls at the edge of the city. 光落在城市的边缘。",
+    "strokeHint": [
+      "radical: 二",
+      "structure: ⿻二亅",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A shape moving toward a line — 于 locates something at or in."
+  },
+  {
+    "id": "zhe5",
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "tone": "zhe",
+    "meaning": "to make a move, to take action",
+    "example": "The lamp stays lit while you review. 你复习时，灯一直亮着。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿸羊目",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Eyes on a sheep — 着 marks an ongoing state."
+  },
+  {
+    "id": "zi5",
+    "hanzi": "自",
+    "pinyin": "zi",
+    "tone": "zì",
+    "meaning": "self / private, personal / from",
+    "example": "Start from yourself, one word at a time. 从自己开始，一次一个字。",
+    "strokeHint": [
+      "radical: 自",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A nose pointing to the self — 自 means oneself or from."
+  },
+  {
+    "id": "zhi",
+    "hanzi": "之",
+    "pinyin": "zhi",
+    "tone": "zhī",
+    "meaning": "marks preceding phrase as modifier of following phrase / it, him her, them / to go to",
+    "example": "The light of the city spreads far. 城市的光传得很远。",
+    "strokeHint": [
+      "radical: 丿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A walking mark under a dot — 之 links or belongs."
+  },
+  {
+    "id": "nian",
+    "hanzi": "年",
+    "pinyin": "nian",
+    "tone": "nián",
+    "meaning": "year / anniversary / a person's age",
+    "example": "One year can hold many small lights. 一年可以装下许多小小的光。",
+    "strokeHint": [
+      "radical: 干",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A harvest plant and person — 年 is a year."
+  },
+  {
+    "id": "guo5",
+    "hanzi": "过",
+    "pinyin": "guo",
+    "tone": "guò",
+    "meaning": "pass / to go across, to pass through",
+    "example": "Walk past one word and keep the streak. 走过一个字，保持连续打卡。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A foot moving across — 过 means to pass."
+  },
+  {
+    "id": "fa",
+    "hanzi": "发",
+    "pinyin": "fa",
+    "tone": "fā",
+    "meaning": "to issue, to dispatch, to send out / hair",
+    "example": "Send your light out into the world. 把你的光发出去。",
+    "strokeHint": [
+      "radical: 又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand releasing an arrow — 发 means to send out."
+  },
+  {
+    "id": "hou",
+    "hanzi": "后",
+    "pinyin": "hou",
+    "tone": "hòu",
+    "meaning": "after / behind, rear / descendants",
+    "example": "After the lesson, the city stays warm. 学习之后，城市依然温暖。",
+    "strokeHint": [
+      "radical: 口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A step behind a mouth — 后 means after or behind."
+  },
+  {
+    "id": "zuo",
+    "hanzi": "作",
+    "pinyin": "zuo",
+    "tone": "zuò",
+    "meaning": "to make / to write, to compose / to act, to perform",
+    "example": "Make one new sentence with today’s word. 用今天的字造一个新句子。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻乍",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person at work — 作 means to make or do."
+  },
+  {
+    "id": "li5",
+    "hanzi": "里",
+    "pinyin": "li",
+    "tone": "lǐ",
+    "meaning": "unit of distance equal to 0.5km / village / lane",
+    "example": "Inside the circle, one lamp glows. 在圆圈里面，一盏灯亮着。",
+    "strokeHint": [
+      "radical: 里",
+      "structure: ⿱田土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A field inside a frame — 里 means inside."
+  },
+  {
+    "id": "yong",
+    "hanzi": "用",
+    "pinyin": "yong",
+    "tone": "yòng",
+    "meaning": "to use, to employ, to apply / use",
+    "example": "Use one word to make a small connection. 用一个字建立小小的连接。",
+    "strokeHint": [
+      "radical: 用",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A frame holding a working tool — 用 means to use."
+  },
+  {
+    "id": "dao5",
+    "hanzi": "道",
+    "pinyin": "dao",
+    "tone": "dào",
+    "meaning": "method, way / path, road",
+    "example": "A clear path helps the lesson feel easy. 清晰的道路让学习更轻松。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶首",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A road with a head leading — 道 is a path or way."
+  },
+  {
+    "id": "xing",
+    "hanzi": "行",
+    "pinyin": "xing",
+    "tone": "xíng",
+    "meaning": "to go, to walk, to move / professional",
+    "example": "Move forward, one small step at a time. 向前走，一步一步来。",
+    "strokeHint": [
+      "radical: 行",
+      "structure: ⿰彳亍",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two feet stepping along a street — 行 means to walk."
+  },
+  {
+    "id": "suo",
+    "hanzi": "所",
+    "pinyin": "suo",
+    "tone": "suǒ",
+    "meaning": "place, location / \"that which\", a particle introducing a passive clause",
+    "example": "This is the place where our lights meet. 这里就是我们的光相遇的地方。",
+    "strokeHint": [
+      "radical: 户",
+      "structure: ⿰户斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A door beside a tool — 所 marks a place or that which."
+  },
+  {
+    "id": "ran",
+    "hanzi": "然",
+    "pinyin": "ran",
+    "tone": "rán",
+    "meaning": "certainly / naturally / suddenly",
+    "example": "The lamp lights up so naturally. 灯自然而然地亮了起来。",
+    "strokeHint": [
+      "radical: 灬",
+      "structure: ⿱肰灬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Fire over a dog — 然 means naturally or so."
+  },
+  {
+    "id": "zhong5",
+    "hanzi": "种",
+    "pinyin": "zhong",
+    "tone": "zhǒng",
+    "meaning": "race, kind, breed / seed / to plant",
+    "example": "Plant one seed and watch a word grow. 种下一粒种子，看着一个字成长。",
+    "strokeHint": [
+      "radical: 禾",
+      "structure: ⿰禾中",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A seed plant in the middle — 种 means seed or kind."
+  },
+  {
+    "id": "shi3",
+    "hanzi": "事",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "affair, matter, business / to serve / accident, incident",
+    "example": "One small task done is one light kept. 完成一件小事，就是守住一道光。",
+    "strokeHint": [
+      "radical: 亅",
+      "structure: ⿻⿳一口彐亅",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand holding a record — 事 is an affair or matter."
+  },
+  {
+    "id": "cheng",
+    "hanzi": "成",
+    "pinyin": "cheng",
+    "tone": "chéng",
+    "meaning": "to accomplish / to become / to complete, to finish / to succeed",
+    "example": "Small steps become a finished road. 小小的步骤汇成完整的路。",
+    "strokeHint": [
+      "radical: 戈",
+      "structure: ⿰丁戈",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A spear completing a shape — 成 means to become."
+  },
+  {
+    "id": "fang",
+    "hanzi": "方",
+    "pinyin": "fang",
+    "tone": "fāng",
+    "meaning": "square, rectangle / side / region / flag",
+    "example": "A clear square gives the word a frame. 一个清晰的方形给字一个框。",
+    "strokeHint": [
+      "radical: 方",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A square with a side line — 方 is a square or direction."
+  },
+  {
+    "id": "duo",
+    "hanzi": "多",
+    "pinyin": "duo",
+    "tone": "duō",
+    "meaning": "much, many, multi- / more than, over",
+    "example": "Many small days add up to one bright city. 许多日子汇聚成一座明亮的城市。",
+    "strokeHint": [
+      "radical: 夕",
+      "structure: ⿱夕夕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two evenings stacked — 多 means many."
+  },
+  {
+    "id": "jing",
+    "hanzi": "经",
+    "pinyin": "jing",
+    "tone": "jīng",
+    "meaning": "the classics / to experience, to undergo",
+    "example": "Experience one word at a calm pace. 从容地经历一个字。",
+    "strokeHint": [
+      "radical: 纟",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A thread passing through a frame — 经 means to pass through or experience."
+  },
+  {
+    "id": "me",
+    "hanzi": "么",
+    "pinyin": "me",
+    "tone": "me",
+    "meaning": "interrogative particle",
+    "example": "What does this small word add to the sentence? 这个小小的字给句子添了什么？",
+    "strokeHint": [
+      "radical: 丿",
+      "structure: ⿱丿厶",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A small hook asking a question — 么 is a question particle."
+  },
+  {
+    "id": "qu",
+    "hanzi": "去",
+    "pinyin": "qu",
+    "tone": "qù",
+    "meaning": "to go away, to leave, to depart",
+    "example": "Go to your city and light today’s mark. 去你的城市，点亮今天的记号。",
+    "strokeHint": [
+      "radical: 厶",
+      "structure: ⿱土厶",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person stepping away — 去 means to go."
+  },
+  {
+    "id": "fa5",
+    "hanzi": "法",
+    "pinyin": "fa",
+    "tone": "fǎ",
+    "meaning": "law, rule, statute / method, way / French",
+    "example": "A good method makes one word easier. 好的方法让一个字更容易。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵去",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water beside “go” — 法 means method or law."
+  },
+  {
+    "id": "ru",
+    "hanzi": "如",
+    "pinyin": "ru",
+    "tone": "rú",
+    "meaning": "as, as if, like, such as, supposing",
+    "example": "A quiet lesson feels like a small warm light. 安静的学习就像一盏温暖的小灯。",
+    "strokeHint": [
+      "radical: 女",
+      "structure: ⿰女口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A woman speaking a likeness — 如 means like or as if."
+  },
+  {
+    "id": "dou",
+    "hanzi": "都",
+    "pinyin": "dou",
+    "tone": "dōu",
+    "meaning": "all, each, entirely, whole / metropolis / capital",
+    "example": "Everyone in the city studies the same word. 城市里的每个人都学同一个字。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰者阝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A city beside “all” — 都 means all."
+  },
+  {
+    "id": "xian",
+    "hanzi": "现",
+    "pinyin": "xian",
+    "tone": "xiàn",
+    "meaning": "to appear, to manifest / current, now",
+    "example": "The light appears now, soft and clear. 光现在出现，柔和而清晰。",
+    "strokeHint": [
+      "radical: 王",
+      "structure: ⿰王见",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A jade seen by eyes — 现 means to appear or now."
+  },
+  {
+    "id": "dang",
+    "hanzi": "当",
+    "pinyin": "dang",
+    "tone": "dāng",
+    "meaning": "appropriate, timely / to act, to serve / the sound of bells",
+    "example": "When the day comes, be ready to light it. 当这一天到来，准备好点亮它。",
+    "strokeHint": [
+      "radical: ⺌",
+      "structure: ⿱⺌彐",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a field — 当 means at that time or to serve as."
+  },
+  {
+    "id": "mei5",
+    "hanzi": "没",
+    "pinyin": "mei",
+    "tone": "méi",
+    "meaning": "not, none, gone / to bury / to sink, to drown",
+    "example": "The street is not dark; one lamp still shines. 街道并不暗，还有一盏灯亮着。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵殳",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water over a sinking hand — 没 means not or to sink."
+  },
+  {
+    "id": "dong",
+    "hanzi": "动",
+    "pinyin": "dong",
+    "tone": "dòng",
+    "meaning": "to move, to happen / movement, action",
+    "example": "One small movement turns the page of learning. 一个小小的动作翻开学习的一页。",
+    "strokeHint": [
+      "radical: 力",
+      "structure: ⿰云力",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heavy force setting things in motion — 动 means to move."
+  },
+  {
+    "id": "mian",
+    "hanzi": "面",
+    "pinyin": "mian",
+    "tone": "miàn",
+    "meaning": "face / surface, side / plane, dimension",
+    "example": "The surface of the card catches the light. 卡片的表面映着光。",
+    "strokeHint": [
+      "radical: 面",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A face turned toward a frame — 面 means face or surface."
+  },
+  {
+    "id": "qi5",
+    "hanzi": "起",
+    "pinyin": "qi",
+    "tone": "qǐ",
+    "meaning": "to begin, to initiate / to rise, to stand up",
+    "example": "Rise and begin today’s one small lesson. 起来，开始今天的一小课。",
+    "strokeHint": [
+      "radical: 走",
+      "structure: ⿺走己",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A walker lifting off the ground — 起 means to rise or begin."
+  },
+  {
+    "id": "kan",
+    "hanzi": "看",
+    "pinyin": "kan",
+    "tone": "kàn",
+    "meaning": "to look, to see / to examine, to scrutinize",
+    "example": "Look at the character and let it settle in. 看着这个字，让它慢慢留下。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿱手目",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand shading the eyes — 看 means to look."
+  },
+  {
+    "id": "ding",
+    "hanzi": "定",
+    "pinyin": "ding",
+    "tone": "dìng",
+    "meaning": "to decide, to fix, to settle / to order / definite, fixed, sure",
+    "example": "Fix your attention on one clear word. 把注意力定在一个清晰的字上。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀疋",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof making a home stable — 定 means to fix or decide."
+  },
+  {
+    "id": "fen",
+    "hanzi": "分",
+    "pinyin": "fen",
+    "tone": "fēn",
+    "meaning": "to divide, to allocate / fraction / small unit of time or other quantity",
+    "example": "Divide the lesson into one gentle step. 把学习分成温柔的一步。",
+    "strokeHint": [
+      "radical: 刀",
+      "structure: ⿱八刀",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife splitting a shape — 分 means to divide."
+  },
+  {
+    "id": "hai",
+    "hanzi": "还",
+    "pinyin": "hai",
+    "tone": "hái",
+    "meaning": "also, besides / still, yet / to return",
+    "example": "One light is still on when the street quiets. 街道安静时，还有一盏灯亮着。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶不",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A return walk in the street — 还 means still or to return."
+  },
+  {
+    "id": "jin",
+    "hanzi": "进",
+    "pinyin": "jin",
+    "tone": "jìn",
+    "meaning": "to advance, to make progress / to come in, to enter",
+    "example": "Step into the circle of today’s learners. 走进今天学习者的圈子。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶井",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird advancing on a road — 进 means to move forward."
+  },
+  {
+    "id": "bu5",
+    "hanzi": "部",
+    "pinyin": "bu",
+    "tone": "bù",
+    "meaning": "department, ministry / division, unit / part, section",
+    "example": "One part of the city lights up tonight. 城市的一部分今晚亮了起来。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰咅阝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A place divided into parts — 部 means a part or section."
+  },
+  {
+    "id": "qi3",
+    "hanzi": "其",
+    "pinyin": "qi",
+    "tone": "qí",
+    "meaning": "his, her, its, their / that",
+    "example": "That word has its own quiet place. 那个字有它自己的安静位置。",
+    "strokeHint": [
+      "radical: 八",
+      "structure: ⿱甘⿱一八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A basket holding its contents — 其 means its or that."
+  },
+  {
+    "id": "xie",
+    "hanzi": "些",
+    "pinyin": "xie",
+    "tone": "xiē",
+    "meaning": "little, few / rather, somewhat",
+    "example": "A few soft lights appear along the street. 街上有一些柔和的光。",
+    "strokeHint": [
+      "radical: 二",
+      "structure: ⿱此二",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two small strokes over “this” — 些 means some or a few."
+  },
+  {
+    "id": "zhu",
+    "hanzi": "主",
+    "pinyin": "zhu",
+    "tone": "zhǔ",
+    "meaning": "to own / to host / master / host / lord",
+    "example": "The main light of the page is the character. 页面上主要的灯就是那个字。",
+    "strokeHint": [
+      "radical: 丶",
+      "structure: ⿱丶王",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A lamp standing on a base — 主 means master or main."
+  },
+  {
+    "id": "yang5",
+    "hanzi": "样",
+    "pinyin": "yang",
+    "tone": "yàng",
+    "meaning": "form, pattern, shape, style",
+    "example": "Every learner makes the word their own way. 每个学习者都有自己的样子。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木羊",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree beside a sheep — 样 means pattern or style."
+  },
+  {
+    "id": "li3",
+    "hanzi": "理",
+    "pinyin": "li",
+    "tone": "lǐ",
+    "meaning": "science, reason, logic / to manage",
+    "example": "Reason helps each new word find its place. 理性能帮每个新字找到位置。",
+    "strokeHint": [
+      "radical: 王",
+      "structure: ⿰王里",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Jade lines and order — 理 means reason or logic."
+  },
+  {
+    "id": "ta5",
+    "hanzi": "她",
+    "pinyin": "ta",
+    "tone": "tā",
+    "meaning": "she, her",
+    "example": "She keeps her streak with one small word. 她用一个小小的字保持着连续打卡。",
+    "strokeHint": [
+      "radical: 女",
+      "structure: ⿰女也",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A woman beside “also” — 她 is she."
+  },
+  {
+    "id": "ben",
+    "hanzi": "本",
+    "pinyin": "ben",
+    "tone": "běn",
+    "meaning": "root, origin, source / basis",
+    "example": "The root of learning is one clear word. 学习的根是一个清晰的字。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿻木一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree with a marked base — 本 means root or origin."
+  },
+  {
+    "id": "qian5",
+    "hanzi": "前",
+    "pinyin": "qian",
+    "tone": "qián",
+    "meaning": "in front, forward / former, preceding",
+    "example": "Walk forward and meet a new character. 向前走，遇见一个新字。",
+    "strokeHint": [
+      "radical: 刂",
+      "structure: ⿱⿱丷一刖",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A boat moving ahead — 前 means front or forward."
+  },
+  {
+    "id": "kai",
+    "hanzi": "开",
+    "pinyin": "kai",
+    "tone": "kāi",
+    "meaning": "to open / to start, to initiate, to begin",
+    "example": "Open the lesson and let the light in. 打开学习页，让光照进来。",
+    "strokeHint": [
+      "radical: 廾",
+      "structure: ⿱一廾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two doors opening wide — 开 means to open."
+  },
+  {
+    "id": "dan",
+    "hanzi": "但",
+    "pinyin": "dan",
+    "tone": "dàn",
+    "meaning": "only / but, however, yet, still",
+    "example": "The word is small, but its light stays. 这个字虽小，但它的光仍在。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻旦",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person leaning on a line — 但 means but or only."
+  },
+  {
+    "id": "yin",
+    "hanzi": "因",
+    "pinyin": "yin",
+    "tone": "yīn",
+    "meaning": "cause, reason / by / because",
+    "example": "A clear reason makes the word easier to hold. 清晰的原因让这个字更容易记住。",
+    "strokeHint": [
+      "radical: 囗",
+      "structure: ⿴囗大",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A frame enclosing a person — 因 means cause or because."
+  },
+  {
+    "id": "zhi5",
+    "hanzi": "只",
+    "pinyin": "zhi",
+    "tone": "zhī",
+    "meaning": "only, merely, just",
+    "example": "Only one word a day is enough. 每天只学一个字就够了。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱口八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth with two small legs — 只 means only."
+  },
+  {
+    "id": "cong",
+    "hanzi": "从",
+    "pinyin": "cong",
+    "tone": "cóng",
+    "meaning": "from, by, since, whence, through",
+    "example": "From this small start, a city can grow. 从这个小开始，一座城市可以成长。",
+    "strokeHint": [
+      "radical: 人",
+      "structure: ⿰人人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two people walking together — 从 means from or to follow."
+  },
+  {
+    "id": "xiang",
+    "hanzi": "想",
+    "pinyin": "xiang",
+    "tone": "xiǎng",
+    "meaning": "to believe, to wish for / to consider, to plan, to think",
+    "example": "Think of the character and it starts to shine. 想着这个字，它就慢慢发光。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱相心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Heart below a thought tree — 想 means to think."
+  },
+  {
+    "id": "shi4",
+    "hanzi": "实",
+    "pinyin": "shi",
+    "tone": "shí",
+    "meaning": "real, true / honest, sincere",
+    "example": "A real small step is better than a dream. 真实的一小步胜过一场梦。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀头",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over treasure — 实 means real or solid."
+  },
+  {
+    "id": "jun",
+    "hanzi": "军",
+    "pinyin": "jun",
+    "tone": "jūn",
+    "meaning": "army, military / soldiers, troops",
+    "example": "A quiet army of learners lights one city. 一支安静的学习队伍点亮了一座城。",
+    "strokeHint": [
+      "radical: 车",
+      "structure: ⿱冖车",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A covered chariot moving as one — 军 means an army."
+  },
+  {
+    "id": "zhe3",
+    "hanzi": "者",
+    "pinyin": "zhe",
+    "tone": "zhě",
+    "meaning": "that which / they who / those who",
+    "example": "Those who keep learning become lights. 坚持学习的人会成为光。",
+    "strokeHint": [
+      "radical: 耂",
+      "structure: ⿸耂日",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person marked by a clear label — 者 means one who."
+  },
+  {
+    "id": "yi3",
+    "hanzi": "意",
+    "pinyin": "yi",
+    "tone": "yì",
+    "meaning": "thought, idea, opinion / desire, wish / meaning, intention",
+    "example": "The meaning of the word warms the mind. 这个字的意思温暖了心。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱音心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Sound over a heart — 意 means thought or meaning."
+  },
+  {
+    "id": "ta3",
+    "hanzi": "它",
+    "pinyin": "ta",
+    "tone": "tā",
+    "meaning": "it / other",
+    "example": "Give it a small place in today’s lesson. 在今天的学习里给它一个小位置。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a small creature — 它 means it."
+  },
+  {
+    "id": "yu3",
+    "hanzi": "与",
+    "pinyin": "yu",
+    "tone": "yǔ",
+    "meaning": "and / with / to / for / to give, to grant",
+    "example": "Learn with a friend and share one light. 与朋友一起学习，共享一道光。",
+    "strokeHint": [
+      "radical: 一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two hands offering together — 与 means and or with."
+  },
+  {
+    "id": "zhang",
+    "hanzi": "长",
+    "pinyin": "zhang",
+    "tone": "zhǎng",
+    "meaning": "long, lasting / to excel in",
+    "example": "A long streak grows from one steady day. 长长的连续打卡从安稳的一天开始。",
+    "strokeHint": [
+      "radical: 长",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Long hair on a standing person — 长 means long or to grow."
+  },
+  {
+    "id": "ba5",
+    "hanzi": "把",
+    "pinyin": "ba",
+    "tone": "bǎ",
+    "meaning": "to grasp, to hold / to guard, to take / handle",
+    "example": "Hold the word gently in your mind. 把这个字轻轻握在心里。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌巴",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand taking hold of a handle — 把 means to hold."
+  },
+  {
+    "id": "ji",
+    "hanzi": "机",
+    "pinyin": "ji",
+    "tone": "jī",
+    "meaning": "desk / machine / moment, opportunity",
+    "example": "A quiet moment can become a chance to learn. 一个安静的时刻能变成学习的机会。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木几",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A wooden frame holding a small device — 机 means machine or chance."
+  },
+  {
+    "id": "di",
+    "hanzi": "第",
+    "pinyin": "di",
+    "tone": "dì",
+    "meaning": "sequence, number / grade, degree / particle prefacing an ordinal",
+    "example": "The first page opens the whole journey. 第一页打开了整段旅程。",
+    "strokeHint": [
+      "radical: ⺮",
+      "structure: ⿱⺮弟",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bamboo rank ordering steps — 第 marks order."
+  },
+  {
+    "id": "gong",
+    "hanzi": "公",
+    "pinyin": "gong",
+    "tone": "gōng",
+    "meaning": "fair, equitable / public / duke",
+    "example": "A fair city shares its light with everyone. 一座公平的城市与每个人分享光。",
+    "strokeHint": [
+      "radical: 八",
+      "structure: ⿱八厶",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A dividing mark made open to all — 公 means public or fair."
+  },
+  {
+    "id": "ci",
+    "hanzi": "此",
+    "pinyin": "ci",
+    "tone": "cǐ",
+    "meaning": "this, these / in this case, then",
+    "example": "At this place, a light is already waiting. 在这里，已经有一道光在等待。",
+    "strokeHint": [
+      "radical: 止",
+      "structure: ⿰止匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stopping foot marked here — 此 means this."
+  },
+  {
+    "id": "yi4",
+    "hanzi": "已",
+    "pinyin": "yi",
+    "tone": "yǐ",
+    "meaning": "already / finished / to stop / then, afterwards",
+    "example": "The page is already turned; a new word waits. 这一页已经翻过，新字在等待。",
+    "strokeHint": [
+      "radical: 己",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stopped movement — 已 means already."
+  },
+  {
+    "id": "gong5",
+    "hanzi": "工",
+    "pinyin": "gong",
+    "tone": "gōng",
+    "meaning": "labor, work / laborer, worker",
+    "example": "One small work done well keeps the streak. 把一件小事做好，就守住连续。",
+    "strokeHint": [
+      "radical: 工",
+      "structure: ⿱一丄",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A carpenter’s square and line — 工 means work."
+  },
+  {
+    "id": "shi6",
+    "hanzi": "使",
+    "pinyin": "shi",
+    "tone": "shǐ",
+    "meaning": "cause, mission, orders / envoy, messenger, ambassador",
+    "example": "Let one clear word lead you forward. 让一个清晰的字带你向前。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻吏",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person carrying out an order — 使 means to cause or use."
+  },
+  {
+    "id": "qing",
+    "hanzi": "情",
+    "pinyin": "qing",
+    "tone": "qíng",
+    "meaning": "emotion, feeling, sentiment",
+    "example": "The feeling of learning is calm and warm. 学习的感觉平静而温暖。",
+    "strokeHint": [
+      "radical: 忄",
+      "structure: ⿰忄青",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Heart beside a clear blue-green — 情 means feeling."
+  },
+  {
+    "id": "ming",
+    "hanzi": "明",
+    "pinyin": "ming",
+    "tone": "míng",
+    "meaning": "bright, clear / to explain, to understand, to shed light",
+    "example": "A bright window lets the word come in. 明亮的窗让这个字照进来。",
+    "strokeHint": [
+      "radical: 日",
+      "structure: ⿰日月",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Sun and moon side by side — 明 means bright."
+  },
+  {
+    "id": "xing5",
+    "hanzi": "性",
+    "pinyin": "xing",
+    "tone": "xìng",
+    "meaning": "sex, nature, character / suffix converting a verb to an adjective",
+    "example": "The nature of a small habit is steady. 小习惯的本性是稳定。",
+    "strokeHint": [
+      "radical: 忄",
+      "structure: ⿰忄生",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Heart beside life — 性 means nature or character."
+  },
+  {
+    "id": "zhi3",
+    "hanzi": "知",
+    "pinyin": "zhi",
+    "tone": "zhī",
+    "meaning": "to know, to perceive, to comprehend",
+    "example": "Know one word today and the world grows. 今天认识一个字，世界就变大一点。",
+    "strokeHint": [
+      "radical: 矢",
+      "structure: ⿰矢口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An arrow reaching the mouth — 知 means to know."
+  },
+  {
+    "id": "quan",
+    "hanzi": "全",
+    "pinyin": "quan",
+    "tone": "quán",
+    "meaning": "whole, entire, complete / to preserve",
+    "example": "The whole city glows when we all check in. 当大家打卡，整座城市都在发光。",
+    "strokeHint": [
+      "radical: 入",
+      "structure: ⿱入玉",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person inside a complete frame — 全 means whole."
+  },
+  {
+    "id": "you5",
+    "hanzi": "又",
+    "pinyin": "you",
+    "tone": "yòu",
+    "meaning": "and, also, again, in addition",
+    "example": "Once more, a soft light returns to the street. 又一次，柔和的光回到街上。",
+    "strokeHint": [
+      "radical: 又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand reaching again — 又 means again or also."
+  },
+  {
+    "id": "guan",
+    "hanzi": "关",
+    "pinyin": "guan",
+    "tone": "guān",
+    "meaning": "frontier pass / to close, to shut / relation",
+    "example": "Close the lesson with one gentle finish. 用一个轻轻的结束合上学习。",
+    "strokeHint": [
+      "radical: 丷",
+      "structure: ⿱丷天",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A gate with a closing bar — 关 means to close."
+  },
+  {
+    "id": "dian",
+    "hanzi": "点",
+    "pinyin": "dian",
+    "tone": "diǎn",
+    "meaning": "dot, point, speck",
+    "example": "One small dot of light marks the start. 一个小光点标志着开始。",
+    "strokeHint": [
+      "radical: 灬",
+      "structure: ⿱占灬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A black dot under a stand — 点 means a point or dot."
+  },
+  {
+    "id": "ye5",
+    "hanzi": "业",
+    "pinyin": "ye",
+    "tone": "yè",
+    "meaning": "business, profession / to study, to work",
+    "example": "One page of work becomes a quiet achievement. 一页功课变成安静的成就。",
+    "strokeHint": [
+      "radical: 一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A work desk with strong lines — 业 means work or profession."
+  },
+  {
+    "id": "wai",
+    "hanzi": "外",
+    "pinyin": "wai",
+    "tone": "wài",
+    "meaning": "out, outside, external / foreign / in addition",
+    "example": "Step outside and see the city light. 走出去，看看城市的光。",
+    "strokeHint": [
+      "radical: 夕",
+      "structure: ⿰夕卜",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A moonlit mark beyond the gate — 外 means outside."
+  },
+  {
+    "id": "jiang",
+    "hanzi": "将",
+    "pinyin": "jiang",
+    "tone": "jiāng",
+    "meaning": "the future, what will be / ready, prepared / a general",
+    "example": "Tomorrow will bring a new character. 明天将带来一个新字。",
+    "strokeHint": [
+      "radical: 丬",
+      "structure: ⿰丬⿱夕寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand preparing to lead — 将 means will or about to."
+  },
+  {
+    "id": "liang",
+    "hanzi": "两",
+    "pinyin": "liang",
+    "tone": "liǎng",
+    "meaning": "two, both, pair, couple / ounce",
+    "example": "Two small lights make the street warmer. 两盏小灯让街道更暖。",
+    "strokeHint": [
+      "radical: 一",
+      "structure: ⿱一⿻冂从",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two balanced halves inside a frame — 两 means two."
+  },
+  {
+    "id": "jian",
+    "hanzi": "间",
+    "pinyin": "jian",
+    "tone": "jiān",
+    "meaning": "between, among / midpoint / space, place, locality",
+    "example": "Between two lessons, the light stays on. 在两节课之间，灯一直亮着。",
+    "strokeHint": [
+      "radical: 门",
+      "structure: ⿵门日",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A door opening a space between — 间 means between."
+  },
+  {
+    "id": "you4",
+    "hanzi": "由",
+    "pinyin": "you",
+    "tone": "yóu",
+    "meaning": "cause, reason / from",
+    "example": "From one clear reason, a habit begins. 从一个清晰的理由开始养成习惯。",
+    "strokeHint": [
+      "radical: 田",
+      "structure: 田",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sprout rising from a field — 由 means from or reason."
+  },
+  {
+    "id": "wen5",
+    "hanzi": "问",
+    "pinyin": "wen",
+    "tone": "wèn",
+    "meaning": "to ask about, to inquire after",
+    "example": "Ask about the word and it becomes yours. 问一问这个字，它就会成为你的。",
+    "strokeHint": [
+      "radical: 门",
+      "structure: ⿵门口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth at a door asking in — 问 means to ask."
+  },
+  {
+    "id": "hen",
+    "hanzi": "很",
+    "pinyin": "hen",
+    "tone": "hěn",
+    "meaning": "very, quite, much",
+    "example": "A very small step still moves you forward. 很小的一步仍能带你向前。",
+    "strokeHint": [
+      "radical: 彳",
+      "structure: ⿰彳艮",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A walker pressing on — 很 means very."
+  },
+  {
+    "id": "zui",
+    "hanzi": "最",
+    "pinyin": "zui",
+    "tone": "zuì",
+    "meaning": "most, extremely, exceedingly / superlative",
+    "example": "The most lasting light is a daily habit. 最持久的光是每日的习惯。",
+    "strokeHint": [
+      "radical: 曰",
+      "structure: ⿱日取",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A covering mark at the top — 最 means most."
+  },
+  {
+    "id": "zhong3",
+    "hanzi": "重",
+    "pinyin": "zhong",
+    "tone": "zhòng",
+    "meaning": "heavy, weighty / to double, to repeat",
+    "example": "One heavy day is lighter when shared. 沉重的一天有人分担就会轻一些。",
+    "strokeHint": [
+      "radical: 里",
+      "structure: ⿻千里",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A weight pressing on the ground — 重 means heavy."
+  },
+  {
+    "id": "bing",
+    "hanzi": "并",
+    "pinyin": "bing",
+    "tone": "bìng",
+    "meaning": "to combine, to annex / also, what's more",
+    "example": "Join two small lights and the street grows. 并起两盏小灯，街道更亮了。",
+    "strokeHint": [
+      "radical: 干",
+      "structure: ⿱丷开",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two lines standing together — 并 means together."
+  },
+  {
+    "id": "wu5",
+    "hanzi": "物",
+    "pinyin": "wu",
+    "tone": "wù",
+    "meaning": "thing, substance, matter / creature",
+    "example": "Every small thing in the room can teach a word. 房间里的每件小物都能教一个字。",
+    "strokeHint": [
+      "radical: 牛",
+      "structure: ⿰牛勿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cow beside a cloth — 物 means thing."
+  },
+  {
+    "id": "shou",
+    "hanzi": "手",
+    "pinyin": "shou",
+    "tone": "shǒu",
+    "meaning": "hand",
+    "example": "Hold the character in your open hand. 把这个字放在张开的手里。",
+    "strokeHint": [
+      "radical: 手",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Five fingers of an open hand — 手 means hand."
+  },
+  {
+    "id": "ying",
+    "hanzi": "应",
+    "pinyin": "ying",
+    "tone": "yīng",
+    "meaning": "should, must / to respond, to handle / to deal with, to cope",
+    "example": "Answer the lesson with a quiet “yes”. 用一声安静的“好”回应学习。",
+    "strokeHint": [
+      "radical: 广",
+      "structure: ⿸广⿱⺍一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a heart that answers — 应 means to respond."
+  },
+  {
+    "id": "zhan",
+    "hanzi": "战",
+    "pinyin": "zhan",
+    "tone": "zhàn",
+    "meaning": "war, fighting, battle",
+    "example": "The only battle is keeping today’s light. 唯一的战斗是守住今天的光。",
+    "strokeHint": [
+      "radical: 戈",
+      "structure: ⿰占戈",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A spear standing for struggle — 战 means battle."
+  },
+  {
+    "id": "xiang5",
+    "hanzi": "向",
+    "pinyin": "xiang",
+    "tone": "xiàng",
+    "meaning": "towards / direction, trend",
+    "example": "Turn toward the window and see the light. 转向窗边，看见光。",
+    "strokeHint": [
+      "radical: 口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A house opening one direction — 向 means toward."
+  },
+  {
+    "id": "tou",
+    "hanzi": "头",
+    "pinyin": "tou",
+    "tone": "tóu",
+    "meaning": "head / chief, boss / first, top",
+    "example": "The first character of the day leads the rest. 一天的第一个字带起后面的。",
+    "strokeHint": [
+      "radical: 大",
+      "structure: ⿻⺀大",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A head above two strokes — 头 means head or first."
+  },
+  {
+    "id": "ti",
+    "hanzi": "体",
+    "pinyin": "ti",
+    "tone": "tǐ",
+    "meaning": "body / group, class / form, style, system",
+    "example": "The body rests while the mind learns one word. 身体休息，心学一个字。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻本",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside a root — 体 means body."
+  },
+  {
+    "id": "zheng5",
+    "hanzi": "政",
+    "pinyin": "zheng",
+    "tone": "zhèng",
+    "meaning": "government, politics",
+    "example": "Good order keeps the city calm and bright. 好的秩序让城市平静明亮。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰正攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand guiding a straight rule — 政 means governance."
+  },
+  {
+    "id": "xiang3",
+    "hanzi": "相",
+    "pinyin": "xiang",
+    "tone": "xiāng",
+    "meaning": "mutual, reciprocal / equal / each other",
+    "example": "Two learners see each other’s light. 两个学习者看见彼此的光。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿰木目",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye looking at a tree — 相 means each other."
+  },
+  {
+    "id": "jian5",
+    "hanzi": "见",
+    "pinyin": "jian",
+    "tone": "jiàn",
+    "meaning": "to see, to observe, to meet, to appear",
+    "example": "See the character once and it stays near. 见这个字一次，它就留在身边。",
+    "strokeHint": [
+      "radical: 见",
+      "structure: ⿵冂儿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person with an open eye — 见 means to see."
+  },
+  {
+    "id": "bei",
+    "hanzi": "被",
+    "pinyin": "bei",
+    "tone": "bèi",
+    "meaning": "bedding / a passive particle meaning \"by\"",
+    "example": "The dark street is quietly lit by one lamp. 黑暗的街道被一盏灯静静照亮。",
+    "strokeHint": [
+      "radical: 衤",
+      "structure: ⿰衤皮",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Cloth covering a body — 被 marks “by” in passive."
+  },
+  {
+    "id": "li4",
+    "hanzi": "利",
+    "pinyin": "li",
+    "tone": "lì",
+    "meaning": "gains, advantage, profit, merit",
+    "example": "A sharp mind makes the word clear. 敏锐的心让这个字清晰。",
+    "strokeHint": [
+      "radical: 刂",
+      "structure: ⿰禾刂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A blade cutting grain — 利 means sharp or benefit."
+  },
+  {
+    "id": "shen",
+    "hanzi": "什",
+    "pinyin": "shen",
+    "tone": "shén",
+    "meaning": "what? mixed, miscellaneous",
+    "example": "What word will the next day bring? 明天会带来什么字？",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person counting many small things — 什 means what."
+  },
+  {
+    "id": "deng",
+    "hanzi": "等",
+    "pinyin": "deng",
+    "tone": "děng",
+    "meaning": "rank, grade / same, equal / to wait",
+    "example": "Wait a moment; the light is about to rise. 等一下，光就要升起。",
+    "strokeHint": [
+      "radical: ⺮",
+      "structure: ⿱⺮寺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Bamboo kept at the same height — 等 means equal or to wait."
+  },
+  {
+    "id": "chan",
+    "hanzi": "产",
+    "pinyin": "chan",
+    "tone": "chǎn",
+    "meaning": "to give birth, to bring forth, to produce",
+    "example": "A small effort produces a steady glow. 小小的努力产出稳定的光。",
+    "strokeHint": [
+      "radical: 亠",
+      "structure: ⿳亠丷厂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cliff over new life — 产 means to produce."
+  },
+  {
+    "id": "huo5",
+    "hanzi": "或",
+    "pinyin": "huo",
+    "tone": "huò",
+    "meaning": "or, either, else / maybe, perhaps, possibly",
+    "example": "Maybe one light, or maybe a whole street. 也许一盏灯，也许整条街。",
+    "strokeHint": [
+      "radical: 戈",
+      "structure: ⿹戈⿱口一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A guarded boundary offering a choice — 或 means or."
+  },
+  {
+    "id": "xin5",
+    "hanzi": "新",
+    "pinyin": "xin",
+    "tone": "xīn",
+    "meaning": "new, recent, fresh, modern",
+    "example": "A new character makes the page feel fresh. 一个新字让页面焕然一新。",
+    "strokeHint": [
+      "radical: 斤",
+      "structure: ⿰亲斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An axe over fresh wood — 新 means new."
+  },
+  {
+    "id": "ji5",
+    "hanzi": "己",
+    "pinyin": "ji",
+    "tone": "jǐ",
+    "meaning": "self, oneself / personal, private / 6th heavenly stem",
+    "example": "Know yourself through one small word. 通过一个小小的字认识自己。",
+    "strokeHint": [
+      "radical: 己",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A self-made mark standing alone — 己 means self."
+  },
+  {
+    "id": "zhi4",
+    "hanzi": "制",
+    "pinyin": "zhi",
+    "tone": "zhì",
+    "meaning": "system / to establish / to manufacture / to overpower",
+    "example": "A simple rule keeps the practice steady. 简单的规则让练习稳定。",
+    "strokeHint": [
+      "radical: 刂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife cutting cloth into shape — 制 means to make or regulate."
+  },
+  {
+    "id": "shen5",
+    "hanzi": "身",
+    "pinyin": "shen",
+    "tone": "shēn",
+    "meaning": "body, torso / person / pregnancy",
+    "example": "The body remembers the rhythm of practice. 身体记得练习的节奏。",
+    "strokeHint": [
+      "radical: 身",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A body with a long back — 身 means body."
+  },
+  {
+    "id": "guo3",
+    "hanzi": "果",
+    "pinyin": "guo",
+    "tone": "guǒ",
+    "meaning": "fruit, nut / result",
+    "example": "The fruit of practice is a lit city. 练习的果实是一座点亮的城市。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿱田木",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree bearing round fruit — 果 means fruit or result."
+  },
+  {
+    "id": "jia5",
+    "hanzi": "加",
+    "pinyin": "jia",
+    "tone": "jiā",
+    "meaning": "to add to, to increase, to augment",
+    "example": "Add one word to your growing collection. 给不断增长的字库加一个字。",
+    "strokeHint": [
+      "radical: 力",
+      "structure: ⿰力口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Strength beside a mouth — 加 means to add."
+  },
+  {
+    "id": "xi5",
+    "hanzi": "西",
+    "pinyin": "xi",
+    "tone": "xī",
+    "meaning": "west, western, westward",
+    "example": "The sun sets in the west and the lamp wakes. 太阳在西边落下，灯亮起来。",
+    "strokeHint": [
+      "radical: 西",
+      "structure: ⿻兀囗",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird returning to its nest — 西 means west."
+  },
+  {
+    "id": "si5",
+    "hanzi": "斯",
+    "pinyin": "si",
+    "tone": "sī",
+    "meaning": "this, thus, such / emphatic particle / used in transliterations",
+    "example": "In this way, one word joins another. 就这样，一个字连着另一个。",
+    "strokeHint": [
+      "radical: 斤",
+      "structure: ⿰其斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A balanced frame of marks — 斯 means this or thus."
+  },
+  {
+    "id": "hua",
+    "hanzi": "话",
+    "pinyin": "hua",
+    "tone": "huà",
+    "meaning": "talk, speech / language, dialect",
+    "example": "A warm sentence turns a word into a story. 一句温暖的话把字变成故事。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠舌",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Speech beside a tongue — 话 means talk."
+  },
+  {
+    "id": "he5",
+    "hanzi": "合",
+    "pinyin": "he",
+    "tone": "hé",
+    "meaning": "to combine, to join, to unite / to gather",
+    "example": "Close the two sides and one word fits. 合上两边，一个字就契合了。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱亼口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth covered by a lid — 合 means to join or close."
+  },
+  {
+    "id": "hui5",
+    "hanzi": "回",
+    "pinyin": "hui",
+    "tone": "huí",
+    "meaning": "to return, to turn around / a time",
+    "example": "Return to the same word and it feels home. 回到同一个字，感觉像回家。",
+    "strokeHint": [
+      "radical: 囗",
+      "structure: ⿴囗口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A box returning inside itself — 回 means to return."
+  },
+  {
+    "id": "te",
+    "hanzi": "特",
+    "pinyin": "te",
+    "tone": "tè",
+    "meaning": "special, unique, distinguished",
+    "example": "Make this one special with a warm finish. 用一个温暖的收尾让今天特别。",
+    "strokeHint": [
+      "radical: 牛",
+      "structure: ⿰牛寺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bull set apart from the herd — 特 means special."
+  },
+  {
+    "id": "dai",
+    "hanzi": "代",
+    "pinyin": "dai",
+    "tone": "dài",
+    "meaning": "era, generation / to substitute for, to replace",
+    "example": "Each new day stands in for the last. 每个新的一天接替上一天。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻弋",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person replacing another — 代 means generation or substitute."
+  },
+  {
+    "id": "nei",
+    "hanzi": "内",
+    "pinyin": "nei",
+    "tone": "nèi",
+    "meaning": "inside",
+    "example": "Inside the quiet room, one lamp glows. 在安静的房间里，一盏灯亮着。",
+    "strokeHint": [
+      "radical: 入",
+      "structure: ⿻冂人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person entering a frame — 内 means inside."
+  },
+  {
+    "id": "xin3",
+    "hanzi": "信",
+    "pinyin": "xin",
+    "tone": "xìn",
+    "meaning": "to trust, to believe / letter, sign",
+    "example": "Trust that one small word will stay. 相信这个小小的字会留下。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻言",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person’s word kept true — 信 means trust or letter."
+  },
+  {
+    "id": "biao",
+    "hanzi": "表",
+    "pinyin": "biao",
+    "tone": "biǎo",
+    "meaning": "to show, to express, to display / outside, appearance / a watch",
+    "example": "The card shows today’s word clearly. 卡片清楚地显示今天的字。",
+    "strokeHint": [
+      "radical: 衣",
+      "structure: ⿱毛衣",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A coat worn over the surface — 表 means to show or surface."
+  },
+  {
+    "id": "hua5",
+    "hanzi": "化",
+    "pinyin": "hua",
+    "tone": "huà",
+    "meaning": "to change, to convert, to reform / -ize",
+    "example": "A small habit changes into a bright streak. 小习惯化作一道明亮的光带。",
+    "strokeHint": [
+      "radical: 匕",
+      "structure: ⿰亻匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person turning upside down — 化 means to change."
+  },
+  {
+    "id": "lao",
+    "hanzi": "老",
+    "pinyin": "lao",
+    "tone": "lǎo",
+    "meaning": "old, aged / experienced",
+    "example": "An old word can still feel new to you. 一个老字对你仍可能是新的。",
+    "strokeHint": [
+      "radical: 老",
+      "structure: ⿱耂匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person leaning on a stick — 老 means old."
+  },
+  {
+    "id": "gei",
+    "hanzi": "给",
+    "pinyin": "gei",
+    "tone": "gěi",
+    "meaning": "to give, to lend / for, by",
+    "example": "Give one minute to a new word today. 今天给新字一分钟。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟合",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A thread handed from person to person — 给 means to give."
+  },
+  {
+    "id": "shi7",
+    "hanzi": "世",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "generation, era, age / world",
+    "example": "One word connects people across the world. 一个字连接世界各地的人。",
+    "strokeHint": [
+      "radical: 一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A world held within a frame — 世 means world or generation."
+  },
+  {
+    "id": "wei5",
+    "hanzi": "位",
+    "pinyin": "wei",
+    "tone": "wèi",
+    "meaning": "seat, throne / rank, status / position, location",
+    "example": "Take your place in the circle of learners. 在学习者的圈子里找到你的位置。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻立",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person standing in a place — 位 means position."
+  },
+  {
+    "id": "ci5",
+    "hanzi": "次",
+    "pinyin": "ci",
+    "tone": "cì",
+    "meaning": "order, sequence / second, next / one after the other",
+    "example": "One more time, and the streak continues. 再来一次，连续就继续。",
+    "strokeHint": [
+      "radical: 欠",
+      "structure: ⿰冫欠",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A small repeated mark — 次 means time or order."
+  },
+  {
+    "id": "du",
+    "hanzi": "度",
+    "pinyin": "du",
+    "tone": "dù",
+    "meaning": "degree, system / manner / to consider",
+    "example": "Measure the day in one calm step. 用平静的一步度量这一天。",
+    "strokeHint": [
+      "radical: 广",
+      "structure: ⿸广⿱廿又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a standard measure — 度 means degree or measure."
+  },
+  {
+    "id": "men5",
+    "hanzi": "门",
+    "pinyin": "men",
+    "tone": "mén",
+    "meaning": "gate, door, entrance, opening",
+    "example": "Open the gate and let learning in. 打开门，让学习进来。",
+    "strokeHint": [
+      "radical: 门",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two panels forming a gate — 门 means door."
+  },
+  {
+    "id": "ren5",
+    "hanzi": "任",
+    "pinyin": "ren",
+    "tone": "rèn",
+    "meaning": "to trust, to rely on / to appoint / to bear / duty, office",
+    "example": "Take on one small task with ease. 轻松地承担一件小事。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻壬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person trusted with a task — 任 means to take on."
+  },
+  {
+    "id": "chang",
+    "hanzi": "常",
+    "pinyin": "chang",
+    "tone": "cháng",
+    "meaning": "common, general, normal / always, frequently, regularly",
+    "example": "Keep a common rhythm and the light stays. 保持平常的节奏，光就会留下。",
+    "strokeHint": [
+      "radical: 巾",
+      "structure: ⿱尚巾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cloth worn every day — 常 means common or always."
+  },
+  {
+    "id": "xian5",
+    "hanzi": "先",
+    "pinyin": "xian",
+    "tone": "xiān",
+    "meaning": "first, former, previous",
+    "example": "First, take a slow breath and begin. 先慢慢呼吸，再开始。",
+    "strokeHint": [
+      "radical: 儿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person stepping first — 先 means first."
+  },
+  {
+    "id": "hai5",
+    "hanzi": "海",
+    "pinyin": "hai",
+    "tone": "hǎi",
+    "meaning": "sea, ocean / maritime",
+    "example": "The sea is wide, like the space for new words. 大海宽阔，像容纳新字的空间。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵每",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water beside every — 海 means sea."
+  },
+  {
+    "id": "tong5",
+    "hanzi": "通",
+    "pinyin": "tong",
+    "tone": "tōng",
+    "meaning": "to pass through, to open, to connect / to communicate / common",
+    "example": "A clear road connects one word to the next. 一条清晰的路连接一个个字。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶甬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A road opening through — 通 means through or connected."
+  },
+  {
+    "id": "jiao",
+    "hanzi": "教",
+    "pinyin": "jiao",
+    "tone": "jiào",
+    "meaning": "school, education",
+    "example": "Teach one word and it becomes doubly yours. 教一个字，它会更属于你。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰孝攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand guiding a child to learn — 教 means to teach."
+  },
+  {
+    "id": "yuan",
+    "hanzi": "原",
+    "pinyin": "yuan",
+    "tone": "yuán",
+    "meaning": "source, origin, beginning",
+    "example": "Go back to the source and see it clearly. 回到源头，看得更清楚。",
+    "strokeHint": [
+      "radical: 厂",
+      "structure: ⿸厂泉",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A spring rising from a cliff — 原 means origin."
+  },
+  {
+    "id": "dong5",
+    "hanzi": "东",
+    "pinyin": "dong",
+    "tone": "dōng",
+    "meaning": "east, eastern, eastward",
+    "example": "The sun rises in the east and the city wakes. 太阳从东边升起，城市醒来。",
+    "strokeHint": [
+      "radical: 一",
+      "structure: ⿻七小",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "The sun rising behind a tree — 东 means east."
+  },
+  {
+    "id": "sheng5",
+    "hanzi": "声",
+    "pinyin": "sheng",
+    "tone": "shēng",
+    "meaning": "sound, noise / voice, tone, music",
+    "example": "The sound of the word settles in the ear. 字的声音落在耳中。",
+    "strokeHint": [
+      "radical: 士",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bell sound from a standing frame — 声 means sound."
+  },
+  {
+    "id": "ti5",
+    "hanzi": "提",
+    "pinyin": "ti",
+    "tone": "tí",
+    "meaning": "to hold in the hand / to lift, to raise",
+    "example": "Lift the card and read it once more. 提起卡片，再读一遍。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌是",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand lifting upward — 提 means to lift."
+  },
+  {
+    "id": "li6",
+    "hanzi": "立",
+    "pinyin": "li",
+    "tone": "lì",
+    "meaning": "to stand / to establish, to set up",
+    "example": "Stand steady and let the word take root. 稳稳站立，让字生根。",
+    "strokeHint": [
+      "radical: 立",
+      "structure: ⿳亠丷一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person standing on firm ground — 立 means to stand."
+  },
+  {
+    "id": "ji3",
+    "hanzi": "及",
+    "pinyin": "ji",
+    "tone": "jí",
+    "meaning": "to extend / to reach / and / in time",
+    "example": "Reach the end of one small lesson. 到达这一小课的终点。",
+    "strokeHint": [
+      "radical: 又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand reaching a person — 及 means to reach."
+  },
+  {
+    "id": "bi",
+    "hanzi": "比",
+    "pinyin": "bi",
+    "tone": "bǐ",
+    "meaning": "to compare, liken / comparison / than",
+    "example": "Compare yesterday and see how far you’ve come. 与昨天相比，看见你的成长。",
+    "strokeHint": [
+      "radical: 比",
+      "structure: ⿰匕匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two people standing side by side — 比 means to compare."
+  },
+  {
+    "id": "yuan5",
+    "hanzi": "员",
+    "pinyin": "yuan",
+    "tone": "yuán",
+    "meaning": "employee / member / personnel, staff",
+    "example": "Every member adds one light to the circle. 每位成员都为圈子添一道光。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱口贝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person counted in a group — 员 means member."
+  },
+  {
+    "id": "jie",
+    "hanzi": "解",
+    "pinyin": "jie",
+    "tone": "jiě",
+    "meaning": "to explain / to loosen / to unfasten, to untie",
+    "example": "Slowly untie the meaning of the word. 慢慢解开这个字的意思。",
+    "strokeHint": [
+      "radical: 角",
+      "structure: ⿰角⿱刀牛",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife separating a horn — 解 means to untie or solve."
+  },
+  {
+    "id": "ming5",
+    "hanzi": "名",
+    "pinyin": "ming",
+    "tone": "míng",
+    "meaning": "name / position, rank, title",
+    "example": "Give the new character a name that stays. 给新字一个能留下的名字。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿸夕口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A name spoken at night — 名 means name."
+  },
+  {
+    "id": "zhen",
+    "hanzi": "真",
+    "pinyin": "zhen",
+    "tone": "zhēn",
+    "meaning": "real, actual, true, genuine",
+    "example": "A true small step leaves a real trace. 真实的一小步留下真的痕迹。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿱直几",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Eyes seeing what is straight — 真 means true."
+  },
+  {
+    "id": "lun",
+    "hanzi": "论",
+    "pinyin": "lun",
+    "tone": "lùn",
+    "meaning": "debate / discussion",
+    "example": "Talk over the word until it feels clear. 讨论这个字，直到它变得清楚。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠仑",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words arranged in order — 论 means to discuss."
+  },
+  {
+    "id": "chu5",
+    "hanzi": "处",
+    "pinyin": "chu",
+    "tone": "chù",
+    "meaning": "to reside at, to live in / place, locale / department",
+    "example": "Stay in a calm place and study one word. 待在一个安静的地方学一个字。",
+    "strokeHint": [
+      "radical: 夂",
+      "structure: ⿺夂卜",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person stepping into a place — 处 means place or to dwell."
+  },
+  {
+    "id": "zou",
+    "hanzi": "走",
+    "pinyin": "zou",
+    "tone": "zǒu",
+    "meaning": "to walk, to run, to flee",
+    "example": "Walk one small street of characters. 走一小段汉字街道。",
+    "strokeHint": [
+      "radical: 走",
+      "structure: ⿱土止",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Feet swinging in motion — 走 means to walk."
+  },
+  {
+    "id": "yi6",
+    "hanzi": "义",
+    "pinyin": "yi",
+    "tone": "yì",
+    "meaning": "right conduct, propriety / justice",
+    "example": "Give each word a meaning you can hold. 给每个字一个能握住的意义。",
+    "strokeHint": [
+      "radical: 丿",
+      "structure: ⿻丶乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A clear mark of shared duty — 义 means meaning or justice."
+  },
+  {
+    "id": "ge5",
+    "hanzi": "各",
+    "pinyin": "ge",
+    "tone": "gè",
+    "meaning": "individual / each, every / all",
+    "example": "Each person lights one different corner. 每个人点亮不同的角落。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱夂口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Each foot walking its own way — 各 means each."
+  },
+  {
+    "id": "ru5",
+    "hanzi": "入",
+    "pinyin": "ru",
+    "tone": "rù",
+    "meaning": "to enter, to come in / to join",
+    "example": "Enter the lesson and the day begins. 进入学习，一天开始了。",
+    "strokeHint": [
+      "radical: 入",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An open door inviting you in — 入 means to enter."
+  },
+  {
+    "id": "ji4",
+    "hanzi": "几",
+    "pinyin": "ji",
+    "tone": "jǐ",
+    "meaning": "small table / how many / a few, some",
+    "example": "How many small lights will join today? 今天会有几盏小灯加入？",
+    "strokeHint": [
+      "radical: 几",
+      "structure: ⿰丿乙",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A small table for a few things — 几 means a few or how many."
+  },
+  {
+    "id": "ren3",
+    "hanzi": "认",
+    "pinyin": "ren",
+    "tone": "rèn",
+    "meaning": "to know, to recognize, to understand",
+    "example": "Recognize the word and it becomes yours. 认出这个字，它就成了你的。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person speaking agreement — 认 means to recognize."
+  },
+  {
+    "id": "tiao",
+    "hanzi": "条",
+    "pinyin": "tiao",
+    "tone": "tiáo",
+    "meaning": "clause, condition / string, stripe",
+    "example": "One clear line connects the lesson steps. 一条清晰的线连接学习步骤。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿱夂木",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A branch hanging in a long line — 条 means a strip or item."
+  },
+  {
+    "id": "xi3",
+    "hanzi": "系",
+    "pinyin": "xi",
+    "tone": "xì",
+    "meaning": "system / line, link, connection",
+    "example": "Tie today’s word to the ones before it. 把今天的字和之前的系在一起。",
+    "strokeHint": [
+      "radical: 糸",
+      "structure: ⿱丿糸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Threads binding small marks — 系 means to connect."
+  },
+  {
+    "id": "qi4",
+    "hanzi": "气",
+    "pinyin": "qi",
+    "tone": "qì",
+    "meaning": "air, gas / steam, vapor / anger",
+    "example": "A light breath carries the sound of the word. 轻轻的气息带着字音。",
+    "strokeHint": [
+      "radical: 气",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Breath rising from rice — 气 means air or spirit."
+  },
+  {
+    "id": "ti3",
+    "hanzi": "题",
+    "pinyin": "ti",
+    "tone": "tí",
+    "meaning": "forehead / headline, title / theme",
+    "example": "Answer one question and light the card. 回答一个问题，点亮卡片。",
+    "strokeHint": [
+      "radical: 页",
+      "structure: ⿺是页",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A page under a heading — 题 means topic or question."
+  },
+  {
+    "id": "huo3",
+    "hanzi": "活",
+    "pinyin": "huo",
+    "tone": "huó",
+    "meaning": "to exist, to live, to survive / living, working",
+    "example": "A living habit keeps the city glowing. 鲜活的习惯让城市发光。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵舌",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water beside a moving tongue — 活 means alive."
+  },
+  {
+    "id": "er3",
+    "hanzi": "尔",
+    "pinyin": "er",
+    "tone": "ěr",
+    "meaning": "you / that, those / final particle",
+    "example": "You, too, can light a quiet corner. 你也可以点亮一个安静的角落。",
+    "strokeHint": [
+      "radical: 小",
+      "structure: ⿱⺈小",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A small form addressing “you” — 尔 means you."
+  },
+  {
+    "id": "geng",
+    "hanzi": "更",
+    "pinyin": "geng",
+    "tone": "gèng",
+    "meaning": "more, further / to shift, to alternate / to modify",
+    "example": "One more minute makes the word clearer. 再多一分钟，这个字会更清楚。",
+    "strokeHint": [
+      "radical: 曰",
+      "structure: ⿱一⿻曰乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A measure pressing further — 更 means more."
+  },
+  {
+    "id": "bie",
+    "hanzi": "别",
+    "pinyin": "bie",
+    "tone": "bié",
+    "meaning": "to separate, to distinguish, to classify / to leave / other / do not, must not",
+    "example": "Do not let a busy day part you from the light. 别让忙碌的一天把你和光分开。",
+    "strokeHint": [
+      "radical: 刂",
+      "structure: ⿰另刂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife separating what should not part — 别 means do not or separate."
+  },
+  {
+    "id": "da5",
+    "hanzi": "打",
+    "pinyin": "da",
+    "tone": "dǎ",
+    "meaning": "to attack, to beat, to hit, to strike",
+    "example": "Tap the card gently and the light answers. 轻轻点击卡片，光会回应。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌丁",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand striking lightly — 打 means to hit or do."
+  },
+  {
+    "id": "bian",
+    "hanzi": "变",
+    "pinyin": "bian",
+    "tone": "biàn",
+    "meaning": "to change, to transform, to alter / rebel",
+    "example": "A small change turns one word into a story. 小小的变化把字变成故事。",
+    "strokeHint": [
+      "radical: 又",
+      "structure: ⿱亦又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand turning a shape — 变 means to change."
+  },
+  {
+    "id": "shen3",
+    "hanzi": "神",
+    "pinyin": "shen",
+    "tone": "shén",
+    "meaning": "god, spirit / divine, mysterious, supernatural",
+    "example": "The spirit of practice is gentle focus. 练习的精神是温柔的专注。",
+    "strokeHint": [
+      "radical: 礻",
+      "structure: ⿰礻申",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A spirit sign beside prayer — 神 means spirit."
+  },
+  {
+    "id": "zong",
+    "hanzi": "总",
+    "pinyin": "zong",
+    "tone": "zǒng",
+    "meaning": "to gather, to collect / overall, altogether",
+    "example": "In total, many small days make one city. 总的来说，许多小日子汇成一座城。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿳丷口心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart gathering all together — 总 means total."
+  },
+  {
+    "id": "he3",
+    "hanzi": "何",
+    "pinyin": "he",
+    "tone": "hé",
+    "meaning": "what, why, where, which, how",
+    "example": "What word will light your city today? 今天什么字会点亮你的城市？",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻可",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person asking what — 何 means what or how."
+  },
+  {
+    "id": "dian5",
+    "hanzi": "电",
+    "pinyin": "dian",
+    "tone": "diàn",
+    "meaning": "electricity / electric / lightning",
+    "example": "A small spark of electricity wakes the lamp. 一小股电让灯醒来。",
+    "strokeHint": [
+      "radical: 曰",
+      "structure: ⿻曰乚",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bolt of lightning in the sky — 电 means electricity."
+  },
+  {
+    "id": "shu",
+    "hanzi": "数",
+    "pinyin": "shu",
+    "tone": "shù",
+    "meaning": "count, number, several",
+    "example": "Count each light as it joins the city. 数一数每一道加入城市的光。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰娄攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand counting marks — 数 means number or count."
+  },
+  {
+    "id": "shao",
+    "hanzi": "少",
+    "pinyin": "shao",
+    "tone": "shǎo",
+    "meaning": "few, little / less / inadequate",
+    "example": "A few quiet minutes are enough today. 今天几分钟的安静就够了。",
+    "strokeHint": [
+      "radical: 小",
+      "structure: ⿱小丿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Small grains scattered — 少 means few or little."
+  },
+  {
+    "id": "bao",
+    "hanzi": "报",
+    "pinyin": "bao",
+    "tone": "bào",
+    "meaning": "to announce, to report / newspaper / payback, revenge",
+    "example": "Share your small win and encourage another. 分享你的小胜利，鼓励另一个人。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌⿸卩又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand delivering news — 报 means to report."
+  },
+  {
+    "id": "cai",
+    "hanzi": "才",
+    "pinyin": "cai",
+    "tone": "cái",
+    "meaning": "ability, talent, gift / just, only",
+    "example": "Only after practice does the word settle. 练习之后，这个字才安定下来。",
+    "strokeHint": [
+      "radical: 扌",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sprout just beginning — 才 means only or talent."
+  },
+  {
+    "id": "jie5",
+    "hanzi": "结",
+    "pinyin": "jie",
+    "tone": "jié",
+    "meaning": "knot, tie / to connect, to join",
+    "example": "Tie the day’s learning into a small knot. 把今天的学习打成一个小结。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟吉",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Threads knotted together — 结 means to tie or conclude."
+  },
+  {
+    "id": "fan",
+    "hanzi": "反",
+    "pinyin": "fan",
+    "tone": "fǎn",
+    "meaning": "reverse, opposite / contrary, anti-",
+    "example": "Turn the card over and find a new clue. 把卡片翻过来，找到新线索。",
+    "strokeHint": [
+      "radical: 又",
+      "structure: ⿸厂又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand pushing back a cliff — 反 means to reverse."
+  },
+  {
+    "id": "shou5",
+    "hanzi": "受",
+    "pinyin": "shou",
+    "tone": "shòu",
+    "meaning": "to receive, to get, to accept / to bear",
+    "example": "Receive the word with an open mind. 用开放的心接受这个字。",
+    "strokeHint": [
+      "radical: 又",
+      "structure: ⿳爫冖又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Hands receiving something — 受 means to receive."
+  },
+  {
+    "id": "mu5",
+    "hanzi": "目",
+    "pinyin": "mu",
+    "tone": "mù",
+    "meaning": "eye / to look, to see / division, topic",
+    "example": "Let your eyes rest on one clear shape. 让目光停在一个清晰的形状上。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿴口二",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye drawn with two lines — 目 means eye."
+  },
+  {
+    "id": "liang5",
+    "hanzi": "量",
+    "pinyin": "liang",
+    "tone": "liàng",
+    "meaning": "measure, volume / amount, quantity",
+    "example": "Measure progress in small warm steps. 用温暖的小步衡量进步。",
+    "strokeHint": [
+      "radical: 里",
+      "structure: ⿱旦里",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A measure of grain under the sun — 量 means amount or measure."
+  },
+  {
+    "id": "zai5",
+    "hanzi": "再",
+    "pinyin": "zai",
+    "tone": "zài",
+    "meaning": "again, twice, re-",
+    "example": "Try the word again and it feels lighter. 再试一次这个字，感觉更轻松。",
+    "strokeHint": [
+      "radical: 冂",
+      "structure: ⿱一冉",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A repeated frame building again — 再 means again."
+  },
+  {
+    "id": "gan",
+    "hanzi": "感",
+    "pinyin": "gan",
+    "tone": "gǎn",
+    "meaning": "to affect, to move, to touch / to perceive, to sense",
+    "example": "Feel the character settle into memory. 感受这个字慢慢进入记忆。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱咸心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart receiving a salty taste — 感 means to feel."
+  },
+  {
+    "id": "jian3",
+    "hanzi": "建",
+    "pinyin": "jian",
+    "tone": "jiàn",
+    "meaning": "to build, to erect / to establish, to found",
+    "example": "Build a small habit, one word at a time. 一次一个字，建立小习惯。",
+    "strokeHint": [
+      "radical: 廴",
+      "structure: ⿺廴聿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand laying a foundation — 建 means to build."
+  },
+  {
+    "id": "wu3",
+    "hanzi": "务",
+    "pinyin": "wu",
+    "tone": "wù",
+    "meaning": "affairs, business / should / must",
+    "example": "Finish the small task and rest easy. 完成这件小事，安心休息。",
+    "strokeHint": [
+      "radical: 夂",
+      "structure: ⿱夂力",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A task carried with effort — 务 means duty or task."
+  },
+  {
+    "id": "zuo5",
+    "hanzi": "做",
+    "pinyin": "zuo",
+    "tone": "zuò",
+    "meaning": "to work, to make / to act",
+    "example": "Do one gentle review before the day ends. 一天结束前做一次温柔复习。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻故",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person working at a task — 做 means to do."
+  },
+  {
+    "id": "jie3",
+    "hanzi": "接",
+    "pinyin": "jie",
+    "tone": "jiē",
+    "meaning": "to connect, to join / to receive, to meet, to answer the phone",
+    "example": "Receive the next word like a small gift. 像接小礼物一样接住下一个字。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌妾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand meeting another hand — 接 means to receive or connect."
+  },
+  {
+    "id": "bi5",
+    "hanzi": "必",
+    "pinyin": "bi",
+    "tone": "bì",
+    "meaning": "surely, certainly / must / will",
+    "example": "The one thing that must stay is the light. 必须留下的只有那道光。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿻心丿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart divided by certainty — 必 means must."
+  },
+  {
+    "id": "chang5",
+    "hanzi": "场",
+    "pinyin": "chang",
+    "tone": "chǎng",
+    "meaning": "field, open space / market, square / stage",
+    "example": "A quiet space holds the day’s one lesson. 安静的空间容纳今天的一课。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿰土勿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Earth spread open for a gathering — 场 means field or place."
+  },
+  {
+    "id": "jian4",
+    "hanzi": "件",
+    "pinyin": "jian",
+    "tone": "jiàn",
+    "meaning": "item, matter / component, part / measure word for events",
+    "example": "One small item a day builds the whole. 每天一件小事，拼成整体。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻牛",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside a cow — 件 means an item."
+  },
+  {
+    "id": "ji6",
+    "hanzi": "计",
+    "pinyin": "ji",
+    "tone": "jì",
+    "meaning": "to calculate, to count / to plan, to reckon / plot, scheme",
+    "example": "Count the streak and keep it growing. 数一数连续天数，让它继续增长。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words counted like marks — 计 means to count or plan."
+  },
+  {
+    "id": "guan5",
+    "hanzi": "管",
+    "pinyin": "guan",
+    "tone": "guǎn",
+    "meaning": "tube, pipe, duct / to manage, to control",
+    "example": "Guide your practice along one clear line. 沿着一条清晰的线引导练习。",
+    "strokeHint": [
+      "radical: ⺮",
+      "structure: ⿱⺮官",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Bamboo tubes managing a flow — 管 means to manage."
+  },
+  {
+    "id": "qi6",
+    "hanzi": "期",
+    "pinyin": "qi",
+    "tone": "qī",
+    "meaning": "a period of time / date, time / phase",
+    "example": "A new period starts with today’s word. 新的阶段从今天的字开始。",
+    "strokeHint": [
+      "radical: 月",
+      "structure: ⿰其月",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A moon marking a fixed time — 期 means period or expectation."
+  },
+  {
+    "id": "shi8",
+    "hanzi": "市",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "city, town / market, fair / to trade",
+    "example": "The city square gathers many small lights. 城市广场汇聚许多小光。",
+    "strokeHint": [
+      "radical: 巾",
+      "structure: ⿱亠巾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A market stall under a sign — 市 means market or city."
+  },
+  {
+    "id": "zhi6",
+    "hanzi": "直",
+    "pinyin": "zhi",
+    "tone": "zhí",
+    "meaning": "straight, vertical / candid, direct, frank",
+    "example": "Stay straight on the path, one step at a time. 在路上一路走直，一步一步。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿳十目一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye looking straight ahead — 直 means straight."
+  },
+  {
+    "id": "de4",
+    "hanzi": "德",
+    "pinyin": "de",
+    "tone": "dé",
+    "meaning": "ethics, morality / compassion, kindness",
+    "example": "A kind habit is the heart of learning. 善良的习惯是学习的核心。",
+    "strokeHint": [
+      "radical: 彳",
+      "structure: ⿰彳⿱⿱十罒⿱一心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart walking the right way — 德 means virtue."
+  },
+  {
+    "id": "zi3",
+    "hanzi": "资",
+    "pinyin": "zi",
+    "tone": "zī",
+    "meaning": "wealth, property, capital",
+    "example": "Small resources grow into a rich collection. 小小的资源长成丰富的收藏。",
+    "strokeHint": [
+      "radical: 贝",
+      "structure: ⿱次贝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Shells and goods as wealth — 资 means resources."
+  },
+  {
+    "id": "ming3",
+    "hanzi": "命",
+    "pinyin": "ming",
+    "tone": "mìng",
+    "meaning": "life / destiny, fate, luck / an order, instruction",
+    "example": "Name the day with one clear intention. 用清晰的心意为今天命名。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿹令口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A command given to life — 命 means life or fate."
+  },
+  {
+    "id": "jin5",
+    "hanzi": "金",
+    "pinyin": "jin",
+    "tone": "jīn",
+    "meaning": "gold, metal / money",
+    "example": "A golden light marks the finished lesson. 金色的光标记完成的一课。",
+    "strokeHint": [
+      "radical: 金",
+      "structure: ⿱人⿻王丷",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Metal found beneath the earth — 金 means gold or metal."
+  },
+  {
+    "id": "zhi7",
+    "hanzi": "指",
+    "pinyin": "zhi",
+    "tone": "zhǐ",
+    "meaning": "finger, toe / to point, to indicate",
+    "example": "Point to the character and say it softly. 指着这个字，轻轻读出来。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌旨",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand pointing with a finger — 指 means to point."
+  },
+  {
+    "id": "ke5",
+    "hanzi": "克",
+    "pinyin": "ke",
+    "tone": "kè",
+    "meaning": "to subdue, to restrain, to overcome / used in transliterations",
+    "example": "Overcome one small doubt and continue. 克服一点小犹豫，继续下去。",
+    "strokeHint": [
+      "radical: 儿",
+      "structure: ⿱十兄",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person bearing a heavy roof — 克 means to overcome."
+  },
+  {
+    "id": "xu",
+    "hanzi": "许",
+    "pinyin": "xu",
+    "tone": "xǔ",
+    "meaning": "to consent, to permit / to promise, to betroth",
+    "example": "Allow yourself one unhurried minute. 许给自己不匆忙的一分钟。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠午",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words giving permission — 许 means to allow."
+  },
+  {
+    "id": "tong3",
+    "hanzi": "统",
+    "pinyin": "tong",
+    "tone": "tǒng",
+    "meaning": "to govern, to command / to gather, to unite",
+    "example": "Bring all the words into one clear thread. 把所有字串成一条清晰的线。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟充",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A thread gathering many strands — 统 means to unite or system."
+  },
+  {
+    "id": "qu5",
+    "hanzi": "区",
+    "pinyin": "qu",
+    "tone": "qū",
+    "meaning": "area, district, region, ward / surname",
+    "example": "Mark a small area where learning happens. 标出一小片学习发生的区域。",
+    "strokeHint": [
+      "radical: 匸",
+      "structure: ⿷匸乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A boundary holding marked boxes — 区 means area."
+  },
+  {
+    "id": "bao5",
+    "hanzi": "保",
+    "pinyin": "bao",
+    "tone": "bǎo",
+    "meaning": "to safeguard, to protect, to defend, to care for",
+    "example": "Protect the small flame of daily practice. 守护每日练习的小火苗。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻呆",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person guarding a child — 保 means to protect."
+  },
+  {
+    "id": "zhi8",
+    "hanzi": "至",
+    "pinyin": "zhi",
+    "tone": "zhì",
+    "meaning": "reach, arrive / very, extremely",
+    "example": "Arrive at the lesson with a calm mind. 以平静的心来到学习前。",
+    "strokeHint": [
+      "radical: 至",
+      "structure: ⿱⿱一厶土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An arrow reaching the ground — 至 means to arrive."
+  },
+  {
+    "id": "dui5",
+    "hanzi": "队",
+    "pinyin": "dui",
+    "tone": "duì",
+    "meaning": "team, group, band, army unit / measure word for groups of people",
+    "example": "Join the quiet line of daily learners. 加入每日学习者安静的队伍。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰阝人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "People lined up on a hill — 队 means team or line."
+  },
+  {
+    "id": "xing3",
+    "hanzi": "形",
+    "pinyin": "xing",
+    "tone": "xíng",
+    "meaning": "form, shape / to appear / to describe / to look",
+    "example": "The shape of the word becomes familiar. 这个字的形状变得熟悉。",
+    "strokeHint": [
+      "radical: 彡",
+      "structure: ⿰开彡",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Lines and shadow forming a figure — 形 means shape."
+  },
+  {
+    "id": "she",
+    "hanzi": "社",
+    "pinyin": "she",
+    "tone": "shè",
+    "meaning": "group, organization, society / a god of the soil",
+    "example": "A small community shares one warm light. 一个小社群共享一盏暖灯。",
+    "strokeHint": [
+      "radical: 礻",
+      "structure: ⿰礻土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An altar where people gather — 社 means society."
+  },
+  {
+    "id": "bian5",
+    "hanzi": "便",
+    "pinyin": "bian",
+    "tone": "biàn",
+    "meaning": "easy, convenient / expedient",
+    "example": "A simple path makes the lesson easy. 一条简单的路让学习变得容易。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻更",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person following an easy path — 便 means convenient."
+  },
+  {
+    "id": "kong",
+    "hanzi": "空",
+    "pinyin": "kong",
+    "tone": "kōng",
+    "meaning": "hollow, empty, deserted, bare",
+    "example": "Leave a little empty space for the word. 给这个字留一点空处。",
+    "strokeHint": [
+      "radical: 穴",
+      "structure: ⿱穴工",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cave hollowed out — 空 means empty."
+  },
+  {
+    "id": "jue",
+    "hanzi": "决",
+    "pinyin": "jue",
+    "tone": "jué",
+    "meaning": "to decide, to determine, to judge",
+    "example": "Decide to finish today’s one small step. 决定完成今天的一小步。",
+    "strokeHint": [
+      "radical: 冫",
+      "structure: ⿰冫夬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water rushing through an opening — 决 means to decide."
+  },
+  {
+    "id": "zhi9",
+    "hanzi": "治",
+    "pinyin": "zhi",
+    "tone": "zhì",
+    "meaning": "to administer, to govern, to regulate",
+    "example": "Care for the habit and it will stay ordered. 照料这个习惯，它会保持有序。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵台",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water bringing order to a place — 治 means to govern or heal."
+  },
+  {
+    "id": "zhan5",
+    "hanzi": "展",
+    "pinyin": "zhan",
+    "tone": "zhǎn",
+    "meaning": "to open, to unfold / to extend, to stretch",
+    "example": "Unfold the card and see the full meaning. 展开卡片，看见完整的意思。",
+    "strokeHint": [
+      "radical: 尸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cloth stretched open — 展 means to unfold or display."
+  },
+  {
+    "id": "ke3",
+    "hanzi": "科",
+    "pinyin": "ke",
+    "tone": "kē",
+    "meaning": "section, department / field, branch / science",
+    "example": "Each subject opens a different window. 每个学科打开不同的窗。",
+    "strokeHint": [
+      "radical: 禾",
+      "structure: ⿰禾斗",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Grain sorted into levels — 科 means field or subject."
+  },
+  {
+    "id": "si3",
+    "hanzi": "司",
+    "pinyin": "si",
+    "tone": "sī",
+    "meaning": "to take charge of, to control, to manage / officer",
+    "example": "A small office of one keeps the rhythm. 一个人的小小司职保持节奏。",
+    "strokeHint": [
+      "radical: 口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person overseeing a task — 司 means to manage."
+  },
+  {
+    "id": "ji7",
+    "hanzi": "基",
+    "pinyin": "ji",
+    "tone": "jī",
+    "meaning": "foundation, base",
+    "example": "Build the base of the word before the roof. 先筑字的根基，再盖屋顶。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿱其土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Earth forming a foundation — 基 means base."
+  },
+  {
+    "id": "yan",
+    "hanzi": "眼",
+    "pinyin": "yan",
+    "tone": "yǎn",
+    "meaning": "eyelet, hole, opening",
+    "example": "The eye returns to the character and knows it. 眼睛回到这个字，认出了它。",
+    "strokeHint": [
+      "radical: 目",
+      "structure: ⿰目艮",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye beside a rooted mark — 眼 means eye."
+  },
+  {
+    "id": "shu5",
+    "hanzi": "书",
+    "pinyin": "shu",
+    "tone": "shū",
+    "meaning": "book, letter, document / writing",
+    "example": "Write the word once and it becomes yours. 写一遍这个字，它就属于你。",
+    "strokeHint": [
+      "radical: 丨",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand holding a writing brush — 书 means book or to write."
+  },
+  {
+    "id": "fei",
+    "hanzi": "非",
+    "pinyin": "fei",
+    "tone": "fēi",
+    "meaning": "not, negative, non- / to oppose",
+    "example": "The word is not hard when seen step by step. 一步一步看，这个字并不难。",
+    "strokeHint": [
+      "radical: 非",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two wings turned apart — 非 means not."
+  },
+  {
+    "id": "ze",
+    "hanzi": "则",
+    "pinyin": "ze",
+    "tone": "zé",
+    "meaning": "rule, law, regulation / grades",
+    "example": "A clear rule gives the lesson its shape. 清晰的规则给学习以形状。",
+    "strokeHint": [
+      "radical: 刂",
+      "structure: ⿰贝刂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife setting a standard — 则 means rule or then."
+  },
+  {
+    "id": "ting",
+    "hanzi": "听",
+    "pinyin": "ting",
+    "tone": "tīng",
+    "meaning": "to hear, to listen / to understand / to obey",
+    "example": "Listen to the sound and the word grows warm. 听这个声音，字变得温暖。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An ear beside a mouth speaking — 听 means to listen."
+  },
+  {
+    "id": "bai5",
+    "hanzi": "白",
+    "pinyin": "bai",
+    "tone": "bái",
+    "meaning": "white / clear, pure, unblemished / bright",
+    "example": "A white page waits for one clear character. 白色的页面等一个清晰的字。",
+    "strokeHint": [
+      "radical: 白",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bright sun mark on white — 白 means white."
+  },
+  {
+    "id": "que",
+    "hanzi": "却",
+    "pinyin": "que",
+    "tone": "què",
+    "meaning": "still, but / decline / retreat",
+    "example": "The page is small, yet the meaning is wide. 页面虽小，意义却宽广。",
+    "strokeHint": [
+      "radical: 卩",
+      "structure: ⿰去卩",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A retreating step that turns — 却 means yet or retreat."
+  },
+  {
+    "id": "jie4",
+    "hanzi": "界",
+    "pinyin": "jie",
+    "tone": "jiè",
+    "meaning": "boundary, limit / domain / society, the world",
+    "example": "Cross the boundary into a new word. 越过边界，进入新字。",
+    "strokeHint": [
+      "radical: 田",
+      "structure: ⿱田介",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Fields divided by a clear line — 界 means boundary or world."
+  },
+  {
+    "id": "da3",
+    "hanzi": "达",
+    "pinyin": "da",
+    "tone": "dá",
+    "meaning": "to reach, to arrive at / intelligent",
+    "example": "Reach the finish and let the light rise. 到达终点，让光升起。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶大",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person walking a clear road — 达 means to reach."
+  },
+  {
+    "id": "fang5",
+    "hanzi": "放",
+    "pinyin": "fang",
+    "tone": "fàng",
+    "meaning": "to release, to liberate, to free",
+    "example": "Let the word rest and it will settle. 放下这个字，它会安定。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰方攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand releasing a strike — 放 means to release."
+  },
+  {
+    "id": "qiang",
+    "hanzi": "强",
+    "pinyin": "qiang",
+    "tone": "qiáng",
+    "meaning": "strong, powerful, energetic",
+    "example": "A steady habit grows stronger each day. 稳定的习惯一天比一天强。",
+    "strokeHint": [
+      "radical: 弓",
+      "structure: ⿰弓虽",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bow pulled with strength — 强 means strong."
+  },
+  {
+    "id": "ji8",
+    "hanzi": "即",
+    "pinyin": "ji",
+    "tone": "jí",
+    "meaning": "promptly, quickly, immediately",
+    "example": "Even a single step can start now. 即使一步，也可以现在开始。",
+    "strokeHint": [
+      "radical: 卩",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person ready at the edge — 即 means immediately."
+  },
+  {
+    "id": "xiang4",
+    "hanzi": "像",
+    "pinyin": "xiang",
+    "tone": "xiàng",
+    "meaning": "picture, image, figure / to resemble",
+    "example": "This word looks like a small picture. 这个字像一幅小画。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻象",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside an elephant shape — 像 means likeness."
+  },
+  {
+    "id": "nan5",
+    "hanzi": "难",
+    "pinyin": "nan",
+    "tone": "nán",
+    "meaning": "hard, difficult, arduous / unable",
+    "example": "A hard word becomes soft with practice. 难字经过练习也会变软。",
+    "strokeHint": [
+      "radical: 又",
+      "structure: ⿰又隹",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird facing difficulty — 难 means difficult."
+  },
+  {
+    "id": "qie",
+    "hanzi": "且",
+    "pinyin": "qie",
+    "tone": "qiě",
+    "meaning": "moreover, also (post-subject) / about to, will soon (pre-verb)",
+    "example": "Take one step, and then another. 走一步，且再走一步。",
+    "strokeHint": [
+      "radical: 一",
+      "structure: ⿱月一",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stand for what comes next — 且 means moreover."
+  },
+  {
+    "id": "quan5",
+    "hanzi": "权",
+    "pinyin": "quan",
+    "tone": "quán",
+    "meaning": "authority, power, right",
+    "example": "Give yourself the right to learn slowly. 给自己慢慢学习的权利。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree bearing the power of choice — 权 means right or power."
+  },
+  {
+    "id": "si4",
+    "hanzi": "思",
+    "pinyin": "si",
+    "tone": "sī",
+    "meaning": "to think, to ponder, to consider / final particle",
+    "example": "Think about the word and it opens. 思考这个字，它就展开。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱田心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart under a thinking field — 思 means to think."
+  },
+  {
+    "id": "wang",
+    "hanzi": "王",
+    "pinyin": "wang",
+    "tone": "wáng",
+    "meaning": "king, ruler / royal / surname",
+    "example": "The king of today’s page is one character. 今天页面的王就是一个字。",
+    "strokeHint": [
+      "radical: 王",
+      "structure: ⿱一土",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Three lines joined by a ruler — 王 means king."
+  },
+  {
+    "id": "xiang6",
+    "hanzi": "象",
+    "pinyin": "xiang",
+    "tone": "xiàng",
+    "meaning": "elephant / ivory / figure, image",
+    "example": "A mental image holds the word like an elephant. 心中的形象像大象一样托住这个字。",
+    "strokeHint": [
+      "radical: 豕",
+      "structure: ⿳⺈口豕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A large elephant-like shape — 象 means image or elephant."
+  },
+  {
+    "id": "wan5",
+    "hanzi": "完",
+    "pinyin": "wan",
+    "tone": "wán",
+    "meaning": "to complete, to finish, to settle / whole",
+    "example": "Finish one small lesson and the light appears. 完成一小课，光就出现。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀元",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof covering all that is done — 完 means complete."
+  },
+  {
+    "id": "she5",
+    "hanzi": "设",
+    "pinyin": "she",
+    "tone": "shè",
+    "meaning": "to build, to design / to establish / to offer",
+    "example": "Set up a quiet space for one word. 为一个字布置安静的空间。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠殳",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words arranged to build a plan — 设 means to set up."
+  },
+  {
+    "id": "shi9",
+    "hanzi": "式",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "formula, pattern, rule, style, system",
+    "example": "A simple form gives the lesson its shape. 简单的样式给学习以形状。",
+    "strokeHint": [
+      "radical: 弋",
+      "structure: ⿹弋工",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tool marking a standard form — 式 means style or form."
+  },
+  {
+    "id": "se",
+    "hanzi": "色",
+    "pinyin": "se",
+    "tone": "sè",
+    "meaning": "color, tint, hue, shade / beauty, form / sex",
+    "example": "The warm color of the card calms the mind. 卡片温暖的颜色让心安静。",
+    "strokeHint": [
+      "radical: 色",
+      "structure: ⿱⺈巴",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A colored face turning in light — 色 means color."
+  },
+  {
+    "id": "lu",
+    "hanzi": "路",
+    "pinyin": "lu",
+    "tone": "lù",
+    "meaning": "road, path, street / journey",
+    "example": "One clear road leads to the next word. 一条清晰的路通向下一个字。",
+    "strokeHint": [
+      "radical: 足",
+      "structure: ⿰足各",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A foot walking along a path — 路 means road."
+  },
+  {
+    "id": "ji9",
+    "hanzi": "记",
+    "pinyin": "ji",
+    "tone": "jì",
+    "meaning": "mark, sign / to note, to record",
+    "example": "Write the word down and it stays longer. 把这个字记下来，它留得更久。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠己",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words kept in the mind — 记 means to remember."
+  },
+  {
+    "id": "nan3",
+    "hanzi": "南",
+    "pinyin": "nan",
+    "tone": "nán",
+    "meaning": "south / southern / southward",
+    "example": "The warm wind comes from the south. 温暖的风从南边来。",
+    "strokeHint": [
+      "radical: 十",
+      "structure: ⿱十⿵冂⿱丷干",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A southern house facing the sun — 南 means south."
+  },
+  {
+    "id": "pin",
+    "hanzi": "品",
+    "pinyin": "pin",
+    "tone": "pǐn",
+    "meaning": "article, good, product / commodity / quality, character",
+    "example": "Taste each word slowly, like a small cup. 像小口品尝一样慢慢品一个字。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱口⿰口口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Three mouths tasting one thing — 品 means to taste or quality."
+  },
+  {
+    "id": "zhu5",
+    "hanzi": "住",
+    "pinyin": "zhu",
+    "tone": "zhù",
+    "meaning": "to reside, to live at, to dwell, to lodge / to stop",
+    "example": "Stay with the word a moment longer. 在这个字上多停留一会儿。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻主",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person resting in a place — 住 means to live or stay."
+  },
+  {
+    "id": "gao5",
+    "hanzi": "告",
+    "pinyin": "gao",
+    "tone": "gào",
+    "meaning": "to tell, to inform, to announce / to accuse",
+    "example": "Tell yourself one kind word of progress. 对自己说一句鼓励的话。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱牛口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth speaking a clear report — 告 means to tell."
+  },
+  {
+    "id": "lei",
+    "hanzi": "类",
+    "pinyin": "lei",
+    "tone": "lèi",
+    "meaning": "category, class, group, kind / similar to / to resemble",
+    "example": "Sort the new word with others like it. 把新字和同类字放在一起。",
+    "strokeHint": [
+      "radical: 大",
+      "structure: ⿱米大",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Rice and a head sorted into kinds — 类 means type."
+  },
+  {
+    "id": "qiu",
+    "hanzi": "求",
+    "pinyin": "qiu",
+    "tone": "qiú",
+    "meaning": "to seek / to request, to demand / to beseech, to beg for",
+    "example": "Ask for one quiet minute of focus. 请求一分钟安静的专注。",
+    "strokeHint": [
+      "radical: 氺",
+      "structure: ⿻一氺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand reaching out in need — 求 means to seek."
+  },
+  {
+    "id": "ju",
+    "hanzi": "据",
+    "pinyin": "ju",
+    "tone": "jù",
+    "meaning": "to possess, to occupy / position / base",
+    "example": "Hold the word in place with a small clue. 用一个小线索把字据在记忆里。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌居",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand holding a foundation — 据 means to rely on."
+  },
+  {
+    "id": "cheng5",
+    "hanzi": "程",
+    "pinyin": "cheng",
+    "tone": "chéng",
+    "meaning": "process, rules / journey, trip / agenda, schedule",
+    "example": "Every journey is made of small steps. 每一段旅程都由小步组成。",
+    "strokeHint": [
+      "radical: 禾",
+      "structure: ⿰禾呈",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Grain measured along a road — 程 means journey or degree."
+  },
+  {
+    "id": "bei5",
+    "hanzi": "北",
+    "pinyin": "bei",
+    "tone": "běi",
+    "meaning": "north / northern / northward",
+    "example": "The lamp faces north and stays steady. 灯朝北，稳稳亮着。",
+    "strokeHint": [
+      "radical: 匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two people back to back — 北 means north."
+  },
+  {
+    "id": "bian3",
+    "hanzi": "边",
+    "pinyin": "bian",
+    "tone": "biān",
+    "meaning": "border, edge, margin, side",
+    "example": "Walk to the edge and see the whole city. 走到边上，看见整座城。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶力",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A path along the border — 边 means side or edge."
+  },
+  {
+    "id": "si6",
+    "hanzi": "死",
+    "pinyin": "si",
+    "tone": "sǐ",
+    "meaning": "dead / death / impassable, inflexible",
+    "example": "An old mistake can quietly end and renew. 旧的失误可以安静结束，重新开始。",
+    "strokeHint": [
+      "radical: 歹",
+      "structure: ⿸歹匕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Bones lying still — 死 means death."
+  },
+  {
+    "id": "zhang5",
+    "hanzi": "张",
+    "pinyin": "zhang",
+    "tone": "zhāng",
+    "meaning": "to display / to expand, to open / to stretch / a sheet of paper",
+    "example": "Spread the card open on the table. 把卡片在桌上张开。",
+    "strokeHint": [
+      "radical: 弓",
+      "structure: ⿰弓长",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bow stretched wide — 张 means to spread."
+  },
+  {
+    "id": "gai",
+    "hanzi": "该",
+    "pinyin": "gai",
+    "tone": "gāi",
+    "meaning": "should, ought to, must",
+    "example": "Do the small step you already know is right. 去做那件你已知道该做的小事。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠亥",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words marking what is due — 该 means should."
+  },
+  {
+    "id": "jiao5",
+    "hanzi": "交",
+    "pinyin": "jiao",
+    "tone": "jiāo",
+    "meaning": "to connect / to deliver, to exchange / to intersect / to mix",
+    "example": "Exchange one word with a study friend. 和学习伙伴交换一个字。",
+    "strokeHint": [
+      "radical: 亠",
+      "structure: ⿱六乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two legs crossing in exchange — 交 means to exchange."
+  },
+  {
+    "id": "gui",
+    "hanzi": "规",
+    "pinyin": "gui",
+    "tone": "guī",
+    "meaning": "rules, regulations, customs, law",
+    "example": "A gentle rule keeps the practice whole. 温柔的规则让练习完整。",
+    "strokeHint": [
+      "radical: 见",
+      "structure: ⿰夫见",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A compass drawing a circle — 规 means rule."
+  },
+  {
+    "id": "qu3",
+    "hanzi": "取",
+    "pinyin": "qu",
+    "tone": "qǔ",
+    "meaning": "to take, to receive, to obtain / to select",
+    "example": "Take one word and make it yours. 取一个字，让它成为你的。",
+    "strokeHint": [
+      "radical: 又",
+      "structure: ⿰耳又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand taking an ear-shaped mark — 取 means to take."
+  },
+  {
+    "id": "la",
+    "hanzi": "拉",
+    "pinyin": "la",
+    "tone": "lā",
+    "meaning": "to pull, to drag / to seize, to hold / to lengthen / to play (a violin)",
+    "example": "Pull the lesson closer with one deep breath. 深呼吸，把学习拉近。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌立",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand pulling something near — 拉 means to pull."
+  },
+  {
+    "id": "ge3",
+    "hanzi": "格",
+    "pinyin": "ge",
+    "tone": "gé",
+    "meaning": "form, pattern, standard",
+    "example": "Give each word a clear square to rest in. 给每个字一个清晰的格子安放。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木各",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree framed in a lattice — 格 means grid or pattern."
+  },
+  {
+    "id": "wang5",
+    "hanzi": "望",
+    "pinyin": "wang",
+    "tone": "wàng",
+    "meaning": "to expect, to hope, to look forward to",
+    "example": "Look far and see tomorrow’s word waiting. 望向远方，看见明天的字在等。",
+    "strokeHint": [
+      "radical: 月",
+      "structure: ⿱⿰亡月王",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A moon over an eye gazing far — 望 means to look afar."
+  },
+  {
+    "id": "jue5",
+    "hanzi": "觉",
+    "pinyin": "jue",
+    "tone": "jué",
+    "meaning": "conscious / to nap, to sleep / to wake up",
+    "example": "Wake the senses and notice the word. 唤醒感官，注意这个字。",
+    "strokeHint": [
+      "radical: 见",
+      "structure: ⿳⺍冖见",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person seeing and knowing — 觉 means to feel or awaken."
+  },
+  {
+    "id": "shu3",
+    "hanzi": "术",
+    "pinyin": "shu",
+    "tone": "shù",
+    "meaning": "skill, art / method, technique / trick",
+    "example": "A small skill grows with gentle practice. 小小的技艺在温柔练习中成长。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿺木丶",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A plant marking a learned skill — 术 means technique."
+  },
+  {
+    "id": "ling",
+    "hanzi": "领",
+    "pinyin": "ling",
+    "tone": "lǐng",
+    "meaning": "neck, collar / lead, guide",
+    "example": "Lead yourself through one clear lesson. 带领自己完成清晰的一课。",
+    "strokeHint": [
+      "radical: 页",
+      "structure: ⿰令页",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A head guiding a page — 领 means to lead."
+  },
+  {
+    "id": "gong3",
+    "hanzi": "共",
+    "pinyin": "gong",
+    "tone": "gòng",
+    "meaning": "all, total / together / to share",
+    "example": "Share one light with the whole circle. 与整个圈子共享一道光。",
+    "strokeHint": [
+      "radical: 八",
+      "structure: ⿳廾一八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Hands raised together — 共 means together."
+  },
+  {
+    "id": "que5",
+    "hanzi": "确",
+    "pinyin": "que",
+    "tone": "què",
+    "meaning": "certain, sure / definite, exact / real, true",
+    "example": "Make sure the meaning is truly clear. 确认这个意思真的清楚。",
+    "strokeHint": [
+      "radical: 石",
+      "structure: ⿰石角",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stone marking certainty — 确 means certain."
+  },
+  {
+    "id": "chuan",
+    "hanzi": "传",
+    "pinyin": "chuan",
+    "tone": "chuán",
+    "meaning": "to pass on / to propagate / to transmit / summons",
+    "example": "Pass the word from one learner to another. 把字从一个学习者传给另一个。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻专",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person handing knowledge along — 传 means to pass on."
+  },
+  {
+    "id": "shi10",
+    "hanzi": "师",
+    "pinyin": "shi",
+    "tone": "shī",
+    "meaning": "teacher, professional, master",
+    "example": "A patient teacher makes the path lighter. 耐心的老师让路更轻。",
+    "strokeHint": [
+      "radical: 巾",
+      "structure: ⿰刂帀",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A leader guiding a group — 师 means teacher."
+  },
+  {
+    "id": "guan3",
+    "hanzi": "观",
+    "pinyin": "guan",
+    "tone": "guān",
+    "meaning": "to observe, to spectate / appearance, view",
+    "example": "Observe the character from every quiet angle. 从每个安静的角度观察这个字。",
+    "strokeHint": [
+      "radical: 见",
+      "structure: ⿰又见",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye watching from a high place — 观 means to observe."
+  },
+  {
+    "id": "qing5",
+    "hanzi": "清",
+    "pinyin": "qing",
+    "tone": "qīng",
+    "meaning": "clean, pure / clear, distinct / peaceful",
+    "example": "Clear water, clear mind, one clear word. 清水、清心、一个清晰的字。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵青",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water beside a green-blue tone — 清 means clear."
+  },
+  {
+    "id": "jin3",
+    "hanzi": "今",
+    "pinyin": "jin",
+    "tone": "jīn",
+    "meaning": "modern, current / today, now",
+    "example": "Today is the only page you need to light. 今天就是你需要点亮的那一页。",
+    "strokeHint": [
+      "radical: 人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A now-mark under a roof — 今 means today."
+  },
+  {
+    "id": "qie5",
+    "hanzi": "切",
+    "pinyin": "qie",
+    "tone": "qiè",
+    "meaning": "to cut, to mince, to slice, to carve / close to / eager",
+    "example": "Cut the lesson into one gentle bite. 把学习切成温柔的一小口。",
+    "strokeHint": [
+      "radical: 刀",
+      "structure: ⿰七刀",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A knife cutting close — 切 means to cut."
+  },
+  {
+    "id": "yuan3",
+    "hanzi": "院",
+    "pinyin": "yuan",
+    "tone": "yuàn",
+    "meaning": "court, yard, courtyard / school",
+    "example": "A quiet courtyard holds the morning light. 安静的院子盛着晨光。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰阝完",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A fence around a resting place — 院 means courtyard."
+  },
+  {
+    "id": "rang",
+    "hanzi": "让",
+    "pinyin": "rang",
+    "tone": "ràng",
+    "meaning": "to allow, to permit, to yield",
+    "example": "Make room for one more small word. 为下一个小字让出空间。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠上",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words stepping aside — 让 means to yield or let."
+  },
+  {
+    "id": "shi11",
+    "hanzi": "识",
+    "pinyin": "shi",
+    "tone": "shí",
+    "meaning": "knowledge / to understand, to recognize, to know",
+    "example": "Recognize the shape and its meaning follows. 认出形状，意义随之而来。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠只",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Speech that marks knowledge — 识 means to know."
+  },
+  {
+    "id": "hou5",
+    "hanzi": "候",
+    "pinyin": "hou",
+    "tone": "hòu",
+    "meaning": "to wait, to expect / to visit / to greet",
+    "example": "Wait for the right moment to review. 等候合适的时刻复习。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻矦",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person watching the time — 候 means time or to wait."
+  },
+  {
+    "id": "dai5",
+    "hanzi": "带",
+    "pinyin": "dai",
+    "tone": "dài",
+    "meaning": "belt, strap / band, ribbon / area, zone / to carry, to raise, to wear",
+    "example": "Carry the word with you through the day. 把字带在身边过一天。",
+    "strokeHint": [
+      "radical: 巾",
+      "structure: ⿱卅⿱冖巾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cloth worn as a belt — 带 means to carry."
+  },
+  {
+    "id": "dao3",
+    "hanzi": "导",
+    "pinyin": "dao",
+    "tone": "dǎo",
+    "meaning": "to direct, to guide, to lead, to conduct",
+    "example": "Guide the light along the right path. 引导光走上正确的路。",
+    "strokeHint": [
+      "radical: 寸",
+      "structure: ⿱巳寸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand showing the way — 导 means to guide."
+  },
+  {
+    "id": "zheng3",
+    "hanzi": "争",
+    "pinyin": "zheng",
+    "tone": "zhēng",
+    "meaning": "to dispute, to fight, to contend, to strive",
+    "example": "Do not rush; let the word settle in peace. 不必争，让字安静落下。",
+    "strokeHint": [
+      "radical: 亅",
+      "structure: ⿱⺈⿻彐亅",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two hands pulling against each other — 争 means to struggle."
+  },
+  {
+    "id": "yun",
+    "hanzi": "运",
+    "pinyin": "yun",
+    "tone": "yùn",
+    "meaning": "to run / ship, transport / fortune, luck",
+    "example": "A steady rhythm carries the practice forward. 平稳的节奏把练习运向前。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶云",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A road moving things forward — 运 means to carry or fortune."
+  },
+  {
+    "id": "xiao5",
+    "hanzi": "笑",
+    "pinyin": "xiao",
+    "tone": "xiào",
+    "meaning": "to smile, to laugh / to giggle / to snicker",
+    "example": "A small smile makes the hard word softer. 一个微笑让难字变软。",
+    "strokeHint": [
+      "radical: ⺮",
+      "structure: ⿱⺮夭",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Bamboo bending like laughter — 笑 means to laugh."
+  },
+  {
+    "id": "fei5",
+    "hanzi": "飞",
+    "pinyin": "fei",
+    "tone": "fēi",
+    "meaning": "to fly, to dart / high",
+    "example": "The meaning flies in on a light breath. 意义乘着轻风飞来。",
+    "strokeHint": [
+      "radical: 飞",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird rising with open wings — 飞 means to fly."
+  },
+  {
+    "id": "feng",
+    "hanzi": "风",
+    "pinyin": "feng",
+    "tone": "fēng",
+    "meaning": "wind / air / customs, manners / news",
+    "example": "The wind turns the page to a new word. 风把页面翻到新字。",
+    "strokeHint": [
+      "radical: 风",
+      "structure: ⿵几乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sail catching the wind — 风 means wind."
+  },
+  {
+    "id": "bu3",
+    "hanzi": "步",
+    "pinyin": "bu",
+    "tone": "bù",
+    "meaning": "walk, stroll, pace, march / to make progress",
+    "example": "One small step is already progress. 一步已是进步。",
+    "strokeHint": [
+      "radical: 止",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Feet stopping and starting again — 步 means step."
+  },
+  {
+    "id": "gai5",
+    "hanzi": "改",
+    "pinyin": "gai",
+    "tone": "gǎi",
+    "meaning": "to alter, to change, to improve, to remodel",
+    "example": "Change one habit and the streak stays. 改变一个小习惯，连续就守住。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰己攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand making a correction — 改 means to change."
+  },
+  {
+    "id": "shou3",
+    "hanzi": "收",
+    "pinyin": "shou",
+    "tone": "shōu",
+    "meaning": "to collect, to gather, to harvest",
+    "example": "Gather the day’s light into one place. 把一天的光收进一处。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿰丩攵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand gathering grain — 收 means to collect."
+  },
+  {
+    "id": "gen",
+    "hanzi": "根",
+    "pinyin": "gen",
+    "tone": "gēn",
+    "meaning": "root, basis, foundation",
+    "example": "The root of memory is a clear image. 记忆的根是一个清晰的画面。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木艮",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree rooted in the soil — 根 means root."
+  },
+  {
+    "id": "gan5",
+    "hanzi": "干",
+    "pinyin": "gan",
+    "tone": "gàn",
+    "meaning": "arid, dry / to oppose / to offend / to invade",
+    "example": "Do the small task and let the rest wait. 干完这件小事，其他先放着。",
+    "strokeHint": [
+      "radical: 十",
+      "structure: ⿱一十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A trunk doing the main work — 干 means to do or dry."
+  },
+  {
+    "id": "zao",
+    "hanzi": "造",
+    "pinyin": "zao",
+    "tone": "zào",
+    "meaning": "to build, to construct, to invent, to manufacture",
+    "example": "Create one sentence and own the word. 造一个句子，真正拥有这个字。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶告",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A moving path being made — 造 means to create."
+  },
+  {
+    "id": "yan5",
+    "hanzi": "言",
+    "pinyin": "yan",
+    "tone": "yán",
+    "meaning": "words, speech / to speak, to say",
+    "example": "A single spoken word can open a door. 一句话可以打开一扇门。",
+    "strokeHint": [
+      "radical: 言",
+      "structure: ⿱亠⿱二口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth with rising words — 言 means speech."
+  },
+  {
+    "id": "lian",
+    "hanzi": "联",
+    "pinyin": "lian",
+    "tone": "lián",
+    "meaning": "ally, associate / to connect, to join",
+    "example": "Link today’s word to a picture you know. 把今天的字和你熟悉的画面联起来。",
+    "strokeHint": [
+      "radical: 耳",
+      "structure: ⿰耳关",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An ear joining sounds together — 联 means to link."
+  },
+  {
+    "id": "chi",
+    "hanzi": "持",
+    "pinyin": "chi",
+    "tone": "chí",
+    "meaning": "to hold, to support, to sustain",
+    "example": "Hold the habit gently but steadily. 温柔而坚定地持守习惯。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌寺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand keeping something firm — 持 means to hold."
+  },
+  {
+    "id": "zu",
+    "hanzi": "组",
+    "pinyin": "zu",
+    "tone": "zǔ",
+    "meaning": "to form, to assemble / section, department",
+    "example": "Group the characters into a small family. 把字组成一个小家族。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟且",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Threads organized into groups — 组 means group."
+  },
+  {
+    "id": "mei3",
+    "hanzi": "每",
+    "pinyin": "mei",
+    "tone": "měi",
+    "meaning": "each, every",
+    "example": "Each day is a fresh small start. 每一天都是新的小开始。",
+    "strokeHint": [
+      "radical: 母",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mother mark for every one — 每 means every."
+  },
+  {
+    "id": "ji10",
+    "hanzi": "济",
+    "pinyin": "ji",
+    "tone": "jì",
+    "meaning": "to aid, to help, to relieve / to ferry across",
+    "example": "Many small helps together make a difference. 许多小帮助合起来就有力量。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵齐",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water crossing evenly — 济 means to help."
+  },
+  {
+    "id": "che",
+    "hanzi": "车",
+    "pinyin": "che",
+    "tone": "chē",
+    "meaning": "cart, vehicle / to move in a cart",
+    "example": "A little car carries the lesson home. 一辆小车把学习带回家。",
+    "strokeHint": [
+      "radical: 车",
+      "structure: ⿻七十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cart with wheels and a body — 车 means vehicle."
+  },
+  {
+    "id": "qin",
+    "hanzi": "亲",
+    "pinyin": "qin",
+    "tone": "qīn",
+    "meaning": "relatives, parents / intimate / the hazelnut tree",
+    "example": "A familiar word feels close to the heart. 熟悉的字让人亲近。",
+    "strokeHint": [
+      "radical: 立",
+      "structure: ⿱立⿻一小",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A parent standing near — 亲 means close or relative."
+  },
+  {
+    "id": "ji11",
+    "hanzi": "极",
+    "pinyin": "ji",
+    "tone": "jí",
+    "meaning": "extreme, top / final, furthest, utmost / pole",
+    "example": "Push to the edge of focus, then rest. 把专注推到极点，然后休息。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木及",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A beam reaching its limit — 极 means extreme."
+  },
+  {
+    "id": "fu",
+    "hanzi": "服",
+    "pinyin": "fu",
+    "tone": "fú",
+    "meaning": "clothes / to dress, to wear / to take medicine",
+    "example": "Wear the practice like a soft coat. 像穿一件柔软的外衣一样带着练习。",
+    "strokeHint": [
+      "radical: 月",
+      "structure: ⿰月⿸卩又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A garment that fits the body — 服 means clothes or to accept."
+  },
+  {
+    "id": "kuai",
+    "hanzi": "快",
+    "pinyin": "kuai",
+    "tone": "kuài",
+    "meaning": "speedy, rapid, quick / soon",
+    "example": "A quick review keeps the word fresh. 快速复习让字保持新鲜。",
+    "strokeHint": [
+      "radical: 忄",
+      "structure: ⿰忄夬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart moving lightly — 快 means quick or happy."
+  },
+  {
+    "id": "ban",
+    "hanzi": "办",
+    "pinyin": "ban",
+    "tone": "bàn",
+    "meaning": "to set up / to manage, to run / to deal with, to handle",
+    "example": "Handle one small thing and feel lighter. 办完一件小事，心里更轻。",
+    "strokeHint": [
+      "radical: 力",
+      "structure: ⿻力八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand managing a task — 办 means to handle."
+  },
+  {
+    "id": "yi7",
+    "hanzi": "议",
+    "pinyin": "yi",
+    "tone": "yì",
+    "meaning": "to consult, to talk over / to criticize, to discuss",
+    "example": "Discuss the word until it makes sense. 讨论这个字，直到它讲得通。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠义",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words exchanged in council — 议 means to discuss."
+  },
+  {
+    "id": "wang3",
+    "hanzi": "往",
+    "pinyin": "wang",
+    "tone": "wǎng",
+    "meaning": "to go, to depart / past, former",
+    "example": "Go toward the light, one step at a time. 朝着光走去，一步一步。",
+    "strokeHint": [
+      "radical: 彳",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A road leading forward — 往 means toward or past."
+  },
+  {
+    "id": "yuan4",
+    "hanzi": "元",
+    "pinyin": "yuan",
+    "tone": "yuán",
+    "meaning": "first / dollar / origin / head",
+    "example": "The first unit of a long journey. 漫长旅程的第一个单元。",
+    "strokeHint": [
+      "radical: 儿",
+      "structure: ⿱二儿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A head at the beginning — 元 means first or origin."
+  },
+  {
+    "id": "ying5",
+    "hanzi": "英",
+    "pinyin": "ying",
+    "tone": "yīng",
+    "meaning": "petal, flower, leaf / brave, heroic / English",
+    "example": "A brave small step shines like a flower. 勇敢的一小步像花一样闪亮。",
+    "strokeHint": [
+      "radical: 艹",
+      "structure: ⿱艹央",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A flower standing bright — 英 means brave or fine."
+  },
+  {
+    "id": "shi12",
+    "hanzi": "士",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "scholar, gentleman / soldier",
+    "example": "A quiet learner stands like a scholar. 安静的学习者像一位士人站立。",
+    "strokeHint": [
+      "radical: 士",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person standing firm — 士 means scholar or warrior."
+  },
+  {
+    "id": "zheng4",
+    "hanzi": "证",
+    "pinyin": "zheng",
+    "tone": "zhèng",
+    "meaning": "to prove, to verify / certificate, proof",
+    "example": "One finished lesson is proof of progress. 完成一课就是进步的证明。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠正",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words confirmed as true — 证 means proof."
+  },
+  {
+    "id": "jin4",
+    "hanzi": "近",
+    "pinyin": "jin",
+    "tone": "jìn",
+    "meaning": "to approach / near, close / intimate",
+    "example": "Stay near the word until it feels known. 靠近这个字，直到熟悉。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A foot stepping close — 近 means near."
+  },
+  {
+    "id": "shi13",
+    "hanzi": "失",
+    "pinyin": "shi",
+    "tone": "shī",
+    "meaning": "to lose / to make a mistake, to neglect",
+    "example": "Do not fear a missed day; begin again. 不要怕失去一天，重新开始。",
+    "strokeHint": [
+      "radical: 大",
+      "structure: ⿻丿夫",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand dropping something — 失 means to lose."
+  },
+  {
+    "id": "zhuan",
+    "hanzi": "转",
+    "pinyin": "zhuan",
+    "tone": "zhuǎn",
+    "meaning": "to move, to convey / to turn, to revolve, to circle / to forward mail",
+    "example": "Turn the card and see another meaning. 转动卡片，看见另一层意思。",
+    "strokeHint": [
+      "radical: 车",
+      "structure: ⿰车专",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A wheel turning on its path — 转 means to turn."
+  },
+  {
+    "id": "fu5",
+    "hanzi": "夫",
+    "pinyin": "fu",
+    "tone": "fū",
+    "meaning": "man, husband / worker / those",
+    "example": "A steady person carries the day’s work. 稳重的人担起一天的事。",
+    "strokeHint": [
+      "radical: 大",
+      "structure: ⿻一大",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person with a working hairpin — 夫 means man or husband."
+  },
+  {
+    "id": "ling5",
+    "hanzi": "令",
+    "pinyin": "ling",
+    "tone": "lìng",
+    "meaning": "command, decree, order / magistrate / to allow, to cause",
+    "example": "Give the day one gentle command: begin. 给今天一道温柔的命令：开始。",
+    "strokeHint": [
+      "radical: 人",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a command spoken — 令 means order."
+  },
+  {
+    "id": "zhun",
+    "hanzi": "准",
+    "pinyin": "zhun",
+    "tone": "zhǔn",
+    "meaning": "standard, accurate / to permit, to approve, to allow",
+    "example": "Set a clear standard for your review. 为复习定一个清晰的标准。",
+    "strokeHint": [
+      "radical: 冫",
+      "structure: ⿰冫隹",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird leveling its flight — 准 means standard or accurate."
+  },
+  {
+    "id": "bu4",
+    "hanzi": "布",
+    "pinyin": "bu",
+    "tone": "bù",
+    "meaning": "cotton, linen, textiles / to announce, to declare / to spread",
+    "example": "Spread a soft cloth over the study table. 在书桌上铺开柔软的布。",
+    "strokeHint": [
+      "radical: 巾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Cloth spread wide — 布 means cloth or to spread."
+  },
+  {
+    "id": "shi14",
+    "hanzi": "始",
+    "pinyin": "shi",
+    "tone": "shǐ",
+    "meaning": "to begin, to start / beginning",
+    "example": "Begin with one unhurried breath. 从一次不匆忙的呼吸开始。",
+    "strokeHint": [
+      "radical: 女",
+      "structure: ⿰女台",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A woman beginning a new step — 始 means to begin."
+  },
+  {
+    "id": "zen",
+    "hanzi": "怎",
+    "pinyin": "zen",
+    "tone": "zěn",
+    "meaning": "what? why? how?",
+    "example": "How will you light your city today? 你今天会怎样点亮你的城市？",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱乍心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart asking how — 怎 means how."
+  },
+  {
+    "id": "ne",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "tone": "né",
+    "meaning": "wool / interrogative or emphatic final particle",
+    "example": "A soft question keeps the thought open. 一个轻声的“呢”让思绪继续。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口尼",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth adding a soft question — 呢 is a question particle."
+  },
+  {
+    "id": "cun",
+    "hanzi": "存",
+    "pinyin": "cun",
+    "tone": "cún",
+    "meaning": "to exist / to survive, to maintain / to keep, to store / to deposit",
+    "example": "Keep the word safely in your memory. 把这个字妥善存在记忆里。",
+    "strokeHint": [
+      "radical: 子",
+      "structure: ⿸才子",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A child kept under a roof — 存 means to keep."
+  },
+  {
+    "id": "wei3",
+    "hanzi": "未",
+    "pinyin": "wei",
+    "tone": "wèi",
+    "meaning": "not yet / 8th terrestrial branch",
+    "example": "The page is not yet turned; wait softly. 页面还未翻过，轻轻等待。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿻一木",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree not yet grown — 未 means not yet."
+  },
+  {
+    "id": "yuan6",
+    "hanzi": "远",
+    "pinyin": "yuan",
+    "tone": "yuǎn",
+    "meaning": "distant, remote, far / profound",
+    "example": "A far journey still begins nearby. 遥远的路也从近处开始。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶元",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A road stretching far — 远 means far."
+  },
+  {
+    "id": "jiao3",
+    "hanzi": "叫",
+    "pinyin": "jiao",
+    "tone": "jiào",
+    "meaning": "cry, shout / to call, to greet, to hail",
+    "example": "Call the character by its true name. 叫出这个字真正的名字。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口丩",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth giving a call — 叫 means to call."
+  },
+  {
+    "id": "tai5",
+    "hanzi": "台",
+    "pinyin": "tai",
+    "tone": "tái",
+    "meaning": "platform / unit / term of address",
+    "example": "A small platform raises the day’s word. 小小的台子托起今天的字。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱厶口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A raised platform — 台 means platform."
+  },
+  {
+    "id": "dan5",
+    "hanzi": "单",
+    "pinyin": "dan",
+    "tone": "dān",
+    "meaning": "single, individual, only / lone",
+    "example": "A single card can carry a whole lesson. 一张单薄的卡片能承载一课。",
+    "strokeHint": [
+      "radical: 丷",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A net held open and alone — 单 means single."
+  },
+  {
+    "id": "ying3",
+    "hanzi": "影",
+    "pinyin": "ying",
+    "tone": "yǐng",
+    "meaning": "shadow / image, reflection / photograph",
+    "example": "The soft shadow follows the glowing word. 柔和的影子跟着发光的字。",
+    "strokeHint": [
+      "radical: 彡",
+      "structure: ⿰景彡",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Light shaping a shadow — 影 means shadow."
+  },
+  {
+    "id": "ju5",
+    "hanzi": "具",
+    "pinyin": "ju",
+    "tone": "jù",
+    "meaning": "tool, implement / to draw up, to write",
+    "example": "A simple tool makes the writing easier. 简单的工具让书写更容易。",
+    "strokeHint": [
+      "radical: 八",
+      "structure: ⿱目⿱一八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Hands holding a prepared tool — 具 means tool."
+  },
+  {
+    "id": "luo",
+    "hanzi": "罗",
+    "pinyin": "luo",
+    "tone": "luō",
+    "meaning": "gauze, net / to collect, to display",
+    "example": "A fine net gathers many small lights. 细密的网罗起许多小光。",
+    "strokeHint": [
+      "radical: 罒",
+      "structure: ⿱罒夕",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A net spread over a bird — 罗 means net."
+  },
+  {
+    "id": "zi4",
+    "hanzi": "字",
+    "pinyin": "zi",
+    "tone": "zì",
+    "meaning": "character, letter, symbol, word",
+    "example": "A character is a small picture of meaning. 一个字就是一幅小小的意义之画。",
+    "strokeHint": [
+      "radical: 子",
+      "structure: ⿱宀子",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A child under a roof learning to write — 字 means character."
+  },
+  {
+    "id": "ai",
+    "hanzi": "爱",
+    "pinyin": "ai",
+    "tone": "ài",
+    "meaning": "to love, to like, to be fond of / love, affection",
+    "example": "Love the small habit and it will grow. 热爱这个小习惯，它就会成长。",
+    "strokeHint": [
+      "radical: 爫",
+      "structure: ⿱⿱爫冖友",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart held between two hands — 爱 means love."
+  },
+  {
+    "id": "ji12",
+    "hanzi": "击",
+    "pinyin": "ji",
+    "tone": "jī",
+    "meaning": "to strike, to hit, to beat / to attack, to fight",
+    "example": "Tap once and the lesson begins. 轻轻一击，学习开始。",
+    "strokeHint": [
+      "radical: 凵",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand striking a mark — 击 means to hit."
+  },
+  {
+    "id": "liu5",
+    "hanzi": "流",
+    "pinyin": "liu",
+    "tone": "liú",
+    "meaning": "to flow, to drift, to circulate / class",
+    "example": "Let the practice flow like soft water. 让练习像流水一样流动。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵㐬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water flowing on a path — 流 means to flow."
+  },
+  {
+    "id": "bei3",
+    "hanzi": "备",
+    "pinyin": "bei",
+    "tone": "bèi",
+    "meaning": "to prepare / to get ready, to equip / ready / perfect",
+    "example": "Prepare one quiet minute before you start. 开始前准备安静的一分钟。",
+    "strokeHint": [
+      "radical: 夂",
+      "structure: ⿱夂田",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A quiver kept ready — 备 means to prepare."
+  },
+  {
+    "id": "bing5",
+    "hanzi": "兵",
+    "pinyin": "bing",
+    "tone": "bīng",
+    "meaning": "soldier / troops, an army / warlike",
+    "example": "A small soldier of habit guards the day. 一个习惯小兵守护这一天。",
+    "strokeHint": [
+      "radical: 八",
+      "structure: ⿱丘八",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Two hands holding a weapon — 兵 means soldier."
+  },
+  {
+    "id": "lian5",
+    "hanzi": "连",
+    "pinyin": "lian",
+    "tone": "lián",
+    "meaning": "to join, to connect / continuous / even",
+    "example": "Link the days into one unbroken line. 把日子连成不断的线。",
+    "strokeHint": [
+      "radical: 辶",
+      "structure: ⿺辶车",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cart joined to a road — 连 means to connect."
+  },
+  {
+    "id": "diao",
+    "hanzi": "调",
+    "pinyin": "diao",
+    "tone": "diào",
+    "meaning": "tune, melody, key / to transfer, to exchange",
+    "example": "Adjust the tone until it sounds right. 调整声调，直到读对。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠周",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words tuned like music — 调 means to tune or adjust."
+  },
+  {
+    "id": "shen4",
+    "hanzi": "深",
+    "pinyin": "shen",
+    "tone": "shēn",
+    "meaning": "deep, profound / depth",
+    "example": "A deep breath makes the word feel light. 深呼吸让这个字变轻。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵罙",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water running deep into a dark place — 深 means deep."
+  },
+  {
+    "id": "shang5",
+    "hanzi": "商",
+    "pinyin": "shang",
+    "tone": "shāng",
+    "meaning": "commerce, business, trade",
+    "example": "A small trade of words enriches the lesson. 一次小小的字词交换让学习更丰富。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿱⿱亠丷冏",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A merchant weighing goods — 商 means commerce or discuss."
+  },
+  {
+    "id": "suan",
+    "hanzi": "算",
+    "pinyin": "suan",
+    "tone": "suàn",
+    "meaning": "to calculate, to count / to figure, to plan",
+    "example": "Count the small steps and see the growth. 算一算小步，看见成长。",
+    "strokeHint": [
+      "radical: ⺮",
+      "structure: ⿱⺮具",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Bamboo tally sticks for counting — 算 means to calculate."
+  },
+  {
+    "id": "zhi10",
+    "hanzi": "质",
+    "pinyin": "zhi",
+    "tone": "zhì",
+    "meaning": "essence, nature / material, substance",
+    "example": "The quality of one honest minute matters. 一分钟的真诚质量很重要。",
+    "strokeHint": [
+      "radical: 厂",
+      "structure: ⿸厂⿱十贝",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A shell of pure worth — 质 means quality or substance."
+  },
+  {
+    "id": "tuan",
+    "hanzi": "团",
+    "pinyin": "tuan",
+    "tone": "tuán",
+    "meaning": "sphere, circle, ball / mass, lump / group, regiment / to gather",
+    "example": "A small group gathers around one light. 一小群人围着一盏灯。",
+    "strokeHint": [
+      "radical: 囗",
+      "structure: ⿴囗才",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A circle holding people together — 团 means group or round."
+  },
+  {
+    "id": "ji13",
+    "hanzi": "集",
+    "pinyin": "ji",
+    "tone": "jí",
+    "meaning": "to gather, to collect / set, collection",
+    "example": "Collect the words into one bright set. 把字收集成明亮的一组。",
+    "strokeHint": [
+      "radical: 隹",
+      "structure: ⿱隹木",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Birds gathering on a tree — 集 means to gather."
+  },
+  {
+    "id": "xu5",
+    "hanzi": "需",
+    "pinyin": "xu",
+    "tone": "xū",
+    "meaning": "to need, to require / must",
+    "example": "What you need today is one clear word. 你今天需要的只是一个清晰的字。",
+    "strokeHint": [
+      "radical: 雨",
+      "structure: ⿱雨而",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Rain waiting on a need — 需 means to need."
+  },
+  {
+    "id": "jia3",
+    "hanzi": "价",
+    "pinyin": "jia",
+    "tone": "jià",
+    "meaning": "price, value",
+    "example": "The value of a word grows with use. 一个字的价値随着使用而增长。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻介",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person measuring worth — 价 means price or value."
+  },
+  {
+    "id": "hua3",
+    "hanzi": "花",
+    "pinyin": "hua",
+    "tone": "huā",
+    "meaning": "flower, blossom / to spend (time or money)",
+    "example": "A small flower of effort opens the day. 努力的小花打开一天。",
+    "strokeHint": [
+      "radical: 艹",
+      "structure: ⿱艹化",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A plant blooming at the top — 花 means flower."
+  },
+  {
+    "id": "dang5",
+    "hanzi": "党",
+    "pinyin": "dang",
+    "tone": "dǎng",
+    "meaning": "political party, gang, faction",
+    "example": "A shared group keeps the practice warm. 共同的群体让练习温暖。",
+    "strokeHint": [
+      "radical: 儿",
+      "structure: ⿻尚兄",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A gathering under a bright sign — 党 means group or party."
+  },
+  {
+    "id": "hua4",
+    "hanzi": "华",
+    "pinyin": "hua",
+    "tone": "huá",
+    "meaning": "flowery / illustrious / Chinese",
+    "example": "A splendid light rises over the city. 华美的光在城市上升起。",
+    "strokeHint": [
+      "radical: 十",
+      "structure: ⿱化十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A flowering tree in full bloom — 华 means splendid."
+  },
+  {
+    "id": "cheng3",
+    "hanzi": "城",
+    "pinyin": "cheng",
+    "tone": "chéng",
+    "meaning": "castle, city, town / municipality",
+    "example": "The city keeps one lamp lit for you. 城市为你留着一盏灯。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿰土成",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Earth walls around a settlement — 城 means city."
+  },
+  {
+    "id": "shi15",
+    "hanzi": "石",
+    "pinyin": "shi",
+    "tone": "shí",
+    "meaning": "stone, rock, mineral",
+    "example": "A still stone marks the path forward. 一块静石标记前路。",
+    "strokeHint": [
+      "radical: 石",
+      "structure: ⿸厂口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stone under a cliff — 石 means stone."
+  },
+  {
+    "id": "ji14",
+    "hanzi": "级",
+    "pinyin": "ji",
+    "tone": "jí",
+    "meaning": "level, rank / class, grade",
+    "example": "Each new level is one more small win. 每一级都是又一个小胜利。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟及",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A step rising in rank — 级 means level."
+  },
+  {
+    "id": "zheng6",
+    "hanzi": "整",
+    "pinyin": "zheng",
+    "tone": "zhěng",
+    "meaning": "neat, orderly, whole / to repair, to mend",
+    "example": "Make the day whole with one finished lesson. 用完成的一课让今天完整。",
+    "strokeHint": [
+      "radical: 攵",
+      "structure: ⿱敕正",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A ruler making things orderly — 整 means whole."
+  },
+  {
+    "id": "fu3",
+    "hanzi": "府",
+    "pinyin": "fu",
+    "tone": "fǔ",
+    "meaning": "prefect / prefecture, government",
+    "example": "A quiet house holds the learning hour. 安静的房子容纳学习时光。",
+    "strokeHint": [
+      "radical: 广",
+      "structure: ⿸广付",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over a place of order — 府 means residence or office."
+  },
+  {
+    "id": "li7",
+    "hanzi": "离",
+    "pinyin": "li",
+    "tone": "lí",
+    "meaning": "rare beast / strange / elegant",
+    "example": "Step away from noise and study softly. 离开喧闹，安静学习。",
+    "strokeHint": [
+      "radical: 禸",
+      "structure: ⿱⿱亠凶禸",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bird leaving a branch — 离 means to leave."
+  },
+  {
+    "id": "kuang",
+    "hanzi": "况",
+    "pinyin": "kuang",
+    "tone": "kuàng",
+    "meaning": "condition, situation / furthermore",
+    "example": "What is the state of your streak today? 你今天连续打卡的情况如何？",
+    "strokeHint": [
+      "radical: 冫",
+      "structure: ⿰冫兄",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water marking a condition — 况 means situation."
+  },
+  {
+    "id": "ya",
+    "hanzi": "亚",
+    "pinyin": "ya",
+    "tone": "yà",
+    "meaning": "Asia / second",
+    "example": "The second step is also a real start. 第二步也是真正的开始。",
+    "strokeHint": [
+      "radical: 一",
+      "structure: ⿱一业",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A lower rank marked by a line — 亚 means second or Asia."
+  },
+  {
+    "id": "qing3",
+    "hanzi": "请",
+    "pinyin": "qing",
+    "tone": "qǐng",
+    "meaning": "to ask, to request / to invite / please",
+    "example": "Invite a friend to learn one word with you. 请一位朋友和你一起学一个字。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠青",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words spoken politely — 请 means please or to invite."
+  },
+  {
+    "id": "ji15",
+    "hanzi": "技",
+    "pinyin": "ji",
+    "tone": "jì",
+    "meaning": "ability, talent / skill, technique",
+    "example": "A small technique makes writing smoother. 小小的技巧让书写更顺。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌支",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand working with skill — 技 means skill."
+  },
+  {
+    "id": "ji16",
+    "hanzi": "际",
+    "pinyin": "ji",
+    "tone": "jì",
+    "meaning": "border, boundary, juncture",
+    "example": "At the edge of two days, a light remains. 在两天的交界处，光仍在。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰阝示",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A boundary between places — 际 means border or occasion."
+  },
+  {
+    "id": "yue5",
+    "hanzi": "约",
+    "pinyin": "yue",
+    "tone": "yuē",
+    "meaning": "treaty, covenant, agreement",
+    "example": "Make a gentle appointment with yourself. 与自己定下温柔的约定。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟勺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Threads binding an agreement — 约 means to arrange or about."
+  },
+  {
+    "id": "shi16",
+    "hanzi": "示",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "altar / ceremony / to show, to demonstrate",
+    "example": "Show the card to a friend and share the light. 把卡片给朋友看，分享光。",
+    "strokeHint": [
+      "radical: 示",
+      "structure: ⿱二小",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sign shown from above — 示 means to show."
+  },
+  {
+    "id": "fu4",
+    "hanzi": "复",
+    "pinyin": "fu",
+    "tone": "fù",
+    "meaning": "again, repeatedly / copy, duplicate / to restore, to return",
+    "example": "Repeat the word once and it settles. 重复一次这个字，它就安定。",
+    "strokeHint": [
+      "radical: 夊",
+      "structure: ⿱亻⿱日夂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A return path repeated — 复 means again or to recover."
+  },
+  {
+    "id": "bing3",
+    "hanzi": "病",
+    "pinyin": "bing",
+    "tone": "bìng",
+    "meaning": "sickness, illness, disease",
+    "example": "Rest the tired mind and the lesson returns. 让疲惫的心休息，学习会回来。",
+    "strokeHint": [
+      "radical: 疒",
+      "structure: ⿸疒丙",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bed marking sickness — 病 means illness."
+  },
+  {
+    "id": "xi4",
+    "hanzi": "息",
+    "pinyin": "xi",
+    "tone": "xī",
+    "meaning": "to end, to cease, to put a stop to / pause, breath, rest / news",
+    "example": "Pause and let the word breathe in. 停一下，让字呼吸进来。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱自心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A nose resting on the heart — 息 means breath or rest."
+  },
+  {
+    "id": "jiu3",
+    "hanzi": "究",
+    "pinyin": "jiu",
+    "tone": "jiū",
+    "meaning": "to dig into, to investigate / actually, after all",
+    "example": "Look closely and find the word’s root. 仔细探究，找到字的根。",
+    "strokeHint": [
+      "radical: 穴",
+      "structure: ⿱穴九",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand searching a deep hole — 究 means to investigate."
+  },
+  {
+    "id": "xian3",
+    "hanzi": "线",
+    "pinyin": "xian",
+    "tone": "xiàn",
+    "meaning": "line, thread, wire / clue, trail",
+    "example": "One thin line connects many small days. 一条细线连接许多小日子。",
+    "strokeHint": [
+      "radical: 纟",
+      "structure: ⿰纟戋",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A thread drawn along a path — 线 means line."
+  },
+  {
+    "id": "shi17",
+    "hanzi": "似",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "resembling, similar to / as if, to seem",
+    "example": "This word looks similar to one you know. 这个字与你认识的某个字相似。",
+    "strokeHint": [
+      "radical: 亻",
+      "structure: ⿰亻以",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person beside a likeness — 似 means similar."
+  },
+  {
+    "id": "guan4",
+    "hanzi": "官",
+    "pinyin": "guan",
+    "tone": "guān",
+    "meaning": "official, public servant",
+    "example": "A calm guide keeps the city in order. 沉静的官长让城市有序。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀㠯",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A roof over authority — 官 means official."
+  },
+  {
+    "id": "duan",
+    "hanzi": "断",
+    "pinyin": "duan",
+    "tone": "duàn",
+    "meaning": "to sever, to cut off, to interrupt",
+    "example": "Do not let one missed day cut the thread. 别让错过的一天断掉这条线。",
+    "strokeHint": [
+      "radical: 斤",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An axe cutting thread — 断 means to break."
+  },
+  {
+    "id": "jing5",
+    "hanzi": "精",
+    "pinyin": "jing",
+    "tone": "jīng",
+    "meaning": "essence, germ, spirit",
+    "example": "A refined focus makes the word sharp. 精纯的专注让字更清晰。",
+    "strokeHint": [
+      "radical: 米",
+      "structure: ⿰米青",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Rice cleaned to purity — 精 means essence or refined."
+  },
+  {
+    "id": "man",
+    "hanzi": "满",
+    "pinyin": "man",
+    "tone": "mǎn",
+    "meaning": "to fill / full, packed / satisfied",
+    "example": "The small cup of learning is full and warm. 学习的小杯已满而温暖。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵⿱艹两",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water filling a container — 满 means full."
+  },
+  {
+    "id": "zhi11",
+    "hanzi": "支",
+    "pinyin": "zhi",
+    "tone": "zhī",
+    "meaning": "to support, to sustain / to withdraw, to pay / a branch (of a bank)",
+    "example": "Support the habit with one steady hand. 用一只稳当的手支撑习惯。",
+    "strokeHint": [
+      "radical: 支",
+      "structure: ⿱十又",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand holding a branch — 支 means to support."
+  },
+  {
+    "id": "shi18",
+    "hanzi": "视",
+    "pinyin": "shi",
+    "tone": "shì",
+    "meaning": "to look at, to inspect, to observe, to regard",
+    "example": "Look at the word and truly see it. 看这个字，真正看见它。",
+    "strokeHint": [
+      "radical: 见",
+      "structure: ⿰礻见",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "An eye focusing on a sign — 视 means to look."
+  },
+  {
+    "id": "xiao3",
+    "hanzi": "消",
+    "pinyin": "xiao",
+    "tone": "xiāo",
+    "meaning": "news, rumors / to die out, to melt away, to vanish",
+    "example": "Let the worry disappear with one breath. 让担心随一次呼吸消失。",
+    "strokeHint": [
+      "radical: 氵",
+      "structure: ⿰氵肖",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water dissolving what fades — 消 means to disappear."
+  },
+  {
+    "id": "yue3",
+    "hanzi": "越",
+    "pinyin": "yue",
+    "tone": "yuè",
+    "meaning": "to exceed, to surpass, to transcend",
+    "example": "Cross over the hard part and continue. 越过难处，继续向前。",
+    "strokeHint": [
+      "radical: 走",
+      "structure: ⿺走戉",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A running step crossing over — 越 means to exceed."
+  },
+  {
+    "id": "qi7",
+    "hanzi": "器",
+    "pinyin": "qi",
+    "tone": "qì",
+    "meaning": "device, instrument, tool / receptacle, vessel",
+    "example": "A useful tool holds the practice steady. 有用的器具让练习稳定。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿳⿰口口犬⿰口口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Four mouths around a vessel — 器 means tool or vessel."
+  },
+  {
+    "id": "rong",
+    "hanzi": "容",
+    "pinyin": "rong",
+    "tone": "róng",
+    "meaning": "appearance, looks / form, figure / to contain, to hold",
+    "example": "Give the new word room to settle in. 给新字容身之处。",
+    "strokeHint": [
+      "radical: 宀",
+      "structure: ⿱宀谷",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A valley wide enough to hold — 容 means to contain."
+  },
+  {
+    "id": "zhao",
+    "hanzi": "照",
+    "pinyin": "zhao",
+    "tone": "zhào",
+    "meaning": "to shine, to reflect, to illuminate",
+    "example": "Shine a soft light on today’s character. 把柔光照在今天的字上。",
+    "strokeHint": [
+      "radical: 灬",
+      "structure: ⿱昭灬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Fire casting light over a clear space — 照 means to shine."
+  },
+  {
+    "id": "xu3",
+    "hanzi": "须",
+    "pinyin": "xu",
+    "tone": "xū",
+    "meaning": "beard / must / necessary",
+    "example": "What must stay is one quiet minute. 必须留下的是安静的一分钟。",
+    "strokeHint": [
+      "radical: 彡",
+      "structure: ⿰彡页",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A beard marking what is required — 须 means must."
+  },
+  {
+    "id": "zeng",
+    "hanzi": "增",
+    "pinyin": "zeng",
+    "tone": "zēng",
+    "meaning": "to increase / to expand / to augment / to add",
+    "example": "Add one more word to the growing light. 给增长的光再添一个字。",
+    "strokeHint": [
+      "radical: 土",
+      "structure: ⿰土曾",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Earth added higher and higher — 增 means to increase."
+  },
+  {
+    "id": "yan3",
+    "hanzi": "研",
+    "pinyin": "yan",
+    "tone": "yán",
+    "meaning": "to grind, to rub / to study, to research",
+    "example": "Grind the word slowly until it is smooth. 慢慢研磨这个字，直到顺滑。",
+    "strokeHint": [
+      "radical: 石",
+      "structure: ⿰石开",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A stone grinding to powder — 研 means to study or grind."
+  },
+  {
+    "id": "xie5",
+    "hanzi": "写",
+    "pinyin": "xie",
+    "tone": "xiě",
+    "meaning": "to write / to draw, to sketch / to compose",
+    "example": "Write the character once with care. 用心写一遍这个字。",
+    "strokeHint": [
+      "radical: 冖",
+      "structure: ⿱冖与",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand placing a writing mark — 写 means to write."
+  },
+  {
+    "id": "cheng4",
+    "hanzi": "称",
+    "pinyin": "cheng",
+    "tone": "chēng",
+    "meaning": "balanced / name, brand / to say, to call",
+    "example": "Call the word by its right name. 用正确的名字称这个字。",
+    "strokeHint": [
+      "radical: 禾",
+      "structure: ⿰禾尔",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand lifting to weigh a name — 称 means to call or weigh."
+  },
+  {
+    "id": "qi8",
+    "hanzi": "企",
+    "pinyin": "qi",
+    "tone": "qǐ",
+    "meaning": "to plan a project / to stand on tiptoe",
+    "example": "Stand on tiptoe and reach for the next word. 踮起脚去够下一个字。",
+    "strokeHint": [
+      "radical: 人",
+      "structure: ⿱人止",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A person rising on tiptoe — 企 means to aspire."
+  },
+  {
+    "id": "gong4",
+    "hanzi": "功",
+    "pinyin": "gong",
+    "tone": "gōng",
+    "meaning": "achievement, good work / merit / service",
+    "example": "One finished lesson is quiet merit. 完成一课是安静的功绩。",
+    "strokeHint": [
+      "radical: 力",
+      "structure: ⿰工力",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Work pressed into achievement — 功 means merit or effort."
+  },
+  {
+    "id": "ma5",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "tone": "ma",
+    "meaning": "final interrogative particle",
+    "example": "A soft question opens the next step. 一个轻声的“吗”打开下一步。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口马",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth asking a question — 吗 is a question particle."
+  },
+  {
+    "id": "bao3",
+    "hanzi": "包",
+    "pinyin": "bao",
+    "tone": "bāo",
+    "meaning": "wrap, pack, bundle / package",
+    "example": "Wrap the word in a small memory. 把这个字包进小小的记忆里。",
+    "strokeHint": [
+      "radical: 勹",
+      "structure: ⿹勹巳",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A wrapping around a child — 包 means to wrap."
+  },
+  {
+    "id": "pian",
+    "hanzi": "片",
+    "pinyin": "pian",
+    "tone": "piàn",
+    "meaning": "slice, splinter / page, strip",
+    "example": "A thin slice of time is enough. 一片薄薄的时间就够了。",
+    "strokeHint": [
+      "radical: 片",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A flat piece split from wood — 片 means slice."
+  },
+  {
+    "id": "shi19",
+    "hanzi": "史",
+    "pinyin": "shi",
+    "tone": "shǐ",
+    "meaning": "history, chronicle, annals",
+    "example": "A small record becomes your learning story. 一小段记录成为你的学习史。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿻口乂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand writing the past — 史 means history."
+  },
+  {
+    "id": "wei4",
+    "hanzi": "委",
+    "pinyin": "wei",
+    "tone": "wěi",
+    "meaning": "to appoint, to commission, to send",
+    "example": "Trust the small task to your future self. 把小事委给未来的自己。",
+    "strokeHint": [
+      "radical: 女",
+      "structure: ⿱禾女",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A plant bending with trust — 委 means to entrust."
+  },
+  {
+    "id": "hu",
+    "hanzi": "乎",
+    "pinyin": "hu",
+    "tone": "hū",
+    "meaning": "interrogative or exclamatory final particle",
+    "example": "A gentle tone keeps the question open. 轻柔的语气让问题保持开放。",
+    "strokeHint": [
+      "radical: 丿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A breath of a question — 乎 is a classical particle."
+  },
+  {
+    "id": "cha",
+    "hanzi": "查",
+    "pinyin": "cha",
+    "tone": "chá",
+    "meaning": "to investigate, to examine, to look into",
+    "example": "Check the card once more before finishing. 完成前再查一次卡片。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿱木旦",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree examined for detail — 查 means to check."
+  },
+  {
+    "id": "qing4",
+    "hanzi": "轻",
+    "pinyin": "qing",
+    "tone": "qīng",
+    "meaning": "light, gentle / simple, easy",
+    "example": "A light step makes the habit easy. 轻快的步子让习惯容易。",
+    "strokeHint": [
+      "radical: 车",
+      "structure: ⿰车⿱又工",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A cart moving lightly — 轻 means light."
+  },
+  {
+    "id": "yi8",
+    "hanzi": "易",
+    "pinyin": "yi",
+    "tone": "yì",
+    "meaning": "to change / to exchange, to trade / simple, easy",
+    "example": "An easy word still deserves full attention. 容易的字也值得全神贯注。",
+    "strokeHint": [
+      "radical: 日",
+      "structure: ⿱日勿",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A sun changing easily — 易 means easy or change."
+  },
+  {
+    "id": "zao5",
+    "hanzi": "早",
+    "pinyin": "zao",
+    "tone": "zǎo",
+    "meaning": "early / soon / morning",
+    "example": "Start early and the city lights with you. 早些开始，城市与你一起点亮。",
+    "strokeHint": [
+      "radical: 日",
+      "structure: ⿱日十",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "The sun rising early — 早 means early."
+  },
+  {
+    "id": "ceng",
+    "hanzi": "曾",
+    "pinyin": "ceng",
+    "tone": "céng",
+    "meaning": "already, formerly, once / the past",
+    "example": "You once learned this shape; meet it again. 你曾学过这个形状，再会它一次。",
+    "strokeHint": [
+      "radical: 曰",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A past layer under the roof — 曾 means once."
+  },
+  {
+    "id": "chu3",
+    "hanzi": "除",
+    "pinyin": "chu",
+    "tone": "chú",
+    "meaning": "to eliminate, to remove, to wipe out",
+    "example": "Clear the desk and keep one word only. 清除桌面，只留一个字。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰阝余",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A step removing the old — 除 means to remove."
+  },
+  {
+    "id": "nong",
+    "hanzi": "农",
+    "pinyin": "nong",
+    "tone": "nóng",
+    "meaning": "agriculture, farming / farmer",
+    "example": "A patient farmer tends one small field. 耐心的农人照料一小片田。",
+    "strokeHint": [
+      "radical: 冖",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A field worked by hand — 农 means farming."
+  },
+  {
+    "id": "zhao5",
+    "hanzi": "找",
+    "pinyin": "zhao",
+    "tone": "zhǎo",
+    "meaning": "to search for, to look for, to find / change (as in money)",
+    "example": "Look for the word hidden in the sentence. 在句子里寻找藏着的字。",
+    "strokeHint": [
+      "radical: 扌",
+      "structure: ⿰扌戈",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hand searching with a spear — 找 means to look for."
+  },
+  {
+    "id": "zhuang",
+    "hanzi": "装",
+    "pinyin": "zhuang",
+    "tone": "zhuāng",
+    "meaning": "dress, clothes, attire / to wear, to install",
+    "example": "Dress the word in a clear picture. 给这个字穿上一幅清晰的画面。",
+    "strokeHint": [
+      "radical: 衣",
+      "structure: ⿱壮衣",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A garment packed for use — 装 means to load or dress."
+  },
+  {
+    "id": "guang5",
+    "hanzi": "广",
+    "pinyin": "guang",
+    "tone": "guǎng",
+    "meaning": "broad, vast, wide / building, house",
+    "example": "A wide space lets the meaning breathe. 广阔的空间让意义呼吸。",
+    "strokeHint": [
+      "radical: 广",
+      "structure: ⿱丶厂",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A wide shelter under a roof — 广 means wide."
+  },
+  {
+    "id": "xian4",
+    "hanzi": "显",
+    "pinyin": "xian",
+    "tone": "xiǎn",
+    "meaning": "clear, evident / prominent / to show",
+    "example": "The meaning becomes visible with practice. 意义随着练习变得显明。",
+    "strokeHint": [
+      "radical: 日",
+      "structure: ⿱日业",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Sunlight making a shape visible — 显 means to show clearly."
+  },
+  {
+    "id": "ba3",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "tone": "bā",
+    "meaning": "emphatic final particle",
+    "example": "A soft “ba” invites a gentle choice. 一个轻柔的“吧”邀请温和的选择。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口巴",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth offering a suggestion — 吧 is a suggestion particle."
+  },
+  {
+    "id": "a",
+    "hanzi": "阿",
+    "pinyin": "a",
+    "tone": "ā",
+    "meaning": "an initial particle, a prefix used for names / used in transliterations",
+    "example": "A familiar prefix makes the word feel close. 熟悉的前缀让字更亲近。",
+    "strokeHint": [
+      "radical: 阝",
+      "structure: ⿰阝可",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A hillside near home — 阿 is a familiar prefix."
+  },
+  {
+    "id": "li8",
+    "hanzi": "李",
+    "pinyin": "li",
+    "tone": "lǐ",
+    "meaning": "plum / luggage / surname",
+    "example": "A plum tree remembers each small season. 李树记得每个小小的季节。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿱木子",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree bearing plums — 李 means plum."
+  },
+  {
+    "id": "biao5",
+    "hanzi": "标",
+    "pinyin": "biao",
+    "tone": "biāo",
+    "meaning": "mark, sign, symbol / bid, prize",
+    "example": "Mark the character so you can find it again. 给这个字做标记，好再找到它。",
+    "strokeHint": [
+      "radical: 木",
+      "structure: ⿰木示",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A tree used as a visible mark — 标 means mark or standard."
+  },
+  {
+    "id": "tan",
+    "hanzi": "谈",
+    "pinyin": "tan",
+    "tone": "tán",
+    "meaning": "to talk, to chat / conversation / surname",
+    "example": "Talk about the word and it becomes alive. 谈一谈这个字，它就活起来。",
+    "strokeHint": [
+      "radical: 讠",
+      "structure: ⿰讠炎",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Words exchanged in warmth — 谈 means to talk."
+  },
+  {
+    "id": "chi5",
+    "hanzi": "吃",
+    "pinyin": "chi",
+    "tone": "chī",
+    "meaning": "to eat / to drink / to suffer, to endure, to bear",
+    "example": "A small bite of language is still progress. 小小一口语言也是进步。",
+    "strokeHint": [
+      "radical: 口",
+      "structure: ⿰口乞",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A mouth eating a small morsel — 吃 means to eat."
+  },
+  {
+    "id": "tu",
+    "hanzi": "图",
+    "pinyin": "tu",
+    "tone": "tú",
+    "meaning": "diagram, chart, map, picture / to plan",
+    "example": "Draw a simple map of the word’s meaning. 为字义画一张简单的地图。",
+    "strokeHint": [
+      "radical: 囗",
+      "structure: ⿴囗冬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A picture planned in a frame — 图 means diagram."
+  },
+  {
+    "id": "nian5",
+    "hanzi": "念",
+    "pinyin": "nian",
+    "tone": "niàn",
+    "meaning": "to think of, to recall / to study",
+    "example": "Read the word aloud and let it echo. 大声念出这个字，让它回响。",
+    "strokeHint": [
+      "radical: 心",
+      "structure: ⿱今心",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A heart keeping the sound in mind — 念 means to read or miss."
+  },
+  {
+    "id": "yin5",
+    "hanzi": "引",
+    "pinyin": "yin",
+    "tone": "yǐn",
+    "meaning": "to pull, to stretch / to draw / to attract",
+    "example": "Pull the old memory toward the new word. 把旧记忆引向新字。",
+    "strokeHint": [
+      "radical: 弓",
+      "structure: ⿰弓丨",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A bow drawing back — 引 means to draw or lead."
+  },
+  {
+    "id": "li9",
+    "hanzi": "历",
+    "pinyin": "li",
+    "tone": "lì",
+    "meaning": "history / calendar",
+    "example": "Pass through each day and keep the record. 经历每一天，留下记录。",
+    "strokeHint": [
+      "radical: 厂",
+      "structure: ⿸厂力",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A path passing through time — 历 means to experience or calendar."
+  },
+  {
+    "id": "shou4",
+    "hanzi": "首",
+    "pinyin": "shou",
+    "tone": "shǒu",
+    "meaning": "chief, head, leader",
+    "example": "The first word of the day leads them all. 一天的第一个字带领所有字。",
+    "strokeHint": [
+      "radical: 首",
+      "structure: ⿱丷自",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A head with hair at the top — 首 means head or first."
+  },
+  {
+    "id": "yi9",
+    "hanzi": "医",
+    "pinyin": "yi",
+    "tone": "yī",
+    "meaning": "to cure, to heal, to treat / doctor / medicine",
+    "example": "A quiet cure for a tired mind is one word. 治愈疲惫心灵的是安静的一个字。",
+    "strokeHint": [
+      "radical: 匸",
+      "structure: ⿷匸矢",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A shelter holding healing tools — 医 means medicine."
+  },
+  {
+    "id": "ju3",
+    "hanzi": "局",
+    "pinyin": "ju",
+    "tone": "jú",
+    "meaning": "bureau, office / circumstance, game, situation",
+    "example": "Set a small boundary for today’s lesson. 为今天的学习设一个小局。",
+    "strokeHint": [
+      "radical: 尸",
+      "structure: ⿵尺口",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A closed space marking a situation — 局 means bureau or situation."
+  },
+  {
+    "id": "tu5",
+    "hanzi": "突",
+    "pinyin": "tu",
+    "tone": "tū",
+    "meaning": "sudden, abrupt, unexpected",
+    "example": "A sudden insight makes the word clear. 突然的领悟让字变清晰。",
+    "strokeHint": [
+      "radical: 穴",
+      "structure: ⿱穴犬",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "A dog bursting from a cave — 突 means sudden."
+  },
+  {
+    "id": "tai2",
+    "hanzi": "泰",
+    "pinyin": "tai",
+    "tone": "tài",
+    "meaning": "great, exalted / calm / safe / peaceful",
+    "example": "A calm, peaceful day makes learning feel light. 平和的一天让学习很轻松。",
+    "strokeHint": [
+      "radical: 氺",
+      "structure: ⿱？氺",
+      "write left-to-right, top-to-bottom"
+    ],
+    "mnemonic": "Water held by a dam — 泰 means calm and great peace."
+  }
+]

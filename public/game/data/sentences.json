@@ -1,0 +1,9 @@
+[
+  {"id":"sentence-study","text":"好友学中文","meaning":"Friends learn Chinese","required":["hao","you","xue","zhong","wen"]},
+  {"id":"sentence-light","text":"日月同光","meaning":"Sun and moon share one light","required":["ri","yue","tong","guang"]},
+  {"id":"sentence-calm","text":"山水平安","meaning":"Mountains and water feel peaceful","required":["shan","shui","ping","an"]},
+  {"id":"sentence-small","text":"大小有光","meaning":"Big and small both have light","required":["da","xiao","you3","guang"]},
+  {"id":"sentence-heart","text":"人心有火","meaning":"The human heart has a spark","required":["ren","xin","you3","huo"]},
+  {"id":"sentence-day","text":"一天一月","meaning":"One day, one month","required":["yi","tian","yue"]},
+  {"id":"sentence-country","text":"国家平安","meaning":"The country is peaceful","required":["guo","jia","ping","an"]}
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word-zhongwen",
+    "text": "中文",
+    "meaning": "Chinese language",
+    "required": [
+      "zhong",
+      "wen"
+    ]
+  },
+  {
+    "id": "word-haoyou",
+    "text": "好友",
+    "meaning": "good friends",
+    "required": [
+      "hao",
+      "you"
+    ]
+  },
+  {
+    "id": "word-shanshui",
+    "text": "山水",
+    "meaning": "mountains and water",
+    "required": [
+      "shan",
+      "shui"
+    ]
+  },
+  {
+    "id": "word-tongxue",
+    "text": "同学",
+    "meaning": "classmate",
+    "required": [
+      "tong",
+      "xue"
+    ]
+  },
+  {
+    "id": "word-tianxia",
+    "text": "天下",
+    "meaning": "under heaven / the world",
+    "required": [
+      "tian",
+      "xia"
+    ]
+  },
+  {
+    "id": "word-pingan",
+    "text": "平安",
+    "meaning": "peace and safety",
+    "required": [
+      "ping",
+      "an"
+    ]
+  },
+  {
+    "id": "word-renren",
+    "text": "人人",
+    "meaning": "everyone",
+    "required": [
+      "ren"
+    ]
+  },
+  {
+    "id": "word-daren",
+    "text": "大人",
+    "meaning": "adult",
+    "required": [
+      "da",
+      "ren"
+    ]
+  },
+  {
+    "id": "word-xiaotian",
+    "text": "小天使",
+    "meaning": "little angel",
+    "required": [
+      "xiao",
+      "tian",
+      "shi6"
+    ]
+  },
+  {
+    "id": "word-heping",
+    "text": "和平",
+    "meaning": "peace",
+    "required": [
+      "he2",
+      "ping"
+    ]
+  },
+  {
+    "id": "word-youren",
+    "text": "友人",
+    "meaning": "friend",
+    "required": [
+      "you",
+      "ren"
+    ]
+  },
+  {
+    "id": "word-meili",
+    "text": "美丽",
+    "meaning": "beautiful",
+    "required": [
+      "mei",
+      "li2"
+    ]
+  },
+  {
+    "id": "word-guojia",
+    "text": "国家",
+    "meaning": "country",
+    "required": [
+      "guo",
+      "jia"
+    ]
+  },
+  {
+    "id": "word-senlin",
+    "text": "森林",
+    "meaning": "forest",
+    "required": [
+      "sen",
+      "lin"
+    ]
+  },
+  {
+    "id": "word-shangxia",
+    "text": "上下",
+    "meaning": "up and down",
+    "required": [
+      "shang",
+      "xia"
+    ]
+  },
+  {
+    "id": "word-daxiao",
+    "text": "大小",
+    "meaning": "big and small / size",
+    "required": [
+      "da",
+      "xiao"
+    ]
+  },
+  {
+    "id": "word-huo",
+    "text": "火花",
+    "meaning": "spark",
+    "required": [
+      "huo",
+      "hua3"
+    ]
+  }
+]

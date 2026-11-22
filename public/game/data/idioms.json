@@ -1,0 +1,57 @@
+[
+  {
+    "id": "idiom-world",
+    "text": "天下太平",
+    "meaning": "peace across the world",
+    "required": [
+      "tian",
+      "xia",
+      "tai",
+      "ping"
+    ]
+  },
+  {
+    "id": "idiom-light",
+    "text": "光明正大",
+    "meaning": "open and upright",
+    "required": [
+      "guang",
+      "ming",
+      "zheng",
+      "da"
+    ]
+  },
+  {
+    "id": "idiom-water",
+    "text": "山高水长",
+    "meaning": "deep and enduring",
+    "required": [
+      "shan",
+      "gao",
+      "shui",
+      "zhang"
+    ]
+  },
+  {
+    "id": "idiom-heart",
+    "text": "心安理得",
+    "meaning": "at peace with oneself",
+    "required": [
+      "xin",
+      "an",
+      "li3",
+      "de3"
+    ]
+  },
+  {
+    "id": "idiom-country",
+    "text": "国泰民安",
+    "meaning": "the country is prosperous and people at peace",
+    "required": [
+      "guo",
+      "tai2",
+      "min",
+      "an"
+    ]
+  }
+]

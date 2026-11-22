@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>One Day One Character | hanzi.qisoul.com</title>
+    <meta
+      name="description"
+      content="Learn one Chinese character a day. A soft, minimal hanzi learning game for global learners."
+    />
+    <meta
+      name="keywords"
+      content="hanzi, Chinese learning game, daily Chinese character, learn Chinese, One Day One Character, QiSoul"
+    />
+    <meta name="theme-color" content="#f4c95d" />
+    <link rel="icon" href="./favicon.ico" sizes="64x64" />
+    <link rel="canonical" href="https://hanzi.qisoul.com/game/" />
+    <meta property="og:title" content="One Day One Character" />
+    <meta
+      property="og:description"
+      content="Learn one Chinese character a day. Light up your city in one calm minute."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://hanzi.qisoul.com/game/" />
+    <meta property="og:site_name" content="QiSoul Hanzi" />
+    <meta property="og:image" content="https://hanzi.qisoul.com/game/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://hanzi.qisoul.com/game/og-image.png" />
+    <meta name="twitter:title" content="One Day One Character" />
+    <meta
+      name="twitter:description"
+      content="A minimal hanzi learning game for global learners."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&family=Noto+Serif+SC:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="site">
+      <header class="masthead">
+        <div class="brand-row">
+          <div class="brand-lockup">
+            <span class="brand-mark">一</span>
+            <div>
+              <p class="eyebrow">hanzi.qisoul.com</p>
+              <h1>One Day One Character</h1>
+            </div>
+          </div>
+          <div class="brand-actions">
+          <a class="ghost-button" href="./privacy.html">Privacy</a>
+          <a class="ghost-button" href="/">HanziFlow 练字</a>
+            <span class="brand-tag">by QiSoul</span>
+          </div>
+        </div>
+
+        <div class="hero-copy">
+          <p class="hero-kicker">Learn one Chinese character a day</p>
+          <h2>No pressure. One useful hanzi, one minute, one warm glow.</h2>
+          <p class="hero-text">
+            This version is intentionally minimal: learn today&apos;s character,
+            finish one check-in, and see your city light up. Everything else
+            stays secondary.
+          </p>
+        </div>
+
+        <div class="demo-toolbar" aria-label="Demo profile switcher">
+          <span class="toolbar-label">Demo profiles</span>
+          <button class="profile-pill active" data-profile="starter">
+            New Learner
+          </button>
+          <button class="profile-pill" data-profile="traveler">
+            Returning
+          </button>
+          <button class="profile-pill" data-profile="collector">
+            100+ Lights
+          </button>
+          <button class="ghost-button" id="reset-progress">Reset</button>
+          <span class="status-chip library-chip" id="library-status">
+            Loading library…
+          </span>
+        </div>
+      </header>
+
+      <main class="minimal-main">
+        <!-- 首屏核心：只保留今日一字与单一主路径 -->
+        <section class="focus-card" id="daily-card">
+          <div class="focus-card-head">
+            <div>
+              <p class="eyebrow">Today</p>
+              <h3>Today&apos;s character</h3>
+            </div>
+            <span class="status-chip" id="daily-status">Not checked in yet</span>
+          </div>
+
+          <div class="focus-grid">
+            <div class="character-stage">
+              <div class="character-lamp" id="character-lamp">
+                <span class="hanzi" id="character-symbol">字</span>
+              </div>
+            </div>
+
+            <div class="focus-content">
+              <div class="meaning-block">
+                <p class="romanization" id="character-pinyin">zi</p>
+                <p class="tone-line" id="character-tone">zì</p>
+                <h4 id="character-meaning">character</h4>
+                <p class="example-line" id="character-example">
+                  This is a character.
+                </p>
+                <p class="mnemonic-line" id="character-mnemonic">
+                  A short visual hint helps the character stick.
+                </p>
+              </div>
+
+              <div class="micro-grid">
+                <div class="micro-card">
+                  <span class="micro-label">Today unlock</span>
+                  <strong id="hero-character">字</strong>
+                  <span id="hero-meaning">character</span>
+                </div>
+                <div class="micro-card">
+                  <span class="micro-label">Your city</span>
+                  <strong id="hero-city">Los Angeles</strong>
+                  <span id="city-region">North America</span>
+                </div>
+                <div class="micro-card">
+                  <span class="micro-label">Progress</span>
+                  <strong id="hero-total">0 / 2000</strong>
+                  <span>character lights</span>
+                </div>
+              </div>
+
+              <div class="stroke-card">
+                <span class="micro-label">Stroke hint</span>
+                <ol id="stroke-steps" class="stroke-list"></ol>
+              </div>
+
+              <div class="review-trainer is-hidden" id="review-trainer">
+                <div class="feedback-head trainer-head">
+                  <div>
+                    <p class="eyebrow">One-minute lesson</p>
+                    <h4>Hold the sound, catch the meaning</h4>
+                  </div>
+                  <span class="status-chip" id="trainer-status">Listen and choose</span>
+                </div>
+
+                <div class="listen-row">
+                  <button class="listen-button" id="listen-button">🔊</button>
+                  <div class="listen-copy">
+                    <strong id="lesson-target">汉字</strong>
+                    <span id="lesson-prompt">Which meaning matches this character?</span>
+                  </div>
+                </div>
+
+                <div class="answer-pool" id="answer-pool"></div>
+              </div>
+
+              <div class="lesson-actions">
+                <button class="primary-button" id="start-learning">
+                  Learn today&apos;s character
+                </button>
+                <a
+                  class="secondary-button is-hidden"
+                  id="practice-writing"
+                  href="#"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  Practice writing
+                </a>
+                <button class="ghost-button is-hidden" id="exit-learning">
+                  Close lesson
+                </button>
+                <button class="secondary-button" id="complete-checkin">
+                  Finish and light my city
+                </button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 轻量反馈：打卡后立刻看到地图和成长，不强迫用户处理更多信息 -->
+        <section class="feedback-strip">
+          <article class="feedback-card map-card">
+            <div class="feedback-head">
+              <div>
+                <p class="eyebrow">City Glow</p>
+                <h3>Same character, same glow</h3>
+              </div>
+              <span class="status-chip accent" id="map-summary">
+                0 cities lighting up today
+              </span>
+            </div>
+
+            <div class="mini-map-stage">
+              <svg
+                class="world-map"
+                viewBox="0 0 1000 520"
+                role="img"
+                aria-label="Stylized world map"
+              >
+                <path
+                  d="M87 140C132 108 189 89 247 96C271 99 284 118 298 130C322 151 357 152 391 159C402 162 409 170 403 181C392 201 358 206 338 217C308 234 304 260 292 286C284 304 261 315 235 316C181 318 123 293 98 247C85 223 61 206 53 182C47 165 60 151 87 140Z"
+                />
+                <path
+                  d="M404 107C442 90 483 93 517 113C537 126 549 147 567 161C592 179 629 185 656 203C677 217 685 244 675 266C661 297 628 311 604 329C576 350 555 382 518 393C475 405 431 387 403 356C377 326 361 287 362 248C362 214 374 178 404 107Z"
+                />
+                <path
+                  d="M718 137C760 118 809 124 847 149C881 171 923 208 913 248C904 284 863 310 829 328C797 345 764 379 724 374C690 370 682 326 673 299C660 257 641 207 669 172C681 158 699 147 718 137Z"
+                />
+                <path
+                  d="M799 389C821 370 858 362 886 373C905 380 928 398 927 419C926 441 907 461 887 470C864 481 833 480 814 464C793 447 782 408 799 389Z"
+                />
+              </svg>
+              <div id="map-points" class="map-points" aria-live="polite"></div>
+            </div>
+
+            <div class="map-caption">
+              <span class="color-chip" id="today-color"></span>
+              <p id="color-caption">Warm amber shared by today&apos;s learners</p>
+            </div>
+            <ul id="city-feed-list" class="city-feed-list"></ul>
+          </article>
+
+          <article class="feedback-card compact-card">
+            <div class="feedback-head">
+              <div>
+                <p class="eyebrow">Growth</p>
+                <h3>Slow collection, long retention</h3>
+              </div>
+              <button class="ghost-button" id="toggle-details">
+                Open deeper progress
+              </button>
+            </div>
+            <div class="ladder" id="ladder-progress"></div>
+            <div class="share-block" id="share-block">
+              <p class="micro-label">Share your glow</p>
+              <button class="ghost-button" id="share-card">
+                Share today's card
+              </button>
+              <button class="ghost-button" id="copy-invite">
+                Copy invite link
+              </button>
+              <div class="invite-note is-hidden" id="invite-note">
+                <span class="invite-emoji">✨</span>
+                <p id="invite-status">Your invite link is ready.</p>
+              </div>
+              <div class="circle-block" id="circle-block">
+                <div class="circle-head">
+                  <span class="micro-label">Study circle</span>
+                  <span class="status-chip" id="circle-count">0 joined</span>
+                </div>
+                <ul id="circle-list" class="circle-list"></ul>
+                <p class="share-note" id="circle-summary">
+                  Copy an invite to start a small circle.
+                </p>
+              </div>
+              <p class="share-note" id="share-note">
+                Share a calm, minimal card. No WeChat needed.
+              </p>
+            </div>
+          </article>
+        </section>
+
+        <!-- 深层内容折叠：避免首屏认知负担 -->
+        <section class="details-stage is-collapsed" id="details-stage">
+          <div class="details-grid">
+            <article class="detail-card">
+              <div class="feedback-head">
+                <div>
+                  <p class="eyebrow">Collection</p>
+                  <h3>What you have lit</h3>
+                </div>
+                <span class="status-chip" id="collection-summary">0 items lit</span>
+              </div>
+              <div id="character-grid" class="character-grid"></div>
+              <div class="unlock-stack">
+                <div id="word-grid" class="unlock-grid"></div>
+                <div id="sentence-grid" class="unlock-grid"></div>
+                <div id="idiom-grid" class="unlock-grid"></div>
+              </div>
+            </article>
+
+            <article class="detail-card">
+              <div class="feedback-head">
+                <div>
+                  <p class="eyebrow">Leaderboard</p>
+                  <h3>Light progress by place and people</h3>
+                </div>
+              </div>
+              <div class="leaderboards">
+                <div class="leaderboard-card">
+                  <span class="micro-label">City</span>
+                  <ol id="city-board"></ol>
+                </div>
+                <div class="leaderboard-card">
+                  <span class="micro-label">Global</span>
+                  <ol id="global-board"></ol>
+                </div>
+                <div class="leaderboard-card">
+                  <span class="micro-label">Friends</span>
+                  <ol id="friends-board"></ol>
+                </div>
+              </div>
+            </article>
+
+            <article class="detail-card">
+              <div class="feedback-head">
+                <div>
+                  <p class="eyebrow">Future Layer</p>
+                  <h3>Sentence studio and calligraphy</h3>
+                </div>
+                <span class="status-chip" id="sentence-lock-status">Locked</span>
+              </div>
+              <div class="sentence-preview">
+                <div class="preview-card" id="sentence-preview">
+                  Collect 100 characters to build your own Chinese sentence.
+                </div>
+                <div id="builder-pool" class="builder-pool"></div>
+                <div class="sentence-controls">
+                  <button class="ghost-button" id="clear-sentence">
+                    Clear sentence
+                  </button>
+                  <a class="link-button" href="#details-stage">Course entry</a>
+                  <button class="ghost-button" id="video-api-note">
+                    Video API
+                  </button>
+                </div>
+              </div>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

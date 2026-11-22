@@ -1,0 +1,11 @@
+[
+  {"code":"la","name":"Los Angeles","region":"North America","x":15,"y":47},
+  {"code":"seattle","name":"Seattle","region":"North America","x":13,"y":34},
+  {"code":"toronto","name":"Toronto","region":"North America","x":19,"y":30},
+  {"code":"london","name":"London","region":"Europe","x":46,"y":29},
+  {"code":"paris","name":"Paris","region":"Europe","x":48,"y":33},
+  {"code":"berlin","name":"Berlin","region":"Europe","x":51,"y":30},
+  {"code":"dubai","name":"Dubai","region":"Middle East","x":64,"y":43},
+  {"code":"singapore","name":"Singapore","region":"Asia","x":77,"y":63},
+  {"code":"sydney","name":"Sydney","region":"Oceania","x":88,"y":82}
+]

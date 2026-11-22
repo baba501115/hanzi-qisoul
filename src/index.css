@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #f4efe4;
+  --paper-2: #ece3d2;
+  --paper-3: #e2d7c2;
+  --ink: #1c1a17;
+  --ink-soft: #3a4a52;
+  --ash: #8a8578;
+  --cinnabar: #b23a2e;
+  --gold: #c9a227;
+  --jade: #4a6b52;
+
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Sans", "Noto Sans Thai", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--ink);
+  background-color: var(--paper);
+  /* 宣纸底：柔和径向渐变 + 细腻噪点 */
+  background-image:
+    radial-gradient(120% 90% at 12% 0%, rgba(201, 162, 39, 0.09), transparent 55%),
+    radial-gradient(120% 80% at 100% 100%, rgba(58, 74, 82, 0.08), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* 纸张噪点与纤维纹理叠加层 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/></filter><rect width='160' height='160' filter='url(%23n)' opacity='0.16'/></svg>");
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+}
+
+::selection {
+  background: rgba(178, 58, 46, 0.22);
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(28, 26, 23, 0.2);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(28, 26, 23, 0.35);
+  background-clip: content-box;
+}
+
+@layer components {
+  /* 纸卡 */
+  .card-paper {
+    @apply relative rounded-card border border-black/10 bg-[#faf6ee]/85 shadow-paper backdrop-blur-[2px];
+  }
+  .card-paper::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  }
+
+  /* 细描边（慧纹感） */
+  .hairline {
+    @apply border border-dashed border-black/15;
+  }
+
+  /* 按钮 */
+  .btn {
+    @apply inline-flex select-none items-center justify-center gap-2 rounded-full px-4 py-2 text-sm font-medium
+      transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar/50
+      disabled:cursor-not-allowed disabled:opacity-45;
+  }
+  .btn-primary {
+    @apply btn bg-cinnabar text-paper shadow-seal hover:-translate-y-px hover:bg-cinnabar-deep active:translate-y-0;
+  }
+  .btn-ink {
+    @apply btn bg-ink text-paper hover:-translate-y-px hover:bg-ink-soft active:translate-y-0;
+  }
+  .btn-ghost {
+    @apply btn border border-black/15 bg-transparent text-ink hover:border-black/30 hover:bg-black/[0.04];
+  }
+
+  .seal-btn {
+    @apply grid h-9 w-9 place-items-center rounded-full border border-cinnabar/40 text-cinnabar
+      transition-colors hover:bg-cinnabar/10;
+  }
+
+  /* 胶囊标签 */
+  .pill {
+    @apply inline-flex items-center gap-1.5 rounded-full border border-black/10 bg-white/60 px-2.5 py-1 text-xs font-medium text-ink-soft;
+  }
+
+  /* 朱砂印章 */
+  .seal {
+    @apply grid place-items-center rounded-md bg-cinnabar font-hanzi font-black text-paper shadow-seal;
+    transform: rotate(-3deg);
+  }
+
+  /* 竹简分隔线 */
+  .divider-bamboo {
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgba(28, 26, 23, 0.22), transparent);
+  }
+
+  .section-title {
+    @apply font-display text-lg font-600 tracking-tight text-ink;
+  }
+}
+
+@layer utilities {
+  .font-600 {
+    font-weight: 600;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
