@@ -12,10 +12,6 @@ dist
 dist-ssr
 *.local
 
-# 本项目不是 monorepo；此文件是新版 pnpm 自动生成的构建审批模板，
-# 提交它会导致 Cloudflare(pnpm 9) 报 "packages field missing or empty"
-pnpm-workspace.yaml
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
